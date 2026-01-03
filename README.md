@@ -2,9 +2,7 @@
 
 Un mapa interactivo que muestra el tiempo actualizado en cada municipio de la Comunidad de Madrid, ayudándote a decidir si es buen momento para actividades al aire libre.
 
-[![Actualización automática](https://github.com/TU-USUARIO/NOMBRE-REPO/actions/workflows/update-weather.yml/badge.svg)](https://github.com/TU-USUARIO/NOMBRE-REPO/actions/workflows/update-weather.yml)
-
-> **Nota**: Reemplaza `TU-USUARIO` y `NOMBRE-REPO` con tu información real de GitHub
+[![Actualización automática](https://github.com/TrueRomanZe/madrid-weather-map/actions/workflows/update-weather.yml/badge.svg)](https://github.com/TrueRomanZe/madrid-weather-map/actions/workflows/update-weather.yml)
 
 ## 🎯 ¿Qué hace este proyecto?
 
@@ -31,7 +29,7 @@ El sistema analiza múltiples variables meteorológicas (temperatura, sensación
 
 ## 🚀 Ver el proyecto en vivo
 
-Visita: [https://TU-USUARIO.github.io/NOMBRE-REPO](https://TU-USUARIO.github.io/NOMBRE-REPO)
+Visita: [https://TrueromanZe.github.io/madrid-weather-map](https://TrueRomanZe.github.io/madrid-weather-map)
 
 *(Reemplaza con tu URL real una vez publicado el proyecto en GitHub Pages)*
 
@@ -286,7 +284,7 @@ Si tienes preguntas, sugerencias o encuentras algún problema:
 
 - **Issues**: Abre un issue en este repositorio para reportar bugs o sugerir mejoras
 - **Discusiones**: Usa la pestaña "Discussions" para preguntas generales o ideas
-- **Email**: [tu-email@ejemplo.com] (opcional)
+- **Email**: s.romera92@gmail.com
 
 ## 🙏 Agradecimientos
 
