@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Madrid Weather Map - ¿Hace buen tiempo hoy?</title>
+    <meta name="description" content="Consulta el tiempo en cada municipio de la Comunidad de Madrid y descubre si es buen día para actividades al aire libre">
+    
+    <!-- Leaflet CSS para el mapa interactivo -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css" />
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        /* Encabezado */
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+            animation: fadeInDown 0.8s ease;
+        }
+
+        .header h1 {
+            font-size: clamp(1.8rem, 5vw, 3rem);
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: clamp(1rem, 2vw, 1.2rem);
+            opacity: 0.95;
+        }
+
+        /* Buscador */
+        .search-container {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            animation: fadeInUp 0.8s ease;
+        }
+
+        .search-box {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .search-input {
+            flex: 1;
+            min-width: 200px;
+            padding: 15px 20px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: all 0.3s;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .search-button {
+            padding: 15px 30px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .search-button:hover {
+            transform: translateY(-2px);
+        }
+
+        .search-button:active {
+            transform: translateY(0);
+        }
+
+        /* Contenedor principal con mapa e info */
+        .main-content {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 20px;
+            animation: fadeIn 1s ease;
+        }
+
+        @media (min-width: 968px) {
+            .main-content {
+                grid-template-columns: 1fr 350px;
+            }
+        }
+
+        /* Mapa */
+        .map-container {
+            background: white;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            height: 600px;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Panel lateral de información */
+        .info-panel {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            max-height: 600px;
+            overflow-y: auto;
+        }
+
+        .info-panel h2 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        .info-panel p {
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        /* Leyenda */
+        .legend {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+
+        .legend h3 {
+            font-size: 1.1rem;
+            margin-bottom: 12px;
+            color: #333;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+            gap: 10px;
+        }
+
+        .legend-color {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+
+        .legend-text {
+            font-size: 0.95rem;
+            color: #555;
+        }
+
+        /* Detalle del municipio */
+        .municipio-detail {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+            animation: slideIn 0.5s ease;
+        }
+
+        .municipio-detail h3 {
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+        }
+
+        .weather-info {
+            background: rgba(255,255,255,0.2);
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+
+        .weather-info p {
+            margin-bottom: 8px;
+            font-size: 0.95rem;
+            color: white;
+        }
+
+        .consejos {
+            background: rgba(255,255,255,0.15);
+            border-radius: 8px;
+            padding: 15px;
+        }
+
+        .consejos h4 {
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+        }
+
+        .consejo-item {
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .consejo-item:last-child {
+            border-bottom: none;
+        }
+
+        /* Timestamp */
+        .update-time {
+            text-align: center;
+            color: white;
+            margin-top: 20px;
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            color: white;
+            margin-top: 30px;
+            padding: 20px;
+            opacity: 0.9;
+            font-size: 0.9rem;
+        }
+
+        .footer a {
+            color: white;
+            text-decoration: underline;
+        }
+
+        /* Animaciones */
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        /* Loader */
+        .loader {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Popup del mapa */
+        .leaflet-popup-content-wrapper {
+            border-radius: 12px;
+        }
+
+        .popup-content {
+            min-width: 200px;
+        }
+
+        .popup-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .popup-temp {
+            font-size: 2rem;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+
+        .popup-status {
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-weight: 600;
+            text-align: center;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Encabezado -->
+        <header class="header">
+            <h1>🌤️ Madrid Weather Map</h1>
+            <p>¿Hace buen tiempo para salir hoy?</p>
+        </header>
+
+        <!-- Buscador -->
+        <div class="search-container">
+            <div class="search-box">
+                <input 
+                    type="text" 
+                    class="search-input" 
+                    id="searchInput" 
+                    placeholder="Busca tu municipio (ej: Alcalá de Henares, Móstoles, Madrid...)"
+                    autocomplete="off"
+                >
+                <button class="search-button" onclick="buscarMunicipio()">
+                    🔍 Buscar
+                </button>
+            </div>
+        </div>
+
+        <!-- Contenido principal -->
+        <div class="main-content">
+            <!-- Mapa -->
+            <div class="map-container">
+                <div id="map"></div>
+            </div>
+
+            <!-- Panel de información -->
+            <aside class="info-panel">
+                <h2>¿Cómo funciona?</h2>
+                <p>Este mapa muestra el tiempo actualizado en cada municipio de la Comunidad de Madrid. Los colores te indican de un vistazo si es buen momento para actividades al aire libre.</p>
+                
+                <div class="legend">
+                    <h3>Leyenda</h3>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background-color: #10b981;"></div>
+                        <span class="legend-text"><strong>Verde:</strong> Perfecto para salir</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background-color: #f59e0b;"></div>
+                        <span class="legend-text"><strong>Amarillo:</strong> Aceptable, toma precauciones</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background-color: #ef4444;"></div>
+                        <span class="legend-text"><strong>Rojo:</strong> Mejor quedarse en casa</span>
+                    </div>
+                </div>
+
+                <div id="detailContainer"></div>
+            </aside>
+        </div>
+
+        <!-- Timestamp de actualización -->
+        <div class="update-time" id="updateTime">
+            Cargando información...
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>
+                Datos meteorológicos: <a href="https://openweathermap.org" target="_blank">OpenWeatherMap</a><br>
+                Datos geográficos: <a href="https://www.esri.es/" target="_blank">ESRI España</a> / <a href="https://www.ign.es/" target="_blank">IGN</a><br>
+                Mapa base: <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>
+            </p>
+        </footer>
+    </div>
+
+    <!-- Leaflet JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+    
+    <script>
+        // Variables globales
+        let map;
+        let weatherData;
+        let municipiosLayer;
+
+        // Inicializar la aplicación cuando carga la página
+        document.addEventListener('DOMContentLoaded', function() {
+            initMap();
+            loadWeatherData();
+            
+            // Permitir buscar con Enter
+            document.getElementById('searchInput').addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    buscarMunicipio();
+                }
+            });
+        });
+
+        /**
+         * Inicializa el mapa de Leaflet centrado en la Comunidad de Madrid
+         */
+        function initMap() {
+            // Crear el mapa centrado en Madrid
+            map = L.map('map').setView([40.4168, -3.7038], 9);
+
+            // Añadir capa base de OpenStreetMap
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+                maxZoom: 18
+            }).addTo(map);
+        }
+
+        /**
+         * Carga los datos meteorológicos desde el archivo JSON
+         */
+        async function loadWeatherData() {
+            try {
+                const response = await fetch('data/weather_data.json');
+                if (!response.ok) throw new Error('Error al cargar datos');
+                
+                weatherData = await response.json();
+                
+                // Actualizar timestamp
+                document.getElementById('updateTime').innerHTML = 
+                    `📅 Última actualización: ${weatherData.metadata.ultima_actualizacion_formateada}`;
+                
+                // Dibujar municipios en el mapa
+                drawMunicipios();
+                
+            } catch (error) {
+                console.error('Error cargando datos:', error);
+                document.getElementById('updateTime').innerHTML = 
+                    '⚠️ Error al cargar los datos meteorológicos';
+            }
+        }
+
+        /**
+         * Dibuja todos los municipios en el mapa con sus colores según el clima
+         */
+        function drawMunicipios() {
+            if (municipiosLayer) {
+                map.removeLayer(municipiosLayer);
+            }
+
+            // Crear GeoJSON layer con los municipios
+            municipiosLayer = L.geoJSON(weatherData.municipios, {
+                style: function(feature) {
+                    return {
+                        fillColor: feature.indice.color,
+                        weight: 2,
+                        opacity: 1,
+                        color: 'white',
+                        fillOpacity: 0.7
+                    };
+                },
+                onEachFeature: function(feature, layer) {
+                    // Crear popup para cada municipio
+                    const popupContent = createPopupContent(feature);
+                    layer.bindPopup(popupContent);
+
+                    // Efecto hover
+                    layer.on('mouseover', function(e) {
+                        e.target.setStyle({
+                            weight: 3,
+                            fillOpacity: 0.9
+                        });
+                    });
+
+                    layer.on('mouseout', function(e) {
+                        municipiosLayer.resetStyle(e.target);
+                    });
+
+                    // Al hacer clic, mostrar detalles en el panel
+                    layer.on('click', function() {
+                        mostrarDetalles(feature);
+                    });
+                }
+            }).addTo(map);
+
+            // Ajustar el zoom para ver todos los municipios
+            map.fitBounds(municipiosLayer.getBounds());
+        }
+
+        /**
+         * Crea el contenido HTML del popup que aparece al hacer clic en un municipio
+         */
+        function createPopupContent(feature) {
+            const nivel = feature.indice.nivel;
+            const clima = feature.clima;
+            
+            let statusColor = feature.indice.color;
+            let statusText = feature.indice.mensaje;
+
+            return `
+                <div class="popup-content">
+                    <div class="popup-title">${feature.nombre}</div>
+                    <div class="popup-temp" style="color: ${statusColor};">
+                        ${clima.temperatura}°C
+                    </div>
+                    <div style="color: #666; margin-bottom: 8px;">
+                        Sensación: ${clima.sensacion}°C
+                    </div>
+                    <div style="color: #666; margin-bottom: 8px;">
+                        💨 Viento: ${clima.viento} km/h
+                    </div>
+                    <div style="color: #666; margin-bottom: 12px;">
+                        ${clima.descripcion}
+                    </div>
+                    <div class="popup-status" style="background-color: ${statusColor}; color: white;">
+                        ${statusText}
+                    </div>
+                    <div style="text-align: center; margin-top: 10px; font-size: 0.85rem; color: #888;">
+                        Haz clic para ver más detalles
+                    </div>
+                </div>
+            `;
+        }
+
+        /**
+         * Muestra los detalles completos de un municipio en el panel lateral
+         */
+        function mostrarDetalles(feature) {
+            const detailContainer = document.getElementById('detailContainer');
+            const clima = feature.clima;
+            const indice = feature.indice;
+
+            const html = `
+                <div class="municipio-detail">
+                    <h3>${feature.nombre}</h3>
+                    
+                    <div class="weather-info">
+                        <p><strong>🌡️ Temperatura:</strong> ${clima.temperatura}°C (Sensación: ${clima.sensacion}°C)</p>
+                        <p><strong>💧 Humedad:</strong> ${clima.humedad}%</p>
+                        <p><strong>💨 Viento:</strong> ${clima.viento} km/h</p>
+                        <p><strong>☁️ Condiciones:</strong> ${clima.descripcion}</p>
+                        <p style="margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.3);">
+                            <strong>Valoración:</strong> ${indice.mensaje}
+                        </p>
+                    </div>
+
+                    <div class="consejos">
+                        <h4>💡 Consejos:</h4>
+                        ${indice.consejos.map(consejo => 
+                            `<div class="consejo-item">${consejo}</div>`
+                        ).join('')}
+                    </div>
+                </div>
+            `;
+
+            detailContainer.innerHTML = html;
+        }
+
+        /**
+         * Busca un municipio por nombre y hace zoom al encontrarlo.
+         * La búsqueda es flexible y encuentra coincidencias parciales.
+         */
+        function buscarMunicipio() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase().trim();
+            
+            if (!searchTerm) {
+                alert('Por favor, introduce el nombre de un municipio');
+                return;
+            }
+
+            if (!weatherData) {
+                alert('Los datos aún se están cargando, por favor espera un momento');
+                return;
+            }
+
+            // Buscar el municipio por nombre (búsqueda flexible con includes)
+            const municipioEncontrado = weatherData.municipios.find(m => 
+                m.nombre.toLowerCase().includes(searchTerm)
+            );
+
+            if (municipioEncontrado) {
+                // Hacer zoom al municipio
+                const coords = municipioEncontrado.coordenadas;
+                map.setView([coords.lat, coords.lon], 13);
+
+                // Encontrar la capa correspondiente y mostrar su popup
+                municipiosLayer.eachLayer(function(layer) {
+                    if (layer.feature.nombre === municipioEncontrado.nombre) {
+                        layer.openPopup();
+                        mostrarDetalles(municipioEncontrado);
+                    }
+                });
+            } else {
+                alert('No se encontró el municipio "' + searchTerm + '". Intenta con otro nombre o verifica la ortografía.');
+            }
+        }
+    </script>
+</body>
+</html>
