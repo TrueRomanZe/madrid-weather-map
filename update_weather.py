@@ -9,7 +9,7 @@ El script realiza las siguientes operaciones:
 4. Evalúa las condiciones climáticas según criterios predefinidos
 5. Genera un archivo JSON con toda la información procesada
 
-Autor: [Tu Nombre]
+Autor: S.Romera
 Licencia: MIT
 Fuentes de datos:
 - Datos meteorológicos: OpenWeatherMap (https://openweathermap.org)
