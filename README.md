@@ -31,8 +31,6 @@ El sistema analiza múltiples variables meteorológicas (temperatura, sensación
 
 Visita: [https://TrueromanZe.github.io/madrid-weather-map](https://TrueRomanZe.github.io/madrid-weather-map)
 
-*(Reemplaza con tu URL real una vez publicado el proyecto en GitHub Pages)*
-
 ## 🛠️ Tecnologías utilizadas
 
 Este proyecto combina diferentes tecnologías modernas para crear una experiencia fluida y fiable:
@@ -105,58 +103,6 @@ La puntuación total determina el color y la recomendación:
 
 Además de la clasificación por color, el sistema genera consejos específicos para cada municipio basándose en las condiciones particulares detectadas.
 
-## 🔧 Instalación y uso local
-
-Si quieres ejecutar este proyecto en tu propio ordenador para desarrollo o personalización, sigue estos pasos.
-
-### Requisitos previos
-
-Antes de comenzar, asegúrate de tener instalado:
-- **Python 3.11 o superior** - [Descargar Python](https://www.python.org/downloads/)
-- **Git** - [Descargar Git](https://git-scm.com/downloads)
-- **Una API key de OpenWeatherMap** - [Obtener API key gratuita](https://openweathermap.org/api)
-
-### Pasos de instalación
-
-#### 1. Clonar el repositorio
-```bash
-git clone https://github.com/TU-USUARIO/NOMBRE-REPO.git
-cd NOMBRE-REPO
-```
-
-#### 2. Instalar las dependencias de Python
-```bash
-pip install requests
-```
-
-#### 3. Configurar tu API key de OpenWeatherMap
-
-En **Windows (PowerShell)**:
-```powershell
-$env:OPENWEATHER_API_KEY="tu-api-key-aqui"
-```
-
-En **Windows (CMD)**:
-```cmd
-set OPENWEATHER_API_KEY=tu-api-key-aqui
-```
-
-En **Mac/Linux**:
-```bash
-export OPENWEATHER_API_KEY="tu-api-key-aqui"
-```
-
-#### 4. Ejecutar el script de actualización
-```bash
-python update_weather.py
-```
-
-El script consultará la API de OpenWeatherMap para todos los municipios y generará el archivo `data/weather_data.json` con los datos actualizados.
-
-#### 5. Ver el mapa en tu navegador
-
-Simplemente abre el archivo `index.html` en tu navegador web favorito. El mapa cargará automáticamente los datos del archivo JSON que acabas de generar.
-
 ## 📁 Estructura del proyecto
 
 ```
@@ -202,7 +148,7 @@ Si quieres contribuir código, sigue estos pasos:
 1. Haz un fork del repositorio haciendo clic en el botón "Fork" en GitHub
 2. Clona tu fork a tu ordenador local
    ```bash
-   git clone https://github.com/tu-usuario/madrid-weather-map.git
+   git clone https://github.com/TrueRomanZe/madrid-weather-map.git
    ```
 3. Crea una rama para tu característica o corrección
    ```bash
