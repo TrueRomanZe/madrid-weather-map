@@ -58,7 +58,7 @@ Los datos del tiempo provienen de [OpenWeatherMap](https://openweathermap.org/),
 ### Datos geográficos
 Los límites administrativos de los municipios de la Comunidad de Madrid provienen de fuentes oficiales:
 - **ESRI España** - [Living Atlas](https://livingatlas.arcgis.com/)
-- **Instituto Geográfico Nacional (IGN)** - [www.ign.es](https://www.ign.es/)
+- **Instituto Geográfico Nacional (IGN)** - [IGN](https://www.ign.es/)
 
 Estos datos oficiales garantizan que los límites municipales sean precisos y estén actualizados según las divisiones administrativas oficiales.
 
