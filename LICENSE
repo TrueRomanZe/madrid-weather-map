@@ -31,7 +31,7 @@ Este proyecto hace uso de los siguientes servicios y datos de terceros:
 - Los datos meteorológicos están sujetos a los términos de uso de OpenWeatherMap
 
 ### Datos Geográficos
-- ESRI Living Atlas (https://livingatlas.arcgis.com/en/home/) / Instituto Geográfico Nacional de España (https://www.ign.es/web/ign/portal)
+- ESRI - [Living Atlas](https://livingatlas.arcgis.com/) / [Instituto Geográfico Nacional de España](https://www.ign.es)
 - Los límites administrativos de municipios son de dominio público según la legislación española
 
 ### Mapa Base
