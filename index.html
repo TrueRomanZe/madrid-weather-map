@@ -3,14 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Google tag (gtag.js) -->
+    <!-- Google tag (gtag.js) - Configurado con privacidad mejorada -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZDLX7HHM3H"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-ZDLX7HHM3H');
+  // Configuración de Google Analytics con máximo respeto a la privacidad
+  gtag('config', 'G-ZDLX7HHM3H', {
+    'anonymize_ip': true,  // Anonimizar dirección IP
+    'allow_google_signals': false,  // Desactivar señales de Google (seguimiento entre dispositivos)
+    'allow_ad_personalization_signals': false  // Desactivar personalización de anuncios
+  });
 </script>
     <title>Madrid Weather Map - ¿Hace buen tiempo hoy?</title>
     <meta name="description" content="Consulta el tiempo en cada municipio de la Comunidad de Madrid y descubre si es buen día para actividades al aire libre">
@@ -263,6 +268,26 @@
             text-decoration: underline;
         }
 
+        .footer-links {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid rgba(255,255,255,0.3);
+        }
+
+        .footer-link {
+            display: inline-block;
+            margin: 0 10px;
+            color: rgba(255,255,255,0.9);
+            text-decoration: none;
+            font-size: 0.85rem;
+            transition: opacity 0.2s;
+        }
+
+        .footer-link:hover {
+            opacity: 1;
+            text-decoration: underline;
+        }
+
         /* Animaciones */
         @keyframes fadeInDown {
             from {
@@ -427,6 +452,11 @@
                 Datos geográficos: <a href="https://www.esri.es/" target="_blank">ESRI España</a> / <a href="https://www.ign.es/" target="_blank">IGN</a><br>
                 Mapa base: <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>
             </p>
+            <div class="footer-links">
+                <a href="https://github.com/TrueRomanZe/madrid-weather-map" target="_blank" class="footer-link">📁 Código fuente</a>
+                <span style="color: rgba(255,255,255,0.5);">•</span>
+                <a href="https://github.com/TrueRomanZe/madrid-weather-map/blob/main/PRIVACY.md" target="_blank" class="footer-link">🔒 Privacidad</a>
+            </div>
         </footer>
     </div>
 
