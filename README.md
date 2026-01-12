@@ -26,6 +26,7 @@ El sistema analiza múltiples variables meteorológicas (temperatura, sensación
 - 🎨 **Interfaz moderna** y atractiva con animaciones suaves y colores vibrantes
 - ⚡ **Sin instalación necesaria** - funciona directamente en el navegador
 - 🆓 **Completamente gratuito** y de código abierto
+- 🔒 **Respeto por tu privacidad** - configurado con las mejores prácticas de privacidad
 
 ## 🚀 Ver el proyecto en vivo
 
@@ -49,6 +50,7 @@ Este proyecto combina diferentes tecnologías modernas para crear una experienci
 - **OpenWeatherMap API** - Proveedor de datos meteorológicos en tiempo real
 - **OpenStreetMap** - Mapa base de alta calidad y código abierto
 - **GitHub Pages** - Servicio de hosting gratuito para sitios estáticos
+- **Google Analytics 4** - Analítica web configurada con privacidad mejorada
 
 ## 📊 Fuentes de datos y créditos
 
@@ -119,6 +121,8 @@ madrid-weather-map/
 ├── index.html                    # Página web principal (visualización del mapa)
 ├── update_weather.py             # Script Python de actualización de datos
 ├── README.md                     # Este archivo de documentación
+├── CHANGELOG.md                  # Historial de cambios del proyecto
+├── PRIVACY.md                    # Política de privacidad
 └── LICENSE                       # Licencia MIT del proyecto
 ```
 
@@ -126,9 +130,28 @@ madrid-weather-map/
 
 **update_weather.py**: Este es el corazón del proyecto. El script lee el archivo GeoJSON con los municipios, calcula el centroide de cada uno, consulta la API de OpenWeatherMap, evalúa las condiciones meteorológicas según criterios predefinidos, y genera el archivo JSON con toda la información procesada. Está extensamente documentado para facilitar su comprensión y modificación.
 
-**index.html**: Página web autónoma que contiene todo el código HTML, CSS y JavaScript necesario para mostrar el mapa interactivo. Utiliza Leaflet.js para renderizar el mapa y gestionar las interacciones del usuario.
+**index.html**: Página web autónoma que contiene todo el código HTML, CSS y JavaScript necesario para mostrar el mapa interactivo. Utiliza Leaflet.js para renderizar el mapa y gestionar las interacciones del usuario. Incluye Google Analytics configurado con las mejores prácticas de privacidad.
 
 **.github/workflows/update-weather.yml**: Archivo de configuración que le dice a GitHub Actions cuándo y cómo ejecutar el script de Python. Está configurado para ejecutarse automáticamente cada 3 horas y también puede ejecutarse manualmente.
+
+**CHANGELOG.md**: Documento que registra todos los cambios importantes del proyecto de forma cronológica, siguiendo el estándar "Keep a Changelog". Útil para entender la evolución del proyecto.
+
+**PRIVACY.md**: Política de privacidad que explica de forma clara y transparente cómo se manejan los datos de los usuarios, qué información se recopila (solo estadísticas anónimas agregadas) y cómo los usuarios pueden optar por no ser rastreados.
+
+## 🔒 Privacidad y protección de datos
+
+Este proyecto se toma muy en serio la privacidad de los usuarios madrileños. Madrid Weather Map utiliza Google Analytics únicamente para comprender patrones de uso agregados que ayuden a mejorar la aplicación, pero configurado de la forma más respetuosa posible con la privacidad.
+
+### Nuestro compromiso con tu privacidad
+
+- **Anonimización de IP**: Todas las direcciones IP se anonimizan automáticamente
+- **Sin seguimiento entre dispositivos**: Google Signals está completamente desactivado
+- **Sin personalización de anuncios**: No se utiliza ningún dato para publicidad
+- **Retención mínima**: Los datos se eliminan automáticamente después de dos meses
+- **Transparencia total**: Todo el código es público y auditable
+- **Sin datos personales**: No se recopilan nombres, emails, ni ubicaciones exactas
+
+Para más información detallada, consulta nuestra [Política de Privacidad](PRIVACY.md).
 
 ## 🤝 Contribuciones
 
@@ -170,7 +193,7 @@ Si quieres contribuir código, sigue estos pasos:
 - **Código JavaScript**: Usa ES6+ y comentarios claros
 - **Commits**: Mensajes descriptivos en presente ("Añadir función" no "Añadida función")
 
-## 📝 Licencia y términos de uso
+## 📄 Licencia y términos de uso
 
 ### Licencia del proyecto
 Este proyecto está bajo la **Licencia MIT**. Esto significa que puedes usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del software libremente. Ver el archivo [LICENSE](LICENSE) para los términos completos.
