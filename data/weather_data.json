@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2026-02-07T15:24:18.188569",
-    "ultima_actualizacion_formateada": "07/02/2026 a las 15:24",
+    "ultima_actualizacion": "2026-02-07T18:32:19.765994",
+    "ultima_actualizacion_formateada": "07/02/2026 a las 18:32",
     "total_municipios": 179,
     "municipios_con_error": 0,
     "fuente_clima": "OpenWeatherMap",
@@ -20,11 +20,11 @@
         },
         "clima": {
           "temperatura": -1.0,
-          "sensacion": -6.5,
-          "humedad": 92,
-          "viento": 19.9,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": -4.2,
+          "humedad": 93,
+          "viento": 9.0,
+          "descripcion": "nevada ligera",
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -32,7 +32,6 @@
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
             "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
           ],
           "color": "#ef4444"
@@ -3328,22 +3327,21 @@
           "lon": -3.482734
         },
         "clima": {
-          "temperatura": 4.1,
-          "sensacion": 0.1,
+          "temperatura": 4.5,
+          "sensacion": 1.4,
           "humedad": 95,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -6337,11 +6335,11 @@
         },
         "clima": {
           "temperatura": -0.3,
-          "sensacion": -5,
-          "humedad": 91,
-          "viento": 16.1,
+          "sensacion": -0.3,
+          "humedad": 92,
+          "viento": 4.4,
           "descripcion": "nieve",
-          "icono": "13d"
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -9172,21 +9170,21 @@
           "lon": -3.989167
         },
         "clima": {
-          "temperatura": 4.8,
-          "sensacion": -0.0,
-          "humedad": 93,
-          "viento": 28.3,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 3.6,
+          "sensacion": -2.8,
+          "humedad": 95,
+          "viento": 42.6,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 5,
+          "puntuacion": 0,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "💨 Viento moderado (28 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
+            "⚠️ Viento fuerte (42 km/h), peligroso para actividades al aire libre"
           ],
           "color": "#ef4444"
         }
@@ -9961,22 +9959,21 @@
           "lon": -3.363968
         },
         "clima": {
-          "temperatura": 4.6,
-          "sensacion": 0.7,
-          "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 5.4,
+          "sensacion": 2.6,
+          "humedad": 95,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -19841,22 +19838,21 @@
           "lon": -3.621706
         },
         "clima": {
-          "temperatura": 4.3,
-          "sensacion": 0.4,
-          "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.0,
+          "sensacion": 0.9,
+          "humedad": 95,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -25629,22 +25625,21 @@
           "lon": -3.839792
         },
         "clima": {
-          "temperatura": 4.1,
-          "sensacion": 1,
-          "humedad": 92,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 3.7,
+          "sensacion": 1.8,
+          "humedad": 95,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -28021,22 +28016,21 @@
           "lon": -4.210169
         },
         "clima": {
-          "temperatura": 5.0,
-          "sensacion": 1.5,
+          "temperatura": 3.9,
+          "sensacion": -0.2,
           "humedad": 99,
-          "viento": 17.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 18.7,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -32066,21 +32060,20 @@
         },
         "clima": {
           "temperatura": 4.3,
-          "sensacion": 0.4,
-          "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "sensacion": 1.3,
+          "humedad": 95,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -36829,22 +36822,21 @@
           "lon": -4.027135
         },
         "clima": {
-          "temperatura": 3.1,
-          "sensacion": -1,
-          "humedad": 76,
-          "viento": 17.6,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 1.9,
+          "sensacion": 0.3,
+          "humedad": 90,
+          "viento": 5.8,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -37253,21 +37245,21 @@
           "lon": -3.168989
         },
         "clima": {
-          "temperatura": 4.2,
-          "sensacion": -0.8,
-          "humedad": 97,
-          "viento": 27.9,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 6.9,
+          "sensacion": 2.3,
+          "humedad": 99,
+          "viento": 34.3,
+          "descripcion": "lluvia de gran intensidad",
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 5,
+          "puntuacion": 0,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "💨 Viento moderado (27 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "💨 Viento moderado (34 km/h), sujeta bien tus pertenencias",
+            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
           ],
           "color": "#ef4444"
         }
@@ -41802,12 +41794,12 @@
           "lon": -3.28222
         },
         "clima": {
-          "temperatura": 3.7,
-          "sensacion": -0.5,
-          "humedad": 95,
-          "viento": 19.3,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.7,
+          "sensacion": 2.1,
+          "humedad": 93,
+          "viento": 11.1,
+          "descripcion": "lluvia ligera",
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
@@ -42443,20 +42435,19 @@
         },
         "clima": {
           "temperatura": 6.9,
-          "sensacion": 2.0,
-          "humedad": 94,
-          "viento": 36.3,
-          "descripcion": "lluvia de gran intensidad",
-          "icono": "10d"
+          "sensacion": 1.9,
+          "humedad": 95,
+          "viento": 38.3,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 25,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "💨 Viento moderado (36 km/h), sujeta bien tus pertenencias",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "💨 Viento moderado (38 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#ef4444"
         }
@@ -52807,20 +52798,21 @@
           "lon": -3.462584
         },
         "clima": {
-          "temperatura": 5.2,
-          "sensacion": 3.9,
-          "humedad": 94,
-          "viento": 6.4,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 6.1,
+          "sensacion": 0.9,
+          "humedad": 96,
+          "viento": 37.3,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 30,
+          "puntuacion": 15,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
+            "💨 Viento moderado (37 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#ef4444"
         }
@@ -54023,22 +54015,21 @@
           "lon": -3.926499
         },
         "clima": {
-          "temperatura": 4.4,
-          "sensacion": 1.4,
-          "humedad": 94,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 3.8,
+          "sensacion": 1.9,
+          "humedad": 97,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -59416,11 +59407,11 @@
         },
         "clima": {
           "temperatura": 1.3,
-          "sensacion": -3.4,
-          "humedad": 93,
-          "viento": 18.3,
-          "descripcion": "nevada ligera",
-          "icono": "13d"
+          "sensacion": -0.8,
+          "humedad": 94,
+          "viento": 6.7,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
@@ -63215,20 +63206,21 @@
           "lon": -3.926533
         },
         "clima": {
-          "temperatura": 5.3,
-          "sensacion": 2.5,
-          "humedad": 100,
-          "viento": 13.0,
-          "descripcion": "niebla",
-          "icono": "50d"
+          "temperatura": 4.2,
+          "sensacion": -2.0,
+          "humedad": 95,
+          "viento": 44.4,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 10,
+          "puntuacion": 0,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
+            "⚠️ Viento fuerte (44 km/h), peligroso para actividades al aire libre"
           ],
           "color": "#ef4444"
         }
@@ -67716,19 +67708,19 @@
         },
         "clima": {
           "temperatura": 1.8,
-          "sensacion": 1.8,
-          "humedad": 85,
-          "viento": 1.6,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "sensacion": 0.5,
+          "humedad": 95,
+          "viento": 4.8,
+          "descripcion": "lluvia ligera",
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 10,
+          "puntuacion": 30,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
         }
@@ -69321,22 +69313,21 @@
           "lon": -3.348116
         },
         "clima": {
-          "temperatura": 4.3,
-          "sensacion": -1.2,
-          "humedad": 94,
-          "viento": 33.9,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 5.4,
+          "sensacion": 0.2,
+          "humedad": 95,
+          "viento": 34.4,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 15,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
             "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "💨 Viento moderado (34 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#ef4444"
         }
@@ -69825,10 +69816,10 @@
         "clima": {
           "temperatura": 0.3,
           "sensacion": 0.3,
-          "humedad": 93,
-          "viento": 1.6,
-          "descripcion": "nevada ligera",
-          "icono": "13d"
+          "humedad": 94,
+          "viento": 2.1,
+          "descripcion": "nieve",
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -72676,11 +72667,11 @@
         },
         "clima": {
           "temperatura": 0.8,
-          "sensacion": 0.8,
-          "humedad": 93,
-          "viento": 1.6,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": -1.8,
+          "humedad": 94,
+          "viento": 8.2,
+          "descripcion": "nevada ligera",
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -75039,22 +75030,21 @@
           "lon": -3.927358
         },
         "clima": {
-          "temperatura": 4.2,
-          "sensacion": 1.1,
-          "humedad": 91,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 3.6,
+          "sensacion": 1.7,
+          "humedad": 93,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -76979,20 +76969,20 @@
           "lon": -3.838989
         },
         "clima": {
-          "temperatura": 1.7,
-          "sensacion": 1.7,
-          "humedad": 86,
-          "viento": 1.6,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 1.8,
+          "sensacion": 0.6,
+          "humedad": 95,
+          "viento": 4.8,
+          "descripcion": "lluvia ligera",
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 10,
+          "puntuacion": 30,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
         }
@@ -79314,11 +79304,11 @@
         },
         "clima": {
           "temperatura": -0.6,
-          "sensacion": -5.9,
-          "humedad": 93,
-          "viento": 19.6,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": -2.3,
+          "humedad": 94,
+          "viento": 5.3,
+          "descripcion": "nevada ligera",
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -79326,7 +79316,6 @@
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
             "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
           ],
           "color": "#ef4444"
@@ -80370,22 +80359,21 @@
           "lon": -3.118776
         },
         "clima": {
-          "temperatura": 3.8,
-          "sensacion": -1.4,
-          "humedad": 94,
-          "viento": 28.4,
-          "descripcion": "lluvia de gran intensidad",
-          "icono": "10d"
+          "temperatura": 4.8,
+          "sensacion": -0.1,
+          "humedad": 95,
+          "viento": 28.8,
+          "descripcion": "lluvia moderada",
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 5,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
             "💨 Viento moderado (28 km/h), sujeta bien tus pertenencias",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
         }
@@ -81552,22 +81540,21 @@
           "lon": -3.969077
         },
         "clima": {
-          "temperatura": 4.3,
-          "sensacion": 1.2,
-          "humedad": 92,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 3.6,
+          "sensacion": 1.6,
+          "humedad": 94,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -85409,11 +85396,11 @@
         },
         "clima": {
           "temperatura": 0.7,
-          "sensacion": -4.2,
-          "humedad": 93,
-          "viento": 18.6,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": 0.7,
+          "humedad": 94,
+          "viento": 1.4,
+          "descripcion": "nevada ligera",
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -90300,12 +90287,12 @@
           "lon": -3.745877
         },
         "clima": {
-          "temperatura": -0.3,
-          "sensacion": -4.3,
+          "temperatura": 0,
+          "sensacion": 0,
           "humedad": 94,
-          "viento": 12.6,
+          "viento": 1.9,
           "descripcion": "nieve",
-          "icono": "13d"
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -95345,11 +95332,11 @@
         },
         "clima": {
           "temperatura": 1.1,
-          "sensacion": 1.1,
-          "humedad": 93,
-          "viento": 1.6,
+          "sensacion": -1.0,
+          "humedad": 94,
+          "viento": 6.8,
           "descripcion": "nieve",
-          "icono": "13d"
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -96361,11 +96348,11 @@
         },
         "clima": {
           "temperatura": 0.4,
-          "sensacion": 0.4,
-          "humedad": 93,
-          "viento": 1.6,
+          "sensacion": -2.1,
+          "humedad": 94,
+          "viento": 7.3,
           "descripcion": "nieve",
-          "icono": "13d"
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -96900,12 +96887,12 @@
           "lon": -4.43542
         },
         "clima": {
-          "temperatura": 3.5,
-          "sensacion": 0.9,
-          "humedad": 93,
-          "viento": 9.8,
+          "temperatura": 3.7,
+          "sensacion": 1.7,
+          "humedad": 94,
+          "viento": 7.9,
           "descripcion": "nubes",
-          "icono": "04d"
+          "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
@@ -101107,22 +101094,21 @@
           "lon": -3.374819
         },
         "clima": {
-          "temperatura": 4.1,
-          "sensacion": 0.2,
+          "temperatura": 4.7,
+          "sensacion": 1.7,
           "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -102139,22 +102125,21 @@
           "lon": -3.379375
         },
         "clima": {
-          "temperatura": 3.8,
-          "sensacion": 0.3,
-          "humedad": 92,
-          "viento": 14.8,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.9,
+          "sensacion": 2.4,
+          "humedad": 94,
+          "viento": 11.1,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -103336,11 +103321,11 @@
         },
         "clima": {
           "temperatura": -1.5,
-          "sensacion": -6.3,
-          "humedad": 93,
-          "viento": 15.7,
+          "sensacion": -1.5,
+          "humedad": 94,
+          "viento": 0.9,
           "descripcion": "nieve",
-          "icono": "13d"
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -106223,12 +106208,12 @@
           "lon": -3.24611
         },
         "clima": {
-          "temperatura": 4.5,
-          "sensacion": -0.7,
-          "humedad": 94,
-          "viento": 30.7,
+          "temperatura": 5.6,
+          "sensacion": 0.5,
+          "humedad": 95,
+          "viento": 33.6,
           "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
@@ -106237,7 +106222,7 @@
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
             "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (30 km/h), sujeta bien tus pertenencias",
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias",
             "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
@@ -106650,21 +106635,20 @@
         },
         "clima": {
           "temperatura": 6.1,
-          "sensacion": 3.4,
+          "sensacion": 5.1,
           "humedad": 100,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 5.5,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -107693,12 +107677,12 @@
           "lon": -4.533585
         },
         "clima": {
-          "temperatura": 4.1,
-          "sensacion": 2.4,
-          "humedad": 93,
-          "viento": 7.0,
+          "temperatura": 4.3,
+          "sensacion": 1.6,
+          "humedad": 94,
+          "viento": 11.0,
           "descripcion": "nubes",
-          "icono": "04d"
+          "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
@@ -110492,21 +110476,22 @@
           "lon": -4.042725
         },
         "clima": {
-          "temperatura": 1.9,
-          "sensacion": -2.7,
+          "temperatura": 1.6,
+          "sensacion": 1.6,
           "humedad": 65,
-          "viento": 19.3,
-          "descripcion": "nubes",
-          "icono": "04d"
+          "viento": 3.8,
+          "descripcion": "nevada ligera",
+          "icono": "13n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 50,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "rojo",
+          "puntuacion": 0,
+          "mensaje": "Mejor quedarse en casa",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
+            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
           ],
-          "color": "#f59e0b"
+          "color": "#ef4444"
         }
       },
       "geometry": {
@@ -111544,11 +111529,11 @@
         },
         "clima": {
           "temperatura": 0.9,
-          "sensacion": 0.9,
-          "humedad": 93,
-          "viento": 1.6,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": -1,
+          "humedad": 94,
+          "viento": 6.1,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
@@ -113371,22 +113356,21 @@
           "lon": -3.594524
         },
         "clima": {
-          "temperatura": 6.6,
-          "sensacion": 4,
+          "temperatura": 6.8,
+          "sensacion": 5.9,
           "humedad": 100,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 5.5,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -120383,22 +120367,21 @@
           "lon": -3.50114
         },
         "clima": {
-          "temperatura": 3.9,
-          "sensacion": -0.2,
-          "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.0,
+          "sensacion": 0.9,
+          "humedad": 95,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -122447,22 +122430,21 @@
           "lon": -4.17023
         },
         "clima": {
-          "temperatura": 4.7,
-          "sensacion": 4.7,
+          "temperatura": 3.7,
+          "sensacion": 3.7,
           "humedad": 99,
-          "viento": 3.2,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 1.6,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -128399,22 +128381,21 @@
           "lon": -3.469745
         },
         "clima": {
-          "temperatura": 5.6,
-          "sensacion": 0.3,
-          "humedad": 94,
-          "viento": 37.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 6.6,
+          "sensacion": 1.5,
+          "humedad": 95,
+          "viento": 38.7,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 15,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
             "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (36 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "💨 Viento moderado (38 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#ef4444"
         }
@@ -133965,22 +133946,21 @@
           "lon": -4.014838
         },
         "clima": {
-          "temperatura": 3.1,
-          "sensacion": -0.2,
-          "humedad": 86,
-          "viento": 12.9,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 2.6,
+          "sensacion": 0.9,
+          "humedad": 91,
+          "viento": 6.0,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -142218,21 +142198,20 @@
         },
         "clima": {
           "temperatura": 2.8,
-          "sensacion": 2.8,
-          "humedad": 94,
-          "viento": 1.6,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "sensacion": 1.7,
+          "humedad": 95,
+          "viento": 4.8,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -156373,22 +156352,21 @@
           "lon": -4.041707
         },
         "clima": {
-          "temperatura": 3.3,
-          "sensacion": -0.9,
+          "temperatura": 3.1,
+          "sensacion": 3.1,
           "humedad": 65,
-          "viento": 18.4,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "viento": 4.6,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -157937,22 +157915,21 @@
           "lon": -3.980356
         },
         "clima": {
-          "temperatura": 2.1,
-          "sensacion": -1.7,
-          "humedad": 78,
-          "viento": 14.5,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 1.4,
+          "sensacion": -0.5,
+          "humedad": 90,
+          "viento": 6.4,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -160213,12 +160190,12 @@
           "lon": -3.240008
         },
         "clima": {
-          "temperatura": 3.1,
-          "sensacion": -1.3,
-          "humedad": 96,
-          "viento": 19.3,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.5,
+          "sensacion": 1.8,
+          "humedad": 93,
+          "viento": 11.1,
+          "descripcion": "lluvia ligera",
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
@@ -160837,22 +160814,21 @@
           "lon": -3.547807
         },
         "clima": {
-          "temperatura": 4.7,
-          "sensacion": 0.9,
-          "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 5.0,
+          "sensacion": 2.1,
+          "humedad": 96,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -162202,21 +162178,20 @@
         },
         "clima": {
           "temperatura": 5.4,
-          "sensacion": 2.6,
+          "sensacion": 4.4,
           "humedad": 100,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 5.5,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -163165,22 +163140,21 @@
           "lon": -4.197827
         },
         "clima": {
-          "temperatura": 4.7,
-          "sensacion": 1.1,
+          "temperatura": 3.5,
+          "sensacion": 1.0,
           "humedad": 99,
-          "viento": 16.4,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "viento": 9.7,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -165757,22 +165731,20 @@
           "lon": -3.509946
         },
         "clima": {
-          "temperatura": 5.8,
-          "sensacion": 0.7,
-          "humedad": 94,
-          "viento": 35.1,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 6.5,
+          "sensacion": 1.5,
+          "humedad": 95,
+          "viento": 36.2,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 25,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (35 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "💨 Viento moderado (36 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#ef4444"
         }
@@ -170235,22 +170207,21 @@
           "lon": -3.454857
         },
         "clima": {
-          "temperatura": 4.1,
-          "sensacion": 0.1,
-          "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.5,
+          "sensacion": 1.5,
+          "humedad": 95,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -173391,22 +173362,21 @@
           "lon": -4.091847
         },
         "clima": {
-          "temperatura": 3.4,
-          "sensacion": -0.7,
-          "humedad": 81,
-          "viento": 17.9,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 2.3,
+          "sensacion": 0.0,
+          "humedad": 90,
+          "viento": 7.9,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -178827,12 +178797,12 @@
           "lon": -3.088146
         },
         "clima": {
-          "temperatura": 5.1,
-          "sensacion": 0.3,
-          "humedad": 94,
-          "viento": 29.2,
-          "descripcion": "lluvia de gran intensidad",
-          "icono": "10d"
+          "temperatura": 6.2,
+          "sensacion": 1.8,
+          "humedad": 95,
+          "viento": 28.0,
+          "descripcion": "lluvia moderada",
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
@@ -178840,7 +178810,7 @@
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "💨 Viento moderado (29 km/h), sujeta bien tus pertenencias",
+            "💨 Viento moderado (27 km/h), sujeta bien tus pertenencias",
             "☔ Lluvia moderada, mejor postponer actividades al aire libre"
           ],
           "color": "#ef4444"
@@ -186700,22 +186670,21 @@
           "lon": -4.185589
         },
         "clima": {
-          "temperatura": 2.7,
-          "sensacion": -1.2,
+          "temperatura": 1.8,
+          "sensacion": 1.8,
           "humedad": 94,
-          "viento": 15.8,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 4.5,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -190440,22 +190409,21 @@
           "lon": -3.406588
         },
         "clima": {
-          "temperatura": 3.9,
-          "sensacion": -0.1,
+          "temperatura": 4.2,
+          "sensacion": 1.1,
           "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -191140,22 +191108,21 @@
           "lon": -3.801138
         },
         "clima": {
-          "temperatura": 4.2,
-          "sensacion": 1.2,
-          "humedad": 92,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.7,
+          "sensacion": 3.0,
+          "humedad": 98,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -194965,21 +194932,20 @@
         },
         "clima": {
           "temperatura": 4.3,
-          "sensacion": 0.4,
-          "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "sensacion": 1.2,
+          "humedad": 95,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -196664,21 +196630,21 @@
           "lon": -3.161077
         },
         "clima": {
-          "temperatura": 5.3,
-          "sensacion": 0.3,
-          "humedad": 94,
-          "viento": 31.8,
+          "temperatura": 7.1,
+          "sensacion": 2.4,
+          "humedad": 88,
+          "viento": 35.4,
           "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 5,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "💨 Viento moderado (31 km/h), sujeta bien tus pertenencias",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "💨 Viento moderado (35 km/h), sujeta bien tus pertenencias",
+            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
         }
@@ -199257,22 +199223,21 @@
           "lon": -3.980142
         },
         "clima": {
-          "temperatura": 2.6,
-          "sensacion": -0.8,
-          "humedad": 85,
-          "viento": 12.9,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 2.1,
+          "sensacion": 2.1,
+          "humedad": 91,
+          "viento": 2.1,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -208830,21 +208795,20 @@
         },
         "clima": {
           "temperatura": 0.2,
-          "sensacion": -4.7,
-          "humedad": 93,
-          "viento": 18.0,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": 0.2,
+          "humedad": 94,
+          "viento": 4.8,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -212226,21 +212190,20 @@
         },
         "clima": {
           "temperatura": 0.2,
-          "sensacion": -4.7,
-          "humedad": 93,
-          "viento": 18.0,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": 0.2,
+          "humedad": 94,
+          "viento": 4.8,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -216370,22 +216333,20 @@
         },
         "clima": {
           "temperatura": -0.1,
-          "sensacion": -5.2,
-          "humedad": 93,
-          "viento": 19.2,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": -2,
+          "humedad": 94,
+          "viento": 5.8,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -218866,22 +218827,21 @@
           "lon": -3.666697
         },
         "clima": {
-          "temperatura": 5.0,
-          "sensacion": 2.1,
-          "humedad": 94,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 5.5,
+          "sensacion": 4.0,
+          "humedad": 98,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -224118,22 +224078,21 @@
           "lon": -3.841535
         },
         "clima": {
-          "temperatura": 4.2,
-          "sensacion": 1.1,
-          "humedad": 93,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.0,
+          "sensacion": 2.2,
+          "humedad": 100,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -225342,22 +225301,21 @@
           "lon": -3.691235
         },
         "clima": {
-          "temperatura": 0.9,
-          "sensacion": -2.8,
-          "humedad": 94,
-          "viento": 12.6,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "temperatura": 1.2,
+          "sensacion": 1.2,
+          "humedad": 95,
+          "viento": 4.7,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -228510,22 +228468,21 @@
           "lon": -4.078507
         },
         "clima": {
-          "temperatura": 3.3,
-          "sensacion": -0.9,
+          "temperatura": 2.9,
+          "sensacion": 2.9,
           "humedad": 65,
-          "viento": 19.2,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "viento": 3.4,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -230975,11 +230932,11 @@
         },
         "clima": {
           "temperatura": -1.7,
-          "sensacion": -7.2,
-          "humedad": 93,
-          "viento": 18.6,
+          "sensacion": -3.5,
+          "humedad": 96,
+          "viento": 4.9,
           "descripcion": "nevada ligera",
-          "icono": "13d"
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -230987,7 +230944,6 @@
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
             "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
           ],
           "color": "#ef4444"
@@ -236540,22 +236496,20 @@
         },
         "clima": {
           "temperatura": -0.1,
-          "sensacion": -5.3,
-          "humedad": 92,
-          "viento": 19.7,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": -2.8,
+          "humedad": 95,
+          "viento": 8.1,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -239681,11 +239635,11 @@
         },
         "clima": {
           "temperatura": -0.7,
-          "sensacion": -5.9,
-          "humedad": 93,
-          "viento": 19.0,
+          "sensacion": -2.8,
+          "humedad": 94,
+          "viento": 6.2,
           "descripcion": "nevada ligera",
-          "icono": "13d"
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -239693,7 +239647,6 @@
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
             "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
           ],
           "color": "#ef4444"
@@ -241873,22 +241826,21 @@
           "lon": -3.882328
         },
         "clima": {
-          "temperatura": 2.8,
-          "sensacion": -0.3,
-          "humedad": 83,
-          "viento": 11.3,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 2.0,
+          "sensacion": 0.8,
+          "humedad": 92,
+          "viento": 4.8,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -243097,22 +243049,21 @@
           "lon": -3.833536
         },
         "clima": {
-          "temperatura": 4.1,
-          "sensacion": 1.0,
-          "humedad": 92,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.7,
+          "sensacion": 2.9,
+          "humedad": 98,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -244661,22 +244612,21 @@
           "lon": -3.789859
         },
         "clima": {
-          "temperatura": 4.2,
-          "sensacion": 1.2,
-          "humedad": 92,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.0,
+          "sensacion": 2.1,
+          "humedad": 96,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -246477,22 +246427,21 @@
           "lon": -3.41232
         },
         "clima": {
-          "temperatura": 4.2,
-          "sensacion": 0.3,
-          "humedad": 95,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 5.1,
+          "sensacion": 2.2,
+          "humedad": 96,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -247846,22 +247795,20 @@
         },
         "clima": {
           "temperatura": -0.8,
-          "sensacion": -6.0,
-          "humedad": 93,
-          "viento": 17.9,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": -3.2,
+          "humedad": 94,
+          "viento": 6.6,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -251107,11 +251054,11 @@
         },
         "clima": {
           "temperatura": 0.3,
-          "sensacion": -4.6,
-          "humedad": 93,
-          "viento": 19.0,
-          "descripcion": "nevada ligera",
-          "icono": "13d"
+          "sensacion": -1.7,
+          "humedad": 94,
+          "viento": 6.2,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
@@ -254362,22 +254309,21 @@
           "lon": -3.686642
         },
         "clima": {
-          "temperatura": 3.9,
-          "sensacion": -0.1,
-          "humedad": 93,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 3.5,
+          "sensacion": 0.3,
+          "humedad": 96,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -268786,22 +268732,21 @@
           "lon": -3.919687
         },
         "clima": {
-          "temperatura": 4.2,
-          "sensacion": 1.1,
-          "humedad": 90,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 3.7,
+          "sensacion": 1.8,
+          "humedad": 92,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -273646,12 +273591,12 @@
           "lon": -3.938264
         },
         "clima": {
-          "temperatura": 2.2,
-          "sensacion": -1.5,
+          "temperatura": 2.5,
+          "sensacion": 2.5,
           "humedad": 76,
-          "viento": 14.1,
+          "viento": 3.4,
           "descripcion": "nubes",
-          "icono": "04d"
+          "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
@@ -276651,22 +276596,21 @@
           "lon": -3.328421
         },
         "clima": {
-          "temperatura": 4.2,
-          "sensacion": 0.2,
+          "temperatura": 4.9,
+          "sensacion": 2.3,
           "humedad": 93,
-          "viento": 19.3,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 11.1,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -277955,22 +277899,21 @@
           "lon": -3.490979
         },
         "clima": {
-          "temperatura": 5.0,
-          "sensacion": 1.3,
-          "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 5.6,
+          "sensacion": 2.8,
+          "humedad": 96,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -279027,22 +278970,21 @@
           "lon": -3.763446
         },
         "clima": {
-          "temperatura": 0.0,
-          "sensacion": -3.9,
-          "humedad": 94,
-          "viento": 12.6,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "temperatura": 0.5,
+          "sensacion": 0.5,
+          "humedad": 95,
+          "viento": 4.7,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -283795,22 +283737,21 @@
           "lon": -3.561263
         },
         "clima": {
-          "temperatura": 3.5,
-          "sensacion": 2.5,
-          "humedad": 92,
+          "temperatura": 3.4,
+          "sensacion": 2.4,
+          "humedad": 94,
           "viento": 4.8,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -289243,23 +289184,21 @@
           "lon": -4.089288
         },
         "clima": {
-          "temperatura": 3.0,
-          "sensacion": -1.8,
-          "humedad": 65,
-          "viento": 23.3,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 3,
+          "sensacion": 1.6,
+          "humedad": 76,
+          "viento": 5.7,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 5,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "💨 Viento moderado (23 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -290029,11 +289968,11 @@
         },
         "clima": {
           "temperatura": -2.9,
-          "sensacion": -8.7,
-          "humedad": 93,
-          "viento": 19.1,
+          "sensacion": -5.8,
+          "humedad": 95,
+          "viento": 7.2,
           "descripcion": "nieve",
-          "icono": "13d"
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -290041,7 +289980,6 @@
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
             "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
           ],
           "color": "#ef4444"
@@ -296313,22 +296251,21 @@
           "lon": -3.886954
         },
         "clima": {
-          "temperatura": 4.3,
-          "sensacion": 1.2,
-          "humedad": 93,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 3.9,
+          "sensacion": 2.0,
+          "humedad": 100,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -301394,11 +301331,11 @@
         },
         "clima": {
           "temperatura": 1.9,
-          "sensacion": -1.8,
+          "sensacion": 1.9,
           "humedad": 78,
-          "viento": 13.3,
+          "viento": 2.1,
           "descripcion": "nubes",
-          "icono": "04d"
+          "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
@@ -303154,21 +303091,20 @@
           "lon": -3.458801
         },
         "clima": {
-          "temperatura": 5.6,
-          "sensacion": 0.6,
-          "humedad": 92,
-          "viento": 33.4,
+          "temperatura": 6.7,
+          "sensacion": 2.3,
+          "humedad": 94,
+          "viento": 30.7,
           "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 5,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias",
+            "💨 Viento moderado (30 km/h), sujeta bien tus pertenencias",
             "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
@@ -304140,22 +304076,21 @@
           "lon": -3.930808
         },
         "clima": {
-          "temperatura": 4.4,
-          "sensacion": 1.4,
-          "humedad": 94,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 3.8,
+          "sensacion": 1.9,
+          "humedad": 97,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -310235,23 +310170,20 @@
         },
         "clima": {
           "temperatura": 0.1,
-          "sensacion": -5.1,
-          "humedad": 65,
-          "viento": 20.2,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "sensacion": -1.5,
+          "humedad": 73,
+          "viento": 5.0,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (20 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -311698,22 +311630,21 @@
           "lon": -3.682464
         },
         "clima": {
-          "temperatura": 1.0,
-          "sensacion": -3.0,
+          "temperatura": 1.1,
+          "sensacion": 1.1,
           "humedad": 94,
-          "viento": 14.0,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "viento": 2.8,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -312974,22 +312905,21 @@
           "lon": -4.131724
         },
         "clima": {
-          "temperatura": 3.4,
-          "sensacion": 3.4,
+          "temperatura": 2.6,
+          "sensacion": 2.6,
           "humedad": 94,
-          "viento": 3.2,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 1.6,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -323558,21 +323488,21 @@
           "lon": -3.982821
         },
         "clima": {
-          "temperatura": 4.3,
-          "sensacion": -0.5,
+          "temperatura": 3.4,
+          "sensacion": -1.8,
           "humedad": 99,
-          "viento": 26.7,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 27.7,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 5,
+          "puntuacion": 15,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "💨 Viento moderado (26 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
+            "💨 Viento moderado (27 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#ef4444"
         }
@@ -327188,22 +327118,20 @@
         },
         "clima": {
           "temperatura": -1.5,
-          "sensacion": -7,
-          "humedad": 93,
-          "viento": 18.9,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": -4.0,
+          "humedad": 94,
+          "viento": 6.7,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -328360,22 +328288,21 @@
           "lon": -4.291458
         },
         "clima": {
-          "temperatura": 4.4,
-          "sensacion": 1.3,
+          "temperatura": 3.3,
+          "sensacion": 1.5,
           "humedad": 99,
-          "viento": 13.6,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "viento": 6.8,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -330924,21 +330851,20 @@
           "lon": -3.236496
         },
         "clima": {
-          "temperatura": 3.3,
-          "sensacion": -1.9,
-          "humedad": 97,
-          "viento": 27.5,
+          "temperatura": 5.7,
+          "sensacion": 0.7,
+          "humedad": 98,
+          "viento": 33.6,
           "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 5,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (27 km/h), sujeta bien tus pertenencias",
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias",
             "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
@@ -332350,21 +332276,20 @@
           "lon": -3.224204
         },
         "clima": {
-          "temperatura": 3.6,
-          "sensacion": -1.4,
-          "humedad": 97,
-          "viento": 27.3,
+          "temperatura": 6.1,
+          "sensacion": 1.2,
+          "humedad": 98,
+          "viento": 33.5,
           "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 5,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (27 km/h), sujeta bien tus pertenencias",
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias",
             "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
@@ -334096,21 +334021,20 @@
           "lon": -3.207403
         },
         "clima": {
-          "temperatura": 4.1,
-          "sensacion": -1.1,
-          "humedad": 94,
-          "viento": 29.7,
+          "temperatura": 6.9,
+          "sensacion": 2.2,
+          "humedad": 91,
+          "viento": 33.7,
           "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 5,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (29 km/h), sujeta bien tus pertenencias",
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias",
             "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
@@ -334434,22 +334358,21 @@
           "lon": -3.530467
         },
         "clima": {
-          "temperatura": 4.5,
-          "sensacion": 0.6,
-          "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.4,
+          "sensacion": 1.4,
+          "humedad": 96,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -338270,22 +338193,21 @@
           "lon": -3.775916
         },
         "clima": {
-          "temperatura": 4.5,
-          "sensacion": 1.8,
+          "temperatura": 5.3,
+          "sensacion": 3.7,
           "humedad": 100,
-          "viento": 11.1,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -340852,20 +340774,19 @@
         "clima": {
           "temperatura": -0.4,
           "sensacion": -0.4,
-          "humedad": 93,
-          "viento": 1.6,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "humedad": 94,
+          "viento": 1.7,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -347378,12 +347299,12 @@
           "lon": -3.622626
         },
         "clima": {
-          "temperatura": 2.8,
-          "sensacion": -0.8,
+          "temperatura": 2.9,
+          "sensacion": 1.4,
           "humedad": 94,
-          "viento": 14.3,
+          "viento": 5.9,
           "descripcion": "nubes",
-          "icono": "04d"
+          "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
@@ -349901,22 +349822,21 @@
           "lon": -4.328809
         },
         "clima": {
-          "temperatura": 4.7,
-          "sensacion": 1.8,
-          "humedad": 92,
-          "viento": 12.3,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 3.5,
+          "sensacion": 2.3,
+          "humedad": 95,
+          "viento": 5.4,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -350145,20 +350065,19 @@
           "lon": -3.338045
         },
         "clima": {
-          "temperatura": 5.0,
-          "sensacion": -0.2,
-          "humedad": 94,
-          "viento": 32.3,
+          "temperatura": 6.1,
+          "sensacion": 1.3,
+          "humedad": 91,
+          "viento": 32.7,
           "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 5,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
             "💨 Viento moderado (32 km/h), sujeta bien tus pertenencias",
             "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
@@ -351615,12 +351534,12 @@
           "lon": -3.181543
         },
         "clima": {
-          "temperatura": 3.1,
-          "sensacion": -2.1,
-          "humedad": 97,
-          "viento": 26.4,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 5.7,
+          "sensacion": 0.7,
+          "humedad": 98,
+          "viento": 33.2,
+          "descripcion": "lluvia de gran intensidad",
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
@@ -351628,9 +351547,8 @@
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (26 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias",
+            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
           ],
           "color": "#ef4444"
         }
@@ -352966,21 +352884,20 @@
         },
         "clima": {
           "temperatura": -0.1,
-          "sensacion": -5.0,
-          "humedad": 93,
-          "viento": 17.2,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": -3.0,
+          "humedad": 94,
+          "viento": 8.6,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -354937,22 +354854,21 @@
           "lon": -3.678275
         },
         "clima": {
-          "temperatura": 4.8,
-          "sensacion": 2.2,
-          "humedad": 97,
-          "viento": 11.1,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 5.5,
+          "sensacion": 3.9,
+          "humedad": 100,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -359114,22 +359030,20 @@
         },
         "clima": {
           "temperatura": 0.2,
-          "sensacion": -4.9,
-          "humedad": 93,
-          "viento": 19.3,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": -2.1,
+          "humedad": 94,
+          "viento": 6.7,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -363626,22 +363540,21 @@
           "lon": -3.821299
         },
         "clima": {
-          "temperatura": 4.1,
-          "sensacion": 1.4,
-          "humedad": 92,
-          "viento": 11.1,
-          "descripcion": "niebla",
-          "icono": "50d"
+          "temperatura": 3.6,
+          "sensacion": 1.7,
+          "humedad": 94,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -364638,22 +364551,21 @@
           "lon": -3.309731
         },
         "clima": {
-          "temperatura": 3.5,
-          "sensacion": 0.7,
+          "temperatura": 4.8,
+          "sensacion": 2.2,
           "humedad": 94,
           "viento": 11.1,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -365039,11 +364951,11 @@
         },
         "clima": {
           "temperatura": -0.4,
-          "sensacion": -5.5,
-          "humedad": 93,
-          "viento": 18.7,
+          "sensacion": -2.3,
+          "humedad": 94,
+          "viento": 5.6,
           "descripcion": "nevada ligera",
-          "icono": "13d"
+          "icono": "13n"
         },
         "indice": {
           "nivel": "rojo",
@@ -365051,7 +364963,6 @@
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
             "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
           ],
           "color": "#ef4444"
@@ -367668,21 +367579,20 @@
         },
         "clima": {
           "temperatura": 0.0,
-          "sensacion": -4.9,
-          "humedad": 93,
-          "viento": 17.9,
-          "descripcion": "nevada ligera",
-          "icono": "13d"
+          "sensacion": 0.0,
+          "humedad": 94,
+          "viento": 1.6,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -372031,22 +371941,21 @@
           "lon": -4.074212
         },
         "clima": {
-          "temperatura": 4.5,
-          "sensacion": 4.5,
+          "temperatura": 3.7,
+          "sensacion": 3.7,
           "humedad": 94,
-          "viento": 3.2,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 1.6,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -377531,22 +377440,21 @@
           "lon": -3.870389
         },
         "clima": {
-          "temperatura": -0.1,
-          "sensacion": -4.8,
-          "humedad": 91,
-          "viento": 16.7,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "temperatura": -0.5,
+          "sensacion": -3.4,
+          "humedad": 95,
+          "viento": 8.4,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -380725,10 +380633,10 @@
         "clima": {
           "temperatura": 2.2,
           "sensacion": 2.2,
-          "humedad": 92,
-          "viento": 1.6,
+          "humedad": 93,
+          "viento": 1.7,
           "descripcion": "nubes",
-          "icono": "04d"
+          "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
@@ -382286,22 +382194,21 @@
           "lon": -3.417305
         },
         "clima": {
-          "temperatura": 3.3,
-          "sensacion": 0.4,
-          "humedad": 91,
+          "temperatura": 3.4,
+          "sensacion": 0.5,
+          "humedad": 93,
           "viento": 11.1,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -385870,22 +385777,21 @@
           "lon": -3.519172
         },
         "clima": {
-          "temperatura": 4.7,
-          "sensacion": 0.9,
-          "humedad": 95,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 5.2,
+          "sensacion": 2.4,
+          "humedad": 96,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -389380,20 +389286,19 @@
         "clima": {
           "temperatura": 0.1,
           "sensacion": 0.1,
-          "humedad": 93,
+          "humedad": 94,
           "viento": 1.6,
-          "descripcion": "nevada ligera",
-          "icono": "13d"
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -393118,22 +393023,21 @@
           "lon": -4.238159
         },
         "clima": {
-          "temperatura": 2.5,
-          "sensacion": -1.5,
+          "temperatura": 1.6,
+          "sensacion": 1.6,
           "humedad": 99,
-          "viento": 16.0,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "viento": 3.6,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -399087,22 +398991,20 @@
         },
         "clima": {
           "temperatura": -1.9,
-          "sensacion": -7.6,
-          "humedad": 92,
-          "viento": 19.9,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": -5.4,
+          "humedad": 94,
+          "viento": 9.4,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -401023,22 +400925,21 @@
           "lon": -3.908934
         },
         "clima": {
-          "temperatura": 4.1,
-          "sensacion": 1.0,
-          "humedad": 86,
-          "viento": 12.9,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 3.7,
+          "sensacion": 1.9,
+          "humedad": 88,
+          "viento": 7.0,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -409711,12 +409612,12 @@
           "lon": -4.501713
         },
         "clima": {
-          "temperatura": 4.4,
-          "sensacion": 2.1,
-          "humedad": 93,
-          "viento": 9.3,
+          "temperatura": 4.6,
+          "sensacion": 2.5,
+          "humedad": 96,
+          "viento": 8.9,
           "descripcion": "nubes",
-          "icono": "04d"
+          "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
@@ -413731,11 +413632,11 @@
         },
         "clima": {
           "temperatura": 3.2,
-          "sensacion": -0.2,
-          "humedad": 94,
-          "viento": 13.8,
+          "sensacion": 1.0,
+          "humedad": 95,
+          "viento": 8.2,
           "descripcion": "nubes",
-          "icono": "04d"
+          "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
@@ -419105,22 +419006,21 @@
           "lon": -3.489946
         },
         "clima": {
-          "temperatura": 5.1,
-          "sensacion": 1.4,
-          "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 5.4,
+          "sensacion": 2.6,
+          "humedad": 96,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -422061,22 +421961,21 @@
           "lon": -4.122406
         },
         "clima": {
-          "temperatura": 3.1,
-          "sensacion": -1.2,
-          "humedad": 73,
-          "viento": 19.8,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 2.4,
+          "sensacion": 1.1,
+          "humedad": 74,
+          "viento": 5.2,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -425253,23 +425152,21 @@
           "lon": -3.571261
         },
         "clima": {
-          "temperatura": 5.4,
-          "sensacion": 0.5,
-          "humedad": 95,
-          "viento": 31.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 6.2,
+          "sensacion": 5.3,
+          "humedad": 97,
+          "viento": 5.5,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 5,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "💨 Viento moderado (31 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -429018,12 +428915,12 @@
           "lon": -4.399609
         },
         "clima": {
-          "temperatura": 3.5,
-          "sensacion": 0.7,
-          "humedad": 92,
-          "viento": 11.2,
+          "temperatura": 2.4,
+          "sensacion": 2.4,
+          "humedad": 96,
+          "viento": 4.8,
           "descripcion": "nubes",
-          "icono": "04d"
+          "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
@@ -438475,22 +438372,21 @@
           "lon": -3.596474
         },
         "clima": {
-          "temperatura": 4.5,
-          "sensacion": 0.7,
-          "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.2,
+          "sensacion": 1.2,
+          "humedad": 95,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -443704,22 +443600,20 @@
         },
         "clima": {
           "temperatura": 2.0,
-          "sensacion": -3.0,
-          "humedad": 91,
-          "viento": 22.0,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "sensacion": -0.1,
+          "humedad": 94,
+          "viento": 7.2,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 5,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "💨 Viento moderado (22 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -452202,20 +452096,20 @@
           "lon": -3.221509
         },
         "clima": {
-          "temperatura": 2.9,
-          "sensacion": -1.5,
-          "humedad": 96,
-          "viento": 19.3,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 3.9,
+          "sensacion": 1.1,
+          "humedad": 93,
+          "viento": 11.1,
+          "descripcion": "lluvia moderada",
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 30,
+          "puntuacion": 10,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
           ],
           "color": "#ef4444"
         }
@@ -453086,12 +452980,12 @@
           "lon": -3.254744
         },
         "clima": {
-          "temperatura": 4.1,
-          "sensacion": 0.1,
-          "humedad": 95,
-          "viento": 19.3,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.8,
+          "sensacion": 2.2,
+          "humedad": 93,
+          "viento": 11.1,
+          "descripcion": "lluvia ligera",
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
@@ -455363,22 +455257,20 @@
         },
         "clima": {
           "temperatura": -0.5,
-          "sensacion": -5.8,
-          "humedad": 93,
-          "viento": 19.6,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": -3.0,
+          "humedad": 94,
+          "viento": 7.1,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -458067,21 +457959,21 @@
           "lon": -3.945477
         },
         "clima": {
-          "temperatura": 5.7,
-          "sensacion": 1.0,
-          "humedad": 93,
-          "viento": 29.4,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 4.3,
+          "sensacion": -1.1,
+          "humedad": 92,
+          "viento": 33.4,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 5,
+          "puntuacion": 15,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "💨 Viento moderado (29 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#ef4444"
         }
@@ -463006,22 +462898,21 @@
           "lon": -4.037637
         },
         "clima": {
-          "temperatura": 4.0,
-          "sensacion": 4.0,
+          "temperatura": 3.0,
+          "sensacion": 3.0,
           "humedad": 96,
-          "viento": 3.2,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 1.6,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -464483,22 +464374,20 @@
         },
         "clima": {
           "temperatura": -2.6,
-          "sensacion": -8.5,
-          "humedad": 92,
-          "viento": 20.0,
+          "sensacion": -6.6,
+          "humedad": 94,
+          "viento": 10.6,
           "descripcion": "nubes",
-          "icono": "04d"
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -465379,22 +465268,21 @@
           "lon": -3.789154
         },
         "clima": {
-          "temperatura": 1.6,
-          "sensacion": 1.6,
-          "humedad": 87,
-          "viento": 1.6,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 1.7,
+          "sensacion": 0.5,
+          "humedad": 95,
+          "viento": 4.8,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -467156,21 +467044,20 @@
         },
         "clima": {
           "temperatura": 3.7,
-          "sensacion": 2.7,
-          "humedad": 92,
+          "sensacion": 2.6,
+          "humedad": 93,
           "viento": 4.8,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -471907,21 +471794,20 @@
           "lon": -3.310422
         },
         "clima": {
-          "temperatura": 5.2,
-          "sensacion": 0.2,
-          "humedad": 94,
-          "viento": 31.8,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 6.3,
+          "sensacion": 1.5,
+          "humedad": 91,
+          "viento": 33.2,
+          "descripcion": "lluvia moderada",
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 5,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (31 km/h), sujeta bien tus pertenencias",
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias",
             "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
@@ -472797,21 +472683,20 @@
           "lon": -3.571312
         },
         "clima": {
-          "temperatura": 6.5,
-          "sensacion": 1.6,
-          "humedad": 94,
-          "viento": 35.6,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 6.8,
+          "sensacion": 2.2,
+          "humedad": 90,
+          "viento": 33.2,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 5,
+          "puntuacion": 25,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "💨 Viento moderado (35 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#ef4444"
         }
@@ -475390,22 +475275,21 @@
           "lon": -3.454232
         },
         "clima": {
-          "temperatura": 5.0,
-          "sensacion": 1.3,
-          "humedad": 95,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 5.4,
+          "sensacion": 2.5,
+          "humedad": 96,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -476859,21 +476743,20 @@
         },
         "clima": {
           "temperatura": 5.4,
-          "sensacion": 2.6,
+          "sensacion": 3.8,
           "humedad": 100,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -479011,21 +478894,20 @@
         },
         "clima": {
           "temperatura": 5.8,
-          "sensacion": 3.0,
+          "sensacion": 4.8,
           "humedad": 100,
-          "viento": 13.0,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 5.5,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -481534,12 +481416,12 @@
           "lon": -3.545874
         },
         "clima": {
-          "temperatura": 2.3,
-          "sensacion": 2.3,
-          "humedad": 92,
-          "viento": 1.6,
+          "temperatura": 2.4,
+          "sensacion": 2.4,
+          "humedad": 93,
+          "viento": 1.8,
           "descripcion": "nubes",
-          "icono": "04d"
+          "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
@@ -483709,22 +483591,21 @@
           "lon": -3.933109
         },
         "clima": {
-          "temperatura": 3.2,
-          "sensacion": -0.1,
-          "humedad": 85,
-          "viento": 12.9,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 2.8,
+          "sensacion": 2.8,
+          "humedad": 91,
+          "viento": 3.7,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -487391,10 +487272,10 @@
         "clima": {
           "temperatura": 2.6,
           "sensacion": 2.6,
-          "humedad": 92,
-          "viento": 1.6,
+          "humedad": 93,
+          "viento": 3.1,
           "descripcion": "nubes",
-          "icono": "04d"
+          "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
@@ -490776,22 +490657,21 @@
           "lon": -3.371812
         },
         "clima": {
-          "temperatura": 4.8,
-          "sensacion": 1.0,
-          "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 5.4,
+          "sensacion": 2.5,
+          "humedad": 95,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -492040,12 +491920,12 @@
           "lon": -3.180183
         },
         "clima": {
-          "temperatura": 3.7,
-          "sensacion": -1.7,
-          "humedad": 94,
-          "viento": 30.7,
-          "descripcion": "lluvia de gran intensidad",
-          "icono": "10d"
+          "temperatura": 5.5,
+          "sensacion": 0.4,
+          "humedad": 90,
+          "viento": 34.1,
+          "descripcion": "lluvia ligera",
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
@@ -492054,8 +491934,8 @@
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
             "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (30 km/h), sujeta bien tus pertenencias",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "💨 Viento moderado (34 km/h), sujeta bien tus pertenencias",
+            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
         }
@@ -492894,22 +492774,21 @@
           "lon": -3.357867
         },
         "clima": {
-          "temperatura": 3.6,
-          "sensacion": 0.7,
+          "temperatura": 3.7,
+          "sensacion": 0.9,
           "humedad": 93,
           "viento": 11.1,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -494122,21 +494001,20 @@
           "lon": -3.358781
         },
         "clima": {
-          "temperatura": 4.6,
-          "sensacion": -0.8,
-          "humedad": 94,
-          "viento": 33.8,
+          "temperatura": 5.7,
+          "sensacion": 0.8,
+          "humedad": 90,
+          "viento": 32.2,
           "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 5,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias",
+            "💨 Viento moderado (32 km/h), sujeta bien tus pertenencias",
             "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
@@ -494826,20 +494704,19 @@
         "clima": {
           "temperatura": -0.1,
           "sensacion": -0.1,
-          "humedad": 93,
-          "viento": 1.6,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "humedad": 94,
+          "viento": 2.6,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -495424,22 +495301,21 @@
           "lon": -4.303259
         },
         "clima": {
-          "temperatura": 2.9,
-          "sensacion": -1.2,
-          "humedad": 91,
-          "viento": 17.8,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 1.8,
+          "sensacion": 0.3,
+          "humedad": 95,
+          "viento": 5.3,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -506468,22 +506344,21 @@
           "lon": -4.05832
         },
         "clima": {
-          "temperatura": 3.0,
-          "sensacion": -0.4,
+          "temperatura": 2.4,
+          "sensacion": 2.4,
           "humedad": 92,
-          "viento": 12.9,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 1.6,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -518044,22 +517919,21 @@
           "lon": -3.634679
         },
         "clima": {
-          "temperatura": 6.3,
-          "sensacion": 3.7,
+          "temperatura": 6.4,
+          "sensacion": 5.5,
           "humedad": 100,
-          "viento": 13.0,
-          "descripcion": "niebla",
-          "icono": "50d"
+          "viento": 5.5,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -520909,21 +520783,20 @@
         },
         "clima": {
           "temperatura": 4.0,
-          "sensacion": 0.0,
-          "humedad": 93,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "sensacion": 0.9,
+          "humedad": 94,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -523794,20 +523667,19 @@
         "clima": {
           "temperatura": 3.4,
           "sensacion": 2.3,
-          "humedad": 91,
+          "humedad": 93,
           "viento": 4.8,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -525614,22 +525486,21 @@
           "lon": -3.521225
         },
         "clima": {
-          "temperatura": 4.0,
-          "sensacion": 3.1,
-          "humedad": 92,
+          "temperatura": 3.9,
+          "sensacion": 3.0,
+          "humedad": 94,
           "viento": 4.8,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -527902,21 +527773,20 @@
           "lon": -3.302722
         },
         "clima": {
-          "temperatura": 4.2,
-          "sensacion": -1.0,
-          "humedad": 92,
-          "viento": 30.4,
+          "temperatura": 5.7,
+          "sensacion": 0.7,
+          "humedad": 94,
+          "viento": 33.1,
           "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 5,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (30 km/h), sujeta bien tus pertenencias",
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias",
             "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
@@ -528248,22 +528118,21 @@
           "lon": -3.31472
         },
         "clima": {
-          "temperatura": 3.6,
-          "sensacion": 0.8,
-          "humedad": 94,
+          "temperatura": 4.6,
+          "sensacion": 2.0,
+          "humedad": 93,
           "viento": 11.1,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -528956,22 +528825,21 @@
           "lon": -3.485242
         },
         "clima": {
-          "temperatura": 5.5,
-          "sensacion": 1.9,
-          "humedad": 95,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 6.2,
+          "sensacion": 3.5,
+          "humedad": 96,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -530193,11 +530061,11 @@
         },
         "clima": {
           "temperatura": 2.1,
-          "sensacion": -2.2,
-          "humedad": 92,
-          "viento": 17.6,
+          "sensacion": 2.1,
+          "humedad": 93,
+          "viento": 3.1,
           "descripcion": "nubes",
-          "icono": "04d"
+          "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
@@ -531907,22 +531775,21 @@
           "lon": -3.62251
         },
         "clima": {
-          "temperatura": 1.6,
-          "sensacion": -2.5,
-          "humedad": 92,
-          "viento": 15.8,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "temperatura": 1.7,
+          "sensacion": 1.7,
+          "humedad": 93,
+          "viento": 1.5,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -532495,22 +532362,20 @@
           "lon": -3.482025
         },
         "clima": {
-          "temperatura": 5.0,
-          "sensacion": -0.4,
-          "humedad": 94,
-          "viento": 35.9,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 6.1,
+          "sensacion": 1.3,
+          "humedad": 90,
+          "viento": 33.6,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 25,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (35 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#ef4444"
         }
@@ -533409,22 +533274,21 @@
           "lon": -4.300618
         },
         "clima": {
-          "temperatura": 5.1,
-          "sensacion": 1.9,
-          "humedad": 93,
-          "viento": 14.7,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 4,
+          "sensacion": -0.1,
+          "humedad": 94,
+          "viento": 19.3,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -537305,22 +537169,21 @@
           "lon": -3.359967
         },
         "clima": {
-          "temperatura": 4.7,
-          "sensacion": 0.9,
-          "humedad": 94,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 5.3,
+          "sensacion": 2.4,
+          "humedad": 95,
+          "viento": 13.0,
+          "descripcion": "niebla",
+          "icono": "50n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -544861,22 +544724,20 @@
           "lon": -3.243897
         },
         "clima": {
-          "temperatura": 4.8,
-          "sensacion": -0.5,
-          "humedad": 94,
-          "viento": 33.1,
-          "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "temperatura": 6.5,
+          "sensacion": 1.6,
+          "humedad": 88,
+          "viento": 35.7,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 25,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "💨 Viento moderado (35 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#ef4444"
         }
@@ -547451,23 +547312,21 @@
           "lon": -4.126247
         },
         "clima": {
-          "temperatura": 5.2,
-          "sensacion": 1.3,
+          "temperatura": 3.6,
+          "sensacion": -0.6,
           "humedad": 99,
-          "viento": 20.6,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 19.2,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 5,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "💨 Viento moderado (20 km/h), sujeta bien tus pertenencias",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -552756,22 +552615,21 @@
           "lon": -4.139529
         },
         "clima": {
-          "temperatura": 5.2,
-          "sensacion": 1.3,
+          "temperatura": 3.6,
+          "sensacion": -0.0,
           "humedad": 99,
-          "viento": 19.7,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 15.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -556796,22 +556654,21 @@
           "lon": -3.979376
         },
         "clima": {
-          "temperatura": 4.6,
-          "sensacion": 1.6,
-          "humedad": 91,
-          "viento": 12.9,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 3.9,
+          "sensacion": 3.9,
+          "humedad": 92,
+          "viento": 1.6,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -562852,22 +562709,21 @@
           "lon": -3.967279
         },
         "clima": {
-          "temperatura": 4.4,
-          "sensacion": 1.3,
-          "humedad": 87,
-          "viento": 12.9,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 3.8,
+          "sensacion": 1.9,
+          "humedad": 91,
+          "viento": 7.1,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 10,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "☔ Lluvia moderada, mejor postponer actividades al aire libre"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -569504,22 +569360,21 @@
           "lon": -4.089038
         },
         "clima": {
-          "temperatura": 5.0,
-          "sensacion": 4.1,
+          "temperatura": 3.6,
+          "sensacion": 3.6,
           "humedad": 95,
-          "viento": 4.8,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "viento": 1.6,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -574776,21 +574631,20 @@
           "lon": -3.216706
         },
         "clima": {
-          "temperatura": 3.2,
-          "sensacion": -2.0,
-          "humedad": 97,
-          "viento": 28.2,
+          "temperatura": 6.0,
+          "sensacion": 1.1,
+          "humedad": 98,
+          "viento": 33.6,
           "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
-          "puntuacion": 0,
+          "puntuacion": 5,
           "mensaje": "Mejor quedarse en casa",
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (28 km/h), sujeta bien tus pertenencias",
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias",
             "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
@@ -577110,12 +576964,12 @@
           "lon": -3.260582
         },
         "clima": {
-          "temperatura": 4.1,
-          "sensacion": -1.3,
-          "humedad": 94,
-          "viento": 32.9,
+          "temperatura": 5.9,
+          "sensacion": 0.8,
+          "humedad": 89,
+          "viento": 35.2,
           "descripcion": "lluvia ligera",
-          "icono": "10d"
+          "icono": "10n"
         },
         "indice": {
           "nivel": "rojo",
@@ -577124,7 +576978,7 @@
           "consejos": [
             "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
             "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "💨 Viento moderado (32 km/h), sujeta bien tus pertenencias",
+            "💨 Viento moderado (35 km/h), sujeta bien tus pertenencias",
             "🌦️ Lluvia ligera, lleva paraguas o impermeable"
           ],
           "color": "#ef4444"
@@ -578844,22 +578698,21 @@
           "lon": -3.939837
         },
         "clima": {
-          "temperatura": 4.7,
-          "sensacion": 2.1,
-          "humedad": 94,
-          "viento": 11.1,
-          "descripcion": "niebla",
-          "icono": "50d"
+          "temperatura": 4.2,
+          "sensacion": 2.4,
+          "humedad": 92,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -584057,22 +583910,20 @@
         },
         "clima": {
           "temperatura": 0.2,
-          "sensacion": -5.0,
-          "humedad": 93,
-          "viento": 19.7,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "sensacion": -2.2,
+          "humedad": 94,
+          "viento": 6.9,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌬️ El viento hace que se sienta más frío de lo que indica la temperatura",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -586349,22 +586200,21 @@
           "lon": -4.180944
         },
         "clima": {
-          "temperatura": 2.2,
-          "sensacion": -2.3,
-          "humedad": 93,
-          "viento": 18.5,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 1.2,
+          "sensacion": -0.4,
+          "humedad": 92,
+          "viento": 5.5,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -587935,20 +587785,19 @@
         "clima": {
           "temperatura": 0.3,
           "sensacion": 0.3,
-          "humedad": 93,
-          "viento": 1.6,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "humedad": 94,
+          "viento": 1.5,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -589331,20 +589180,19 @@
         "clima": {
           "temperatura": 1.0,
           "sensacion": 1.0,
-          "humedad": 93,
-          "viento": 1.6,
-          "descripcion": "nieve",
-          "icono": "13d"
+          "humedad": 94,
+          "viento": 2.1,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 0,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌨️ Está nevando, extrema precaución con superficies resbaladizas"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -594993,22 +594841,21 @@
           "lon": -3.743271
         },
         "clima": {
-          "temperatura": 3.9,
-          "sensacion": 1.4,
-          "humedad": 92,
-          "viento": 9.6,
-          "descripcion": "lluvia moderada",
-          "icono": "10d"
+          "temperatura": 3.4,
+          "sensacion": 2.3,
+          "humedad": 95,
+          "viento": 4.8,
+          "descripcion": "nubes",
+          "icono": "04n"
         },
         "indice": {
-          "nivel": "rojo",
-          "puntuacion": 30,
-          "mensaje": "Mejor quedarse en casa",
+          "nivel": "amarillo",
+          "puntuacion": 50,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa",
-            "🌦️ Lluvia ligera, lleva paraguas o impermeable"
+            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
           ],
-          "color": "#ef4444"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
