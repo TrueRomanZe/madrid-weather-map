@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2026-07-22T02:12:45.933415",
-    "ultima_actualizacion_formateada": "22/07/2026 a las 02:12",
-    "total_municipios": 178,
-    "municipios_con_error": 1,
+    "ultima_actualizacion": "2026-07-22T05:47:16.060996",
+    "ultima_actualizacion_formateada": "22/07/2026 a las 05:47",
+    "total_municipios": 179,
+    "municipios_con_error": 0,
     "fuente_clima": "OpenWeatherMap",
     "fuente_geodatos": "ESRI/IGN España",
     "version_script": "2.0"
@@ -19,12 +19,12 @@
           "lon": -3.610449
         },
         "clima": {
-          "temperatura": 21.8,
-          "sensacion": 20.7,
-          "humedad": 29,
-          "viento": 6.0,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 19.5,
+          "sensacion": 18.4,
+          "humedad": 31,
+          "viento": 5.8,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -3326,12 +3326,12 @@
           "lon": -3.482734
         },
         "clima": {
-          "temperatura": 25.9,
-          "sensacion": 25.3,
-          "humedad": 28,
-          "viento": 2.0,
+          "temperatura": 27.4,
+          "sensacion": 26.6,
+          "humedad": 27,
+          "viento": 3.3,
           "descripcion": "muy nuboso",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -6333,12 +6333,12 @@
           "lon": -3.842371
         },
         "clima": {
-          "temperatura": 22.4,
-          "sensacion": 21.3,
-          "humedad": 23,
-          "viento": 6.0,
+          "temperatura": 20.2,
+          "sensacion": 19.1,
+          "humedad": 29,
+          "viento": 7.1,
           "descripcion": "muy nuboso",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -9168,19 +9168,19 @@
           "lon": -3.989167
         },
         "clima": {
-          "temperatura": 25.4,
-          "sensacion": 24.6,
-          "humedad": 24,
-          "viento": 4.8,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 24.9,
+          "sensacion": 24,
+          "humedad": 23,
+          "viento": 7.7,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -9955,12 +9955,12 @@
           "lon": -3.363968
         },
         "clima": {
-          "temperatura": 27.7,
-          "sensacion": 26.8,
+          "temperatura": 26.9,
+          "sensacion": 26.2,
           "humedad": 27,
-          "viento": 4.4,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "viento": 5.6,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -19834,12 +19834,12 @@
           "lon": -3.621706
         },
         "clima": {
-          "temperatura": 26.4,
-          "sensacion": 26.4,
-          "humedad": 33,
-          "viento": 4.2,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 28.8,
+          "sensacion": 27.4,
+          "humedad": 21,
+          "viento": 5.0,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -25621,12 +25621,12 @@
           "lon": -3.839792
         },
         "clima": {
-          "temperatura": 28.7,
-          "sensacion": 27.5,
-          "humedad": 26,
-          "viento": 8.2,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 25.5,
+          "sensacion": 24.7,
+          "humedad": 25,
+          "viento": 10.3,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -28012,12 +28012,12 @@
           "lon": -4.210169
         },
         "clima": {
-          "temperatura": 26.0,
-          "sensacion": 26.0,
-          "humedad": 24,
-          "viento": 5.6,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 25.4,
+          "sensacion": 24.7,
+          "humedad": 26,
+          "viento": 3.9,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -32055,12 +32055,12 @@
           "lon": -3.527639
         },
         "clima": {
-          "temperatura": 26.2,
-          "sensacion": 26.2,
-          "humedad": 31,
-          "viento": 1.8,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 25.5,
+          "sensacion": 24.7,
+          "humedad": 23,
+          "viento": 0.4,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -36818,12 +36818,12 @@
           "lon": -4.027135
         },
         "clima": {
-          "temperatura": 23.0,
-          "sensacion": 22.3,
-          "humedad": 34,
-          "viento": 3.1,
+          "temperatura": 22.2,
+          "sensacion": 20.9,
+          "humedad": 15,
+          "viento": 5.5,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -37241,12 +37241,12 @@
           "lon": -3.168989
         },
         "clima": {
-          "temperatura": 28.0,
-          "sensacion": 26.9,
-          "humedad": 25,
-          "viento": 5.0,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 26.4,
+          "sensacion": 26.4,
+          "humedad": 27,
+          "viento": 4.2,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -41788,12 +41788,12 @@
           "lon": -3.28222
         },
         "clima": {
-          "temperatura": 27.3,
-          "sensacion": 26.5,
-          "humedad": 26,
-          "viento": 3.2,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 26.0,
+          "sensacion": 26.0,
+          "humedad": 27,
+          "viento": 4.8,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -42427,12 +42427,12 @@
           "lon": -3.644678
         },
         "clima": {
-          "temperatura": 25.9,
-          "sensacion": 25.1,
+          "temperatura": 25.4,
+          "sensacion": 24.6,
           "humedad": 21,
-          "viento": 8.3,
+          "viento": 6.8,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -52790,12 +52790,12 @@
           "lon": -3.462584
         },
         "clima": {
-          "temperatura": 27.7,
-          "sensacion": 26.9,
-          "humedad": 30,
-          "viento": 3.2,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 29.8,
+          "sensacion": 28.4,
+          "humedad": 27,
+          "viento": 8.8,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -54005,12 +54005,12 @@
           "lon": -3.926499
         },
         "clima": {
-          "temperatura": 29.5,
-          "sensacion": 27.9,
-          "humedad": 20,
-          "viento": 6.7,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 25.2,
+          "sensacion": 24.3,
+          "humedad": 21,
+          "viento": 9.3,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -59396,12 +59396,12 @@
           "lon": -3.468614
         },
         "clima": {
-          "temperatura": 24.1,
-          "sensacion": 23.4,
-          "humedad": 32,
-          "viento": 5.6,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 21.8,
+          "sensacion": 21.0,
+          "humedad": 34,
+          "viento": 3.3,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -63195,19 +63195,19 @@
           "lon": -3.926533
         },
         "clima": {
-          "temperatura": 25.2,
-          "sensacion": 24.4,
-          "humedad": 23,
-          "viento": 6.7,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 24.6,
+          "sensacion": 23.7,
+          "humedad": 22,
+          "viento": 8.7,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -67694,19 +67694,19 @@
           "lon": -3.84954
         },
         "clima": {
-          "temperatura": 25.4,
-          "sensacion": 24.4,
-          "humedad": 17,
-          "viento": 2.7,
+          "temperatura": 22.4,
+          "sensacion": 21.1,
+          "humedad": 15,
+          "viento": 6.4,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -69299,19 +69299,19 @@
           "lon": -3.348116
         },
         "clima": {
-          "temperatura": 26.5,
-          "sensacion": 26.5,
-          "humedad": 21,
-          "viento": 8.6,
+          "temperatura": 24.4,
+          "sensacion": 23.5,
+          "humedad": 24,
+          "viento": 7.9,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -69798,12 +69798,12 @@
           "lon": -3.53488
         },
         "clima": {
-          "temperatura": 23.0,
-          "sensacion": 22.2,
-          "humedad": 32,
-          "viento": 0.9,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 20.8,
+          "sensacion": 19.9,
+          "humedad": 34,
+          "viento": 3.0,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -72649,12 +72649,12 @@
           "lon": -3.554974
         },
         "clima": {
-          "temperatura": 23.6,
-          "sensacion": 22.9,
-          "humedad": 32,
-          "viento": 4.4,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 21.4,
+          "sensacion": 20.5,
+          "humedad": 34,
+          "viento": 1.5,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -75012,12 +75012,12 @@
           "lon": -3.927358
         },
         "clima": {
-          "temperatura": 26.2,
-          "sensacion": 26.2,
-          "humedad": 31,
-          "viento": 6.1,
+          "temperatura": 25.9,
+          "sensacion": 25.2,
+          "humedad": 28,
+          "viento": 9.5,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -76951,19 +76951,19 @@
           "lon": -3.838989
         },
         "clima": {
-          "temperatura": 25.2,
-          "sensacion": 24.3,
-          "humedad": 18,
-          "viento": 2.7,
+          "temperatura": 22.4,
+          "sensacion": 21.1,
+          "humedad": 15,
+          "viento": 6.4,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -79284,12 +79284,12 @@
           "lon": -3.644638
         },
         "clima": {
-          "temperatura": 22.2,
-          "sensacion": 21.3,
-          "humedad": 32,
-          "viento": 5.0,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 20.0,
+          "sensacion": 18.9,
+          "humedad": 34,
+          "viento": 5.3,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -80339,12 +80339,12 @@
           "lon": -3.118776
         },
         "clima": {
-          "temperatura": 24.2,
-          "sensacion": 23.3,
-          "humedad": 21,
-          "viento": 4.0,
+          "temperatura": 23.0,
+          "sensacion": 22.1,
+          "humedad": 27,
+          "viento": 2.8,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -81518,19 +81518,19 @@
           "lon": -3.969077
         },
         "clima": {
-          "temperatura": 29.4,
-          "sensacion": 27.8,
-          "humedad": 20,
-          "viento": 4.2,
+          "temperatura": 24.5,
+          "sensacion": 23.6,
+          "humedad": 21,
+          "viento": 8.9,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -85373,12 +85373,12 @@
           "lon": -3.632485
         },
         "clima": {
-          "temperatura": 23.4,
-          "sensacion": 22.6,
-          "humedad": 32,
-          "viento": 3.2,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 21.2,
+          "sensacion": 20.3,
+          "humedad": 34,
+          "viento": 4.2,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -90264,12 +90264,12 @@
           "lon": -3.745877
         },
         "clima": {
-          "temperatura": 21.9,
-          "sensacion": 21.1,
-          "humedad": 33,
-          "viento": 3.1,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 20.2,
+          "sensacion": 19.2,
+          "humedad": 34,
+          "viento": 6.1,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -95307,12 +95307,12 @@
           "lon": -3.634406
         },
         "clima": {
-          "temperatura": 23.9,
-          "sensacion": 23.1,
-          "humedad": 32,
-          "viento": 4.2,
+          "temperatura": 21.6,
+          "sensacion": 20.7,
+          "humedad": 34,
+          "viento": 2.1,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -96322,12 +96322,12 @@
           "lon": -3.610937
         },
         "clima": {
-          "temperatura": 23.1,
-          "sensacion": 22.3,
-          "humedad": 32,
-          "viento": 3.6,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 20.8,
+          "sensacion": 19.9,
+          "humedad": 34,
+          "viento": 0.1,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -96861,12 +96861,12 @@
           "lon": -4.43542
         },
         "clima": {
-          "temperatura": 21.9,
-          "sensacion": 20.7,
-          "humedad": 21,
-          "viento": 7.6,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 20.6,
+          "sensacion": 19.4,
+          "humedad": 26,
+          "viento": 4.2,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -101068,12 +101068,12 @@
           "lon": -3.374819
         },
         "clima": {
-          "temperatura": 26.1,
-          "sensacion": 26.1,
-          "humedad": 29,
-          "viento": 0.6,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 26.5,
+          "sensacion": 26.5,
+          "humedad": 27,
+          "viento": 1.3,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -102099,12 +102099,12 @@
           "lon": -3.379375
         },
         "clima": {
-          "temperatura": 26.4,
-          "sensacion": 26.4,
-          "humedad": 30,
-          "viento": 7.5,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 28.5,
+          "sensacion": 27.2,
+          "humedad": 23,
+          "viento": 7.8,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -103294,12 +103294,12 @@
           "lon": -3.768817
         },
         "clima": {
-          "temperatura": 21.3,
-          "sensacion": 20.3,
-          "humedad": 32,
-          "viento": 4.7,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 19.1,
+          "sensacion": 17.9,
+          "humedad": 34,
+          "viento": 6.2,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -106181,12 +106181,12 @@
           "lon": -3.24611
         },
         "clima": {
-          "temperatura": 26.7,
-          "sensacion": 25.9,
-          "humedad": 21,
-          "viento": 6.8,
+          "temperatura": 26.1,
+          "sensacion": 26.1,
+          "humedad": 26,
+          "viento": 5.8,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -106604,12 +106604,12 @@
           "lon": -3.820407
         },
         "clima": {
-          "temperatura": 25.3,
-          "sensacion": 24.5,
+          "temperatura": 29.1,
+          "sensacion": 27.6,
           "humedad": 22,
-          "viento": 7.9,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "viento": 8.4,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -107647,12 +107647,12 @@
           "lon": -4.533585
         },
         "clima": {
-          "temperatura": 23.2,
-          "sensacion": 22.1,
-          "humedad": 19,
-          "viento": 4.9,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 21.5,
+          "sensacion": 20.3,
+          "humedad": 23,
+          "viento": 5.2,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -110446,12 +110446,12 @@
           "lon": -4.042725
         },
         "clima": {
-          "temperatura": 24.1,
-          "sensacion": 22.9,
-          "humedad": 14,
-          "viento": 4.5,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 24.4,
+          "sensacion": 23.3,
+          "humedad": 15,
+          "viento": 5.9,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -111497,12 +111497,12 @@
           "lon": -3.520999
         },
         "clima": {
-          "temperatura": 23.7,
-          "sensacion": 22.9,
-          "humedad": 32,
-          "viento": 3.5,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 21.5,
+          "sensacion": 20.6,
+          "humedad": 34,
+          "viento": 2.3,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -113324,12 +113324,12 @@
           "lon": -3.594524
         },
         "clima": {
-          "temperatura": 28.1,
-          "sensacion": 26.8,
+          "temperatura": 30.3,
+          "sensacion": 28.5,
           "humedad": 20,
-          "viento": 10.6,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "viento": 10.2,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -120335,12 +120335,12 @@
           "lon": -3.50114
         },
         "clima": {
-          "temperatura": 25.7,
-          "sensacion": 25.1,
-          "humedad": 30,
-          "viento": 0.9,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 26.8,
+          "sensacion": 26.0,
+          "humedad": 23,
+          "viento": 0.8,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -122398,12 +122398,12 @@
           "lon": -4.17023
         },
         "clima": {
-          "temperatura": 25.7,
-          "sensacion": 24.9,
-          "humedad": 24,
-          "viento": 6.4,
+          "temperatura": 25.1,
+          "sensacion": 24.4,
+          "humedad": 26,
+          "viento": 3.6,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -128349,12 +128349,12 @@
           "lon": -3.469745
         },
         "clima": {
-          "temperatura": 26.7,
-          "sensacion": 25.9,
+          "temperatura": 26.0,
+          "sensacion": 26.0,
           "humedad": 21,
-          "viento": 8.5,
+          "viento": 8.6,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -133912,19 +133912,19 @@
           "lon": -4.014838
         },
         "clima": {
-          "temperatura": 26.6,
-          "sensacion": 26.6,
-          "humedad": 5,
-          "viento": 1.2,
+          "temperatura": 23.1,
+          "sensacion": 21.9,
+          "humedad": 15,
+          "viento": 6.7,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -142163,19 +142163,19 @@
           "lon": -3.715167
         },
         "clima": {
-          "temperatura": 25.1,
-          "sensacion": 24.6,
-          "humedad": 34,
-          "viento": 2.8,
+          "temperatura": 24.1,
+          "sensacion": 23.2,
+          "humedad": 25,
+          "viento": 5.4,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -156318,19 +156318,19 @@
           "lon": -4.041707
         },
         "clima": {
-          "temperatura": 25.8,
-          "sensacion": 24.7,
-          "humedad": 9,
-          "viento": 3.8,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 22.0,
+          "sensacion": 20.6,
+          "humedad": 15,
+          "viento": 5.7,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -157881,19 +157881,19 @@
           "lon": -3.980356
         },
         "clima": {
-          "temperatura": 25.6,
-          "sensacion": 24.4,
-          "humedad": 5,
-          "viento": 2.2,
+          "temperatura": 21.8,
+          "sensacion": 20.4,
+          "humedad": 15,
+          "viento": 5.8,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -160156,12 +160156,12 @@
           "lon": -3.240008
         },
         "clima": {
-          "temperatura": 27.0,
-          "sensacion": 26.3,
-          "humedad": 25,
-          "viento": 3.2,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 25.4,
+          "sensacion": 24.7,
+          "humedad": 27,
+          "viento": 4.8,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -160779,12 +160779,12 @@
           "lon": -3.547807
         },
         "clima": {
-          "temperatura": 27.6,
-          "sensacion": 26.8,
-          "humedad": 30,
-          "viento": 3.2,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 26.8,
+          "sensacion": 26.4,
+          "humedad": 31,
+          "viento": 7.1,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -162142,12 +162142,12 @@
           "lon": -3.836673
         },
         "clima": {
-          "temperatura": 25.1,
-          "sensacion": 24.2,
+          "temperatura": 28.9,
+          "sensacion": 27.4,
           "humedad": 22,
-          "viento": 8.2,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "viento": 9.0,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -163105,12 +163105,12 @@
           "lon": -4.197827
         },
         "clima": {
-          "temperatura": 25.6,
-          "sensacion": 24.9,
-          "humedad": 24,
-          "viento": 6.4,
+          "temperatura": 25.1,
+          "sensacion": 24.3,
+          "humedad": 26,
+          "viento": 3.8,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -165696,12 +165696,12 @@
           "lon": -3.509946
         },
         "clima": {
-          "temperatura": 27.7,
-          "sensacion": 26.5,
+          "temperatura": 29.9,
+          "sensacion": 28.1,
           "humedad": 20,
-          "viento": 10.3,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "viento": 10.2,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -170171,12 +170171,12 @@
           "lon": -3.454857
         },
         "clima": {
-          "temperatura": 26.1,
-          "sensacion": 26.1,
-          "humedad": 28,
-          "viento": 0.6,
+          "temperatura": 26.8,
+          "sensacion": 26.2,
+          "humedad": 27,
+          "viento": 2.1,
           "descripcion": "muy nuboso",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -173326,19 +173326,19 @@
           "lon": -4.091847
         },
         "clima": {
-          "temperatura": 26.6,
-          "sensacion": 26.6,
-          "humedad": 5,
-          "viento": 1.7,
+          "temperatura": 22.7,
+          "sensacion": 21.4,
+          "humedad": 15,
+          "viento": 5.0,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -178761,19 +178761,19 @@
           "lon": -3.088146
         },
         "clima": {
-          "temperatura": 25.7,
-          "sensacion": 24.9,
-          "humedad": 21,
-          "viento": 5.1,
+          "temperatura": 24.5,
+          "sensacion": 23.6,
+          "humedad": 26,
+          "viento": 4.2,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -186632,12 +186632,12 @@
           "lon": -4.185589
         },
         "clima": {
-          "temperatura": 26.6,
-          "sensacion": 26.6,
-          "humedad": 23,
-          "viento": 5.9,
+          "temperatura": 26.5,
+          "sensacion": 26.5,
+          "humedad": 26,
+          "viento": 3.0,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -190371,12 +190371,12 @@
           "lon": -3.406588
         },
         "clima": {
-          "temperatura": 25.9,
-          "sensacion": 25.3,
-          "humedad": 30,
-          "viento": 2.1,
+          "temperatura": 26.3,
+          "sensacion": 26.3,
+          "humedad": 27,
+          "viento": 1.0,
           "descripcion": "muy nuboso",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -191070,12 +191070,12 @@
           "lon": -3.801138
         },
         "clima": {
-          "temperatura": 29.2,
-          "sensacion": 27.6,
-          "humedad": 20,
-          "viento": 9.8,
+          "temperatura": 25.7,
+          "sensacion": 24.9,
+          "humedad": 23,
+          "viento": 10.5,
           "descripcion": "muy nuboso",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -194893,12 +194893,12 @@
           "lon": -3.53778
         },
         "clima": {
-          "temperatura": 26.2,
-          "sensacion": 26.2,
-          "humedad": 31,
-          "viento": 2.9,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 25.6,
+          "sensacion": 24.8,
+          "humedad": 24,
+          "viento": 1.2,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -196592,19 +196592,19 @@
           "lon": -3.161077
         },
         "clima": {
-          "temperatura": 26.1,
-          "sensacion": 26.1,
-          "humedad": 21,
-          "viento": 6.8,
+          "temperatura": 24.7,
+          "sensacion": 23.9,
+          "humedad": 26,
+          "viento": 6.2,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -199183,19 +199183,19 @@
           "lon": -3.980142
         },
         "clima": {
-          "temperatura": 26.3,
-          "sensacion": 26.3,
-          "humedad": 5,
-          "viento": 2.9,
+          "temperatura": 22.8,
+          "sensacion": 21.6,
+          "humedad": 15,
+          "viento": 7.3,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -208754,12 +208754,12 @@
           "lon": -3.684855
         },
         "clima": {
-          "temperatura": 23.0,
-          "sensacion": 22.1,
-          "humedad": 32,
-          "viento": 4.8,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 20.7,
+          "sensacion": 19.8,
+          "humedad": 34,
+          "viento": 5.3,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -212149,12 +212149,12 @@
           "lon": -3.69538
         },
         "clima": {
-          "temperatura": 22.9,
-          "sensacion": 22.1,
-          "humedad": 32,
-          "viento": 4.8,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 20.7,
+          "sensacion": 19.7,
+          "humedad": 34,
+          "viento": 5.3,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -216292,12 +216292,12 @@
           "lon": -3.650973
         },
         "clima": {
-          "temperatura": 22.7,
-          "sensacion": 21.9,
-          "humedad": 32,
-          "viento": 4.1,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 20.5,
+          "sensacion": 19.5,
+          "humedad": 34,
+          "viento": 4.9,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -218787,12 +218787,12 @@
           "lon": -3.666697
         },
         "clima": {
-          "temperatura": 28.9,
-          "sensacion": 27.5,
+          "temperatura": 29.6,
+          "sensacion": 28.1,
           "humedad": 25,
-          "viento": 10.9,
+          "viento": 10.8,
           "descripcion": "muy nuboso",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -224038,12 +224038,12 @@
           "lon": -3.841535
         },
         "clima": {
-          "temperatura": 29.3,
-          "sensacion": 27.7,
+          "temperatura": 25.5,
+          "sensacion": 24.6,
           "humedad": 22,
-          "viento": 8.4,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "viento": 9.5,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -225261,12 +225261,12 @@
           "lon": -3.691235
         },
         "clima": {
-          "temperatura": 23.4,
-          "sensacion": 22.7,
-          "humedad": 33,
-          "viento": 3.6,
+          "temperatura": 21.2,
+          "sensacion": 20.3,
+          "humedad": 34,
+          "viento": 4.8,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -228428,12 +228428,12 @@
           "lon": -4.078507
         },
         "clima": {
-          "temperatura": 25.5,
-          "sensacion": 24.5,
-          "humedad": 14,
-          "viento": 3.5,
+          "temperatura": 25.9,
+          "sensacion": 24.9,
+          "humedad": 15,
+          "viento": 5.9,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -230891,12 +230891,12 @@
           "lon": -3.445731
         },
         "clima": {
-          "temperatura": 21.0,
-          "sensacion": 19.9,
-          "humedad": 28,
-          "viento": 1.8,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 18.8,
+          "sensacion": 17.6,
+          "humedad": 31,
+          "viento": 4.0,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -236454,12 +236454,12 @@
           "lon": -3.592696
         },
         "clima": {
-          "temperatura": 22.7,
-          "sensacion": 21.8,
-          "humedad": 29,
-          "viento": 5.0,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 20.5,
+          "sensacion": 19.4,
+          "humedad": 31,
+          "viento": 5.4,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -239593,12 +239593,12 @@
           "lon": -3.555558
         },
         "clima": {
-          "temperatura": 22.1,
-          "sensacion": 21.2,
-          "humedad": 32,
-          "viento": 3.0,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 19.9,
+          "sensacion": 18.8,
+          "humedad": 34,
+          "viento": 4.7,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -241784,19 +241784,19 @@
           "lon": -3.882328
         },
         "clima": {
-          "temperatura": 25.6,
-          "sensacion": 24.7,
-          "humedad": 20,
-          "viento": 3.6,
+          "temperatura": 23.6,
+          "sensacion": 22.6,
+          "humedad": 22,
+          "viento": 7.0,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -243007,12 +243007,12 @@
           "lon": -3.833536
         },
         "clima": {
-          "temperatura": 29.1,
-          "sensacion": 27.5,
-          "humedad": 20,
-          "viento": 8.5,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 25.2,
+          "sensacion": 24.4,
+          "humedad": 21,
+          "viento": 9.9,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -244570,12 +244570,12 @@
           "lon": -3.789859
         },
         "clima": {
-          "temperatura": 29.1,
-          "sensacion": 27.7,
-          "humedad": 24,
-          "viento": 9.6,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 26.0,
+          "sensacion": 26.0,
+          "humedad": 22,
+          "viento": 10.5,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -246385,12 +246385,12 @@
           "lon": -3.41232
         },
         "clima": {
-          "temperatura": 27.0,
-          "sensacion": 26.4,
-          "humedad": 30,
-          "viento": 3.2,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 28.1,
+          "sensacion": 27.0,
+          "humedad": 27,
+          "viento": 7.7,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -247752,12 +247752,12 @@
           "lon": -3.766938
         },
         "clima": {
-          "temperatura": 21.9,
-          "sensacion": 21.0,
-          "humedad": 32,
-          "viento": 6.5,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 19.7,
+          "sensacion": 18.6,
+          "humedad": 34,
+          "viento": 6.7,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -251011,12 +251011,12 @@
           "lon": -3.575656
         },
         "clima": {
-          "temperatura": 23.1,
-          "sensacion": 22.3,
-          "humedad": 32,
-          "viento": 3.0,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 20.9,
+          "sensacion": 19.9,
+          "humedad": 34,
+          "viento": 4.7,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -254266,12 +254266,12 @@
           "lon": -3.686642
         },
         "clima": {
-          "temperatura": 26.6,
-          "sensacion": 26.6,
-          "humedad": 34,
-          "viento": 6.1,
+          "temperatura": 26.0,
+          "sensacion": 26.0,
+          "humedad": 31,
+          "viento": 1.6,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -268689,12 +268689,12 @@
           "lon": -3.919687
         },
         "clima": {
-          "temperatura": 27.2,
-          "sensacion": 26.6,
-          "humedad": 31,
-          "viento": 5.4,
+          "temperatura": 26.2,
+          "sensacion": 26.2,
+          "humedad": 30,
+          "viento": 8.9,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -273548,12 +273548,12 @@
           "lon": -3.938264
         },
         "clima": {
-          "temperatura": 21.9,
-          "sensacion": 21,
-          "humedad": 34,
-          "viento": 2.7,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 21.8,
+          "sensacion": 20.5,
+          "humedad": 15,
+          "viento": 5.0,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -276553,12 +276553,12 @@
           "lon": -3.328421
         },
         "clima": {
-          "temperatura": 27.4,
-          "sensacion": 26.5,
+          "temperatura": 26.6,
+          "sensacion": 26.6,
           "humedad": 27,
           "viento": 4.8,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -277856,12 +277856,12 @@
           "lon": -3.490979
         },
         "clima": {
-          "temperatura": 27.6,
-          "sensacion": 26.8,
-          "humedad": 29,
-          "viento": 3.2,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 29.9,
+          "sensacion": 28.4,
+          "humedad": 27,
+          "viento": 7.4,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -278927,12 +278927,12 @@
           "lon": -3.763446
         },
         "clima": {
-          "temperatura": 22.1,
-          "sensacion": 21.2,
-          "humedad": 33,
-          "viento": 3.1,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 20.6,
+          "sensacion": 19.6,
+          "humedad": 34,
+          "viento": 6.1,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -283694,19 +283694,19 @@
           "lon": -3.561263
         },
         "clima": {
-          "temperatura": 25.6,
-          "sensacion": 25.1,
-          "humedad": 31,
-          "viento": 4.4,
+          "temperatura": 22.2,
+          "sensacion": 21.6,
+          "humedad": 46,
+          "viento": 2.1,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -289141,19 +289141,19 @@
           "lon": -4.089288
         },
         "clima": {
-          "temperatura": 24.7,
-          "sensacion": 23.7,
-          "humedad": 17,
-          "viento": 5.5,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 25.4,
+          "sensacion": 24.4,
+          "humedad": 15,
+          "viento": 7.3,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 100,
+          "puntuacion": 80,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "✨ Condiciones perfectas para actividades al aire libre"
+            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
           ],
           "color": "#10b981"
         }
@@ -289924,12 +289924,12 @@
           "lon": -3.503049
         },
         "clima": {
-          "temperatura": 19.9,
-          "sensacion": 18.7,
-          "humedad": 28,
-          "viento": 4.0,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 17.7,
+          "sensacion": 16.3,
+          "humedad": 31,
+          "viento": 5.5,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -296207,12 +296207,12 @@
           "lon": -3.886954
         },
         "clima": {
-          "temperatura": 29.4,
-          "sensacion": 27.7,
-          "humedad": 20,
-          "viento": 7.6,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 25.1,
+          "sensacion": 24.3,
+          "humedad": 21,
+          "viento": 9.5,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -301286,19 +301286,19 @@
           "lon": -3.952806
         },
         "clima": {
-          "temperatura": 25.1,
-          "sensacion": 23.8,
-          "humedad": 5,
-          "viento": 2.2,
+          "temperatura": 21.4,
+          "sensacion": 20.0,
+          "humedad": 15,
+          "viento": 5.5,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -303047,12 +303047,12 @@
           "lon": -3.458801
         },
         "clima": {
-          "temperatura": 27.8,
-          "sensacion": 27.0,
-          "humedad": 30,
-          "viento": 9.8,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 30.0,
+          "sensacion": 28.3,
+          "humedad": 21,
+          "viento": 9.5,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -304030,12 +304030,12 @@
           "lon": -3.930808
         },
         "clima": {
-          "temperatura": 29.5,
-          "sensacion": 27.9,
-          "humedad": 20,
-          "viento": 6.7,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 25.2,
+          "sensacion": 24.3,
+          "humedad": 21,
+          "viento": 9.3,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -310123,12 +310123,12 @@
           "lon": -4.021912
         },
         "clima": {
-          "temperatura": 22.6,
-          "sensacion": 21.2,
-          "humedad": 12,
-          "viento": 5.2,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 18.9,
+          "sensacion": 17.3,
+          "humedad": 15,
+          "viento": 6.2,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -311584,12 +311584,12 @@
           "lon": -3.682464
         },
         "clima": {
-          "temperatura": 23.6,
-          "sensacion": 22.9,
-          "humedad": 33,
-          "viento": 3.5,
+          "temperatura": 21.4,
+          "sensacion": 20.5,
+          "humedad": 34,
+          "viento": 4.6,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -312859,12 +312859,12 @@
           "lon": -4.131724
         },
         "clima": {
-          "temperatura": 24.4,
-          "sensacion": 23.5,
-          "humedad": 23,
-          "viento": 3.7,
+          "temperatura": 23.8,
+          "sensacion": 22.9,
+          "humedad": 25,
+          "viento": 4.8,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -323442,19 +323442,19 @@
           "lon": -3.982821
         },
         "clima": {
-          "temperatura": 25.2,
-          "sensacion": 24.4,
-          "humedad": 24,
-          "viento": 4.5,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 24.7,
+          "sensacion": 23.8,
+          "humedad": 22,
+          "viento": 8.3,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -327069,12 +327069,12 @@
           "lon": -3.73326
         },
         "clima": {
-          "temperatura": 21.2,
-          "sensacion": 20.2,
-          "humedad": 32,
-          "viento": 6.6,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 19.0,
+          "sensacion": 17.9,
+          "humedad": 34,
+          "viento": 6.3,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -328240,12 +328240,12 @@
           "lon": -4.291458
         },
         "clima": {
-          "temperatura": 23.5,
-          "sensacion": 22.5,
-          "humedad": 24,
-          "viento": 8.7,
+          "temperatura": 22.5,
+          "sensacion": 21.5,
+          "humedad": 27,
+          "viento": 3.5,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -330803,12 +330803,12 @@
           "lon": -3.236496
         },
         "clima": {
-          "temperatura": 27.0,
-          "sensacion": 26.3,
-          "humedad": 25,
-          "viento": 5.8,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 25.4,
+          "sensacion": 24.7,
+          "humedad": 27,
+          "viento": 5.7,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -332226,12 +332226,12 @@
           "lon": -3.224204
         },
         "clima": {
-          "temperatura": 27.4,
-          "sensacion": 26.5,
-          "humedad": 25,
-          "viento": 5.4,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 25.8,
+          "sensacion": 25.1,
+          "humedad": 27,
+          "viento": 5.0,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -333969,12 +333969,12 @@
           "lon": -3.207403
         },
         "clima": {
-          "temperatura": 28.0,
-          "sensacion": 26.8,
-          "humedad": 21,
-          "viento": 6.0,
+          "temperatura": 26.3,
+          "sensacion": 26.3,
+          "humedad": 26,
+          "viento": 5.0,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -334304,12 +334304,12 @@
           "lon": -3.530467
         },
         "clima": {
-          "temperatura": 26.5,
-          "sensacion": 26.5,
-          "humedad": 30,
-          "viento": 2.7,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 26.4,
+          "sensacion": 26.4,
+          "humedad": 34,
+          "viento": 3.7,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -338139,12 +338139,12 @@
           "lon": -3.775916
         },
         "clima": {
-          "temperatura": 29.3,
-          "sensacion": 27.7,
-          "humedad": 20,
-          "viento": 9.8,
+          "temperatura": 26.4,
+          "sensacion": 26.4,
+          "humedad": 21,
+          "viento": 10.1,
           "descripcion": "muy nuboso",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -340718,12 +340718,12 @@
           "lon": -3.478354
         },
         "clima": {
-          "temperatura": 22.4,
-          "sensacion": 21.5,
-          "humedad": 32,
-          "viento": 6.5,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 20.2,
+          "sensacion": 19.1,
+          "humedad": 34,
+          "viento": 4.0,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -347245,19 +347245,19 @@
           "lon": -3.622626
         },
         "clima": {
-          "temperatura": 25.1,
-          "sensacion": 24.6,
-          "humedad": 33,
-          "viento": 4.1,
+          "temperatura": 22.1,
+          "sensacion": 21.4,
+          "humedad": 41,
+          "viento": 2.7,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -349768,12 +349768,12 @@
           "lon": -4.328809
         },
         "clima": {
-          "temperatura": 23.0,
-          "sensacion": 21.9,
-          "humedad": 23,
-          "viento": 9.1,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 21.8,
+          "sensacion": 20.8,
+          "humedad": 27,
+          "viento": 3.7,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -350011,12 +350011,12 @@
           "lon": -3.338045
         },
         "clima": {
-          "temperatura": 27.2,
-          "sensacion": 26.2,
-          "humedad": 21,
-          "viento": 8.2,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 29.4,
+          "sensacion": 27.9,
+          "humedad": 25,
+          "viento": 7.4,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -351478,12 +351478,12 @@
           "lon": -3.181543
         },
         "clima": {
-          "temperatura": 26.9,
-          "sensacion": 26.2,
-          "humedad": 25,
-          "viento": 4.6,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 25.2,
+          "sensacion": 24.5,
+          "humedad": 27,
+          "viento": 4.4,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -352825,12 +352825,12 @@
           "lon": -3.820076
         },
         "clima": {
-          "temperatura": 22.6,
-          "sensacion": 21.8,
-          "humedad": 32,
-          "viento": 7.2,
+          "temperatura": 20.4,
+          "sensacion": 19.4,
+          "humedad": 34,
+          "viento": 7.6,
           "descripcion": "muy nuboso",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -354796,12 +354796,12 @@
           "lon": -3.678275
         },
         "clima": {
-          "temperatura": 28.7,
-          "sensacion": 27.4,
+          "temperatura": 28.9,
+          "sensacion": 27.5,
           "humedad": 25,
-          "viento": 11.1,
+          "viento": 10.8,
           "descripcion": "muy nuboso",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -358971,12 +358971,12 @@
           "lon": -3.601745
         },
         "clima": {
-          "temperatura": 22.9,
-          "sensacion": 22.1,
-          "humedad": 32,
-          "viento": 4.0,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 20.7,
+          "sensacion": 19.7,
+          "humedad": 34,
+          "viento": 5.0,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -363483,11 +363483,11 @@
         },
         "clima": {
           "temperatura": 26.7,
-          "sensacion": 26.3,
-          "humedad": 31,
-          "viento": 7.4,
+          "sensacion": 26.1,
+          "humedad": 28,
+          "viento": 9.6,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -364493,12 +364493,12 @@
           "lon": -3.309731
         },
         "clima": {
-          "temperatura": 26.7,
-          "sensacion": 26.1,
+          "temperatura": 25.5,
+          "sensacion": 24.8,
           "humedad": 27,
           "viento": 6.2,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -364892,12 +364892,12 @@
           "lon": -3.533908
         },
         "clima": {
-          "temperatura": 22.4,
-          "sensacion": 21.5,
-          "humedad": 32,
-          "viento": 2.1,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 20.2,
+          "sensacion": 19.1,
+          "humedad": 34,
+          "viento": 4.4,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -367519,12 +367519,12 @@
           "lon": -3.466933
         },
         "clima": {
-          "temperatura": 22.8,
-          "sensacion": 21.9,
-          "humedad": 32,
-          "viento": 3.1,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 20.6,
+          "sensacion": 19.6,
+          "humedad": 34,
+          "viento": 2.2,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -371882,19 +371882,19 @@
           "lon": -4.074212
         },
         "clima": {
-          "temperatura": 29.9,
-          "sensacion": 28.2,
+          "temperatura": 24.9,
+          "sensacion": 24.1,
           "humedad": 23,
-          "viento": 1.5,
+          "viento": 6.7,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -377381,12 +377381,12 @@
           "lon": -3.870389
         },
         "clima": {
-          "temperatura": 22.2,
-          "sensacion": 21.1,
-          "humedad": 23,
-          "viento": 6.5,
+          "temperatura": 20,
+          "sensacion": 18.8,
+          "humedad": 29,
+          "viento": 7.2,
           "descripcion": "muy nuboso",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -380572,12 +380572,12 @@
           "lon": -3.594201
         },
         "clima": {
-          "temperatura": 24.9,
-          "sensacion": 24.2,
-          "humedad": 32,
-          "viento": 4.8,
+          "temperatura": 22.5,
+          "sensacion": 21.7,
+          "humedad": 34,
+          "viento": 1.5,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -382135,19 +382135,19 @@
           "lon": -3.417305
         },
         "clima": {
-          "temperatura": 25.3,
-          "sensacion": 24.6,
-          "humedad": 30,
-          "viento": 4.6,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 21.5,
+          "sensacion": 20.9,
+          "humedad": 46,
+          "viento": 3.4,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -385711,6 +385711,3513 @@
     {
       "type": "Feature",
       "properties": {
+        "nombre": "Rivas-Vaciamadrid",
+        "codigo_ine": "34132828123",
+        "coordenadas": {
+          "lat": 40.365633,
+          "lon": -3.519172
+        },
+        "clima": {
+          "temperatura": 27.0,
+          "sensacion": 26.4,
+          "humedad": 30,
+          "viento": 8.5,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
+        },
+        "indice": {
+          "nivel": "verde",
+          "puntuacion": 80,
+          "mensaje": "Excelente para salir",
+          "consejos": [
+            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+          ],
+          "color": "#10b981"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.576126930361898,
+              40.314885110106914
+            ],
+            [
+              -3.577796150178447,
+              40.314647969788325
+            ],
+            [
+              -3.579282429884028,
+              40.315867599875936
+            ],
+            [
+              -3.580484939876164,
+              40.3159678999168
+            ],
+            [
+              -3.580495380096397,
+              40.31594983012539
+            ],
+            [
+              -3.5818859398168583,
+              40.31588069006271
+            ],
+            [
+              -3.5824095597111567,
+              40.316141130208855
+            ],
+            [
+              -3.5838178899045667,
+              40.315812419823644
+            ],
+            [
+              -3.5850744398492607,
+              40.31835478979717
+            ],
+            [
+              -3.5850710397259133,
+              40.32041610994687
+            ],
+            [
+              -3.584363319995627,
+              40.32256386990901
+            ],
+            [
+              -3.583244409918772,
+              40.32480828988585
+            ],
+            [
+              -3.582488200027762,
+              40.32625535983171
+            ],
+            [
+              -3.5795198600035003,
+              40.327949549997086
+            ],
+            [
+              -3.5767637101341982,
+              40.33025071984478
+            ],
+            [
+              -3.5752823496031234,
+              40.33186171967949
+            ],
+            [
+              -3.5727382596330672,
+              40.33365992966138
+            ],
+            [
+              -3.5718833895710387,
+              40.33461462000525
+            ],
+            [
+              -3.5699462499159655,
+              40.337631419707904
+            ],
+            [
+              -3.5682465502617995,
+              40.34090379026641
+            ],
+            [
+              -3.566220349832824,
+              40.34330834017633
+            ],
+            [
+              -3.5653603396107365,
+              40.344378330223236
+            ],
+            [
+              -3.5621566903893833,
+              40.34709485029273
+            ],
+            [
+              -3.5607420899553,
+              40.34917650970929
+            ],
+            [
+              -3.558914180048861,
+              40.3502700297091
+            ],
+            [
+              -3.5576904096288864,
+              40.3526660601938
+            ],
+            [
+              -3.5566364899678735,
+              40.353098150014596
+            ],
+            [
+              -3.5547292803814265,
+              40.35430820995205
+            ],
+            [
+              -3.5532935704364497,
+              40.35601330024439
+            ],
+            [
+              -3.552907959617597,
+              40.357680930262305
+            ],
+            [
+              -3.5528553003756445,
+              40.360031680123065
+            ],
+            [
+              -3.5527700996625367,
+              40.362002390097594
+            ],
+            [
+              -3.552802069805171,
+              40.36447705024422
+            ],
+            [
+              -3.551770960165857,
+              40.3683135598614
+            ],
+            [
+              -3.5514597999211137,
+              40.37016911971755
+            ],
+            [
+              -3.551411529847646,
+              40.370172050337715
+            ],
+            [
+              -3.551364469804835,
+              40.370178589822466
+            ],
+            [
+              -3.5513268303944514,
+              40.37018506976341
+            ],
+            [
+              -3.551286869737335,
+              40.37019517020242
+            ],
+            [
+              -3.55127044044912,
+              40.370203359783446
+            ],
+            [
+              -3.5512540399069783,
+              40.37021425002204
+            ],
+            [
+              -3.551244710004424,
+              40.37022599987022
+            ],
+            [
+              -3.551236559589859,
+              40.37023774971641
+            ],
+            [
+              -3.5512180902276356,
+              40.37028379023144
+            ],
+            [
+              -3.551203250059119,
+              40.3703415203156
+            ],
+            [
+              -3.5511896603454955,
+              40.37040825023867
+            ],
+            [
+              -3.5511843000982144,
+              40.3704731397402
+            ],
+            [
+              -3.5511887503521353,
+              40.37058662983065
+            ],
+            [
+              -3.551196359980881,
+              40.37079740973585
+            ],
+            [
+              -3.5512061597023172,
+              40.370989259954094
+            ],
+            [
+              -3.5512174901530074,
+              40.37107839976372
+            ],
+            [
+              -3.551232040165662,
+              40.37112878013633
+            ],
+            [
+              -3.551231060103695,
+              40.371298160106086
+            ],
+            [
+              -3.5512233399821396,
+              40.37136305970102
+            ],
+            [
+              -3.5512130596620226,
+              40.37140274965851
+            ],
+            [
+              -3.5511682597805097,
+              40.37154260022974
+            ],
+            [
+              -3.5511420999411007,
+              40.3716562397693
+            ],
+            [
+              -3.551144140015109,
+              40.37176253973688
+            ],
+            [
+              -3.551158820283476,
+              40.371830040242166
+            ],
+            [
+              -3.551184200385203,
+              40.37190829992679
+            ],
+            [
+              -3.5512154500789994,
+              40.3719856301242
+            ],
+            [
+              -3.5512466997727947,
+              40.372062060266195
+            ],
+            [
+              -3.5512628398035115,
+              40.37216377969422
+            ],
+            [
+              -3.5512716702427465,
+              40.372235819998224
+            ],
+            [
+              -3.5512712103052992,
+              40.37232411020889
+            ],
+            [
+              -3.5512661402138477,
+              40.37242412992173
+            ],
+            [
+              -3.5512628299220435,
+              40.372596220202034
+            ],
+            [
+              -3.5512460601722946,
+              40.372852160000484
+            ],
+            [
+              -3.5512450801103284,
+              40.373164789664884
+            ],
+            [
+              -3.55124661982272,
+              40.37335487020079
+            ],
+            [
+              -3.5512244404183506,
+              40.37366850013352
+            ],
+            [
+              -3.5511998202913673,
+              40.37382807015777
+            ],
+            [
+              -3.5511679202173063,
+              40.37396066004752
+            ],
+            [
+              -3.5511380099116163,
+              40.374049089661895
+            ],
+            [
+              -3.5511160901203747,
+              40.37410505017563
+            ],
+            [
+              -3.5510766199434065,
+              40.37417641019974
+            ],
+            [
+              -3.550982180057585,
+              40.37444173001026
+            ],
+            [
+              -3.5509364899456144,
+              40.374616720243644
+            ],
+            [
+              -3.550871169848037,
+              40.37484136014745
+            ],
+            [
+              -3.55080425973243,
+              40.375014659669695
+            ],
+            [
+              -3.55073590961741,
+              40.37515551969503
+            ],
+            [
+              -3.5506476501407516,
+              40.3753117999382
+            ],
+            [
+              -3.55057197965445,
+              40.37542207021986
+            ],
+            [
+              -3.550483379716292,
+              40.37553600980603
+            ],
+            [
+              -3.5503970695838025,
+              40.37564181981877
+            ],
+            [
+              -3.5501750698259724,
+              40.375865399673806
+            ],
+            [
+              -3.5500451698426256,
+              40.37597052003326
+            ],
+            [
+              -3.5499128300349625,
+              40.37606575008051
+            ],
+            [
+              -3.549708919651984,
+              40.376196450201334
+            ],
+            [
+              -3.5493454199655217,
+              40.37640358007678
+            ],
+            [
+              -3.549124969801552,
+              40.376528949903026
+            ],
+            [
+              -3.548938689754341,
+              40.37665414977993
+            ],
+            [
+              -3.548869600325843,
+              40.37670492974356
+            ],
+            [
+              -3.5487971799442737,
+              40.37678095008943
+            ],
+            [
+              -3.5487577600729767,
+              40.3768595201877
+            ],
+            [
+              -3.5487302401842293,
+              40.37695244003008
+            ],
+            [
+              -3.5487127095614723,
+              40.3771146903416
+            ],
+            [
+              -3.548725930067489,
+              40.37729210985587
+            ],
+            [
+              -3.548739829699878,
+              40.377408260090654
+            ],
+            [
+              -3.548758159823252,
+              40.37749016009253
+            ],
+            [
+              -3.548787339798635,
+              40.37760172977167
+            ],
+            [
+              -3.5488403502818526,
+              40.37774743011234
+            ],
+            [
+              -3.548882369877583,
+              40.37784452996572
+            ],
+            [
+              -3.5489329504179854,
+              40.37798033033365
+            ],
+            [
+              -3.5490160302087133,
+              40.37820245987618
+            ],
+            [
+              -3.54906315043863,
+              40.37834728024895
+            ],
+            [
+              -3.5490948995957114,
+              40.3784849696956
+            ],
+            [
+              -3.5491303399303002,
+              40.378643369762585
+            ],
+            [
+              -3.5491494695542904,
+              40.378823460245194
+            ],
+            [
+              -3.5491640402281774,
+              40.379021590151126
+            ],
+            [
+              -3.5491987403509917,
+              40.37937818966654
+            ],
+            [
+              -3.5492828298480896,
+              40.38015977984555
+            ],
+            [
+              -3.5492794800304135,
+              40.38032737024862
+            ],
+            [
+              -3.549266270304162,
+              40.380441849664074
+            ],
+            [
+              -3.549245919869717,
+              40.38054735019668
+            ],
+            [
+              -3.5492090000098417,
+              40.38064301993742
+            ],
+            [
+              -3.549090750277418,
+              40.38087871986753
+            ],
+            [
+              -3.549026960010798,
+              40.38100245000845
+            ],
+            [
+              -3.548973639608781,
+              40.38110991016381
+            ],
+            [
+              -3.548900329895086,
+              40.38122196996063
+            ],
+            [
+              -3.548835149934689,
+              40.38131958007773
+            ],
+            [
+              -3.548758210128922,
+              40.381420840057736
+            ],
+            [
+              -3.5486788700247116,
+              40.38151491005826
+            ],
+            [
+              -3.548593510309784,
+              40.38159369976686
+            ],
+            [
+              -3.5484799596646113,
+              40.3816834201942
+            ],
+            [
+              -3.548217620160623,
+              40.38187566025444
+            ],
+            [
+              -3.5481310701779414,
+              40.38195354970656
+            ],
+            [
+              -3.5480480802187238,
+              40.38203322025996
+            ],
+            [
+              -3.5479675399652906,
+              40.382126390257355
+            ],
+            [
+              -3.547880239889366,
+              40.38225743992197
+            ],
+            [
+              -3.54780808990069,
+              40.382367689940494
+            ],
+            [
+              -3.547723090410165,
+              40.382490620161214
+            ],
+            [
+              -3.54763220964951,
+              40.38261627016317
+            ],
+            [
+              -3.5475342699273633,
+              40.38274196030306
+            ],
+            [
+              -3.5474212196437733,
+              40.38289384974607
+            ],
+            [
+              -3.547291820022043,
+              40.3830638296737
+            ],
+            [
+              -3.5471637301440144,
+              40.38324911975308
+            ],
+            [
+              -3.5470296799440444,
+              40.3834263301488
+            ],
+            [
+              -3.5468561595671395,
+              40.383676699929644
+            ],
+            [
+              -3.5468050400375786,
+              40.38376522969616
+            ],
+            [
+              -3.54673754961028,
+              40.383869160109164
+            ],
+            [
+              -3.546680370045833,
+              40.38393700019847
+            ],
+            [
+              -3.546605509839947,
+              40.38400401978688
+            ],
+            [
+              -3.546521299968571,
+              40.384080090059186
+            ],
+            [
+              -3.5464325697747006,
+              40.38418050972129
+            ],
+            [
+              -3.54634857999058,
+              40.384283610169064
+            ],
+            [
+              -3.546270519985633,
+              40.38439298991396
+            ],
+            [
+              -3.5461368596545366,
+              40.384618839834566
+            ],
+            [
+              -3.5459822802553647,
+              40.38488084025798
+            ],
+            [
+              -3.5459124101908883,
+              40.38498207025165
+            ],
+            [
+              -3.5458844501276636,
+              40.385021839771504
+            ],
+            [
+              -3.5458426497208917,
+              40.3850968099842
+            ],
+            [
+              -3.545814919626357,
+              40.38516540972556
+            ],
+            [
+              -3.5457757800294543,
+              40.38527820997828
+            ],
+            [
+              -3.545759719948779,
+              40.385332339690564
+            ],
+            [
+              -3.545744879780296,
+              40.38539096967134
+            ],
+            [
+              -3.5457334603963933,
+              40.385436969725674
+            ],
+            [
+              -3.545723279789288,
+              40.385488369841426
+            ],
+            [
+              -3.5457154303103504,
+              40.38553796008089
+            ],
+            [
+              -3.5457086902507613,
+              40.38557943031311
+            ],
+            [
+              -3.5456925996273854,
+              40.38562906017183
+            ],
+            [
+              -3.5456223801182714,
+              40.385832990254386
+            ],
+            [
+              -3.5456052896699926,
+              40.385906049837324
+            ],
+            [
+              -3.5455928596813884,
+              40.38597187003953
+            ],
+            [
+              -3.5455816900291452,
+              40.38604760007336
+            ],
+            [
+              -3.54557267004539,
+              40.38609809994391
+            ],
+            [
+              -3.5455577202824275,
+              40.38614321000037
+            ],
+            [
+              -3.545512519752275,
+              40.386236219674586
+            ],
+            [
+              -3.545445159580689,
+              40.386357259806715
+            ],
+            [
+              -3.5453150700528213,
+              40.38658849972463
+            ],
+            [
+              -3.545303439564834,
+              40.38660747979331
+            ],
+            [
+              -3.5451639500658385,
+              40.38684147016198
+            ],
+            [
+              -3.545142880080851,
+              40.386858680043375
+            ],
+            [
+              -3.545113579731223,
+              40.38687863986021
+            ],
+            [
+              -3.5450244201426404,
+              40.38692591020596
+            ],
+            [
+              -3.5449622396569853,
+              40.38695772983203
+            ],
+            [
+              -3.5449071199294826,
+              40.386989520021025
+            ],
+            [
+              -3.544866139684527,
+              40.38702124998248
+            ],
+            [
+              -3.544838089789793,
+              40.387050210153575
+            ],
+            [
+              -3.544812450074937,
+              40.3870845600136
+            ],
+            [
+              -3.544754230261385,
+              40.387169519769024
+            ],
+            [
+              -3.5446808900049542,
+              40.38728067998558
+            ],
+            [
+              -3.5443894801200626,
+              40.3878162902523
+            ],
+            [
+              -3.5443570895658527,
+              40.38789121972227
+            ],
+            [
+              -3.5443105900717975,
+              40.38796981996935
+            ],
+            [
+              -3.544231470054842,
+              40.38809361029732
+            ],
+            [
+              -3.544129160028816,
+              40.38826346010172
+            ],
+            [
+              -3.5439877202873222,
+              40.3885506200955
+            ],
+            [
+              -3.5437511902797745,
+              40.38917336012822
+            ],
+            [
+              -3.5436902701304467,
+              40.38936283992211
+            ],
+            [
+              -3.5436164600551345,
+              40.38956138014429
+            ],
+            [
+              -3.543568020200082,
+              40.38969224018717
+            ],
+            [
+              -3.5435448795983513,
+              40.38974459973301
+            ],
+            [
+              -3.5433921597118383,
+              40.39009487998345
+            ],
+            [
+              -3.543342570013201,
+              40.39022753980626
+            ],
+            [
+              -3.543287279605783,
+              40.39038635972848
+            ],
+            [
+              -3.5432552097501375,
+              40.390500930152335
+            ],
+            [
+              -3.5432209399203667,
+              40.390635329771555
+            ],
+            [
+              -3.5431993498108265,
+              40.39073453000267
+            ],
+            [
+              -3.5431753701826407,
+              40.3908292397181
+            ],
+            [
+              -3.543147899701267,
+              40.390929370166916
+            ],
+            [
+              -3.54309366032272,
+              40.39107105968384
+            ],
+            [
+              -3.542920609764697,
+              40.39153134021993
+            ],
+            [
+              -3.5428530995744625,
+              40.391781209838435
+            ],
+            [
+              -3.5428234596616655,
+              40.3919056698186
+            ],
+            [
+              -3.5427891098818196,
+              40.39203015967276
+            ],
+            [
+              -3.542762959923913,
+              40.392149199793195
+            ],
+            [
+              -3.5427371701904087,
+              40.39231149013189
+            ],
+            [
+              -3.5427088804454825,
+              40.39245756984884
+            ],
+            [
+              -3.542688629724048,
+              40.39257659005676
+            ],
+            [
+              -3.54265652034253,
+              40.392686650088486
+            ],
+            [
+              -3.5426115497810677,
+              40.392809380170284
+            ],
+            [
+              -3.5425397698982954,
+              40.39296917989686
+            ],
+            [
+              -3.5424632199613693,
+              40.39312089028624
+            ],
+            [
+              -3.539889990440133,
+              40.39225269991965
+            ],
+            [
+              -3.537342179648133,
+              40.39131405969283
+            ],
+            [
+              -3.5328618698978316,
+              40.39168968976842
+            ],
+            [
+              -3.5320856599153445,
+              40.39142388026944
+            ],
+            [
+              -3.529151170207643,
+              40.389384109942
+            ],
+            [
+              -3.5268909999696474,
+              40.38979440031076
+            ],
+            [
+              -3.524343529639147,
+              40.39084199994767
+            ],
+            [
+              -3.5225899400511382,
+              40.39186434031843
+            ],
+            [
+              -3.520407260286163,
+              40.39210208021254
+            ],
+            [
+              -3.5203176299803673,
+              40.39377729002126
+            ],
+            [
+              -3.519598330067765,
+              40.397852649778876
+            ],
+            [
+              -3.5195608496591673,
+              40.398035699722925
+            ],
+            [
+              -3.519532199689805,
+              40.398141230164455
+            ],
+            [
+              -3.519512620009869,
+              40.39819987977984
+            ],
+            [
+              -3.519489490187937,
+              40.398256739688264
+            ],
+            [
+              -3.5192879199162976,
+              40.39870810019393
+            ],
+            [
+              -3.5192183103632466,
+              40.398851660127484
+            ],
+            [
+              -3.519145200075507,
+              40.39899884007398
+            ],
+            [
+              -3.5188555697531982,
+              40.39964609006824
+            ],
+            [
+              -3.518781650083407,
+              40.39984192034037
+            ],
+            [
+              -3.5187354901525203,
+              40.399969149716114
+            ],
+            [
+              -3.5186905097096237,
+              40.400096380219566
+            ],
+            [
+              -3.518624799743239,
+              40.40028767018796
+            ],
+            [
+              -3.5185671997672174,
+              40.40045910028466
+            ],
+            [
+              -3.5185110200276397,
+              40.400662960148956
+            ],
+            [
+              -3.5183335497584305,
+              40.401494390109384
+            ],
+            [
+              -3.518298249561022,
+              40.401654919665006
+            ],
+            [
+              -3.5182816298299557,
+              40.40179283031201
+            ],
+            [
+              -3.518267169648845,
+              40.40190461011167
+            ],
+            [
+              -3.5182528496048806,
+              40.40203620002485
+            ],
+            [
+              -3.5182386499351948,
+              40.4021822203357
+            ],
+            [
+              -3.5182374300230363,
+              40.4023299696786
+            ],
+            [
+              -3.518234939893082,
+              40.40246691986748
+            ],
+            [
+              -3.518236239755282,
+              40.40263718969662
+            ],
+            [
+              -3.5182471300314613,
+              40.40282723016918
+            ],
+            [
+              -3.518269410047139,
+              40.40296676992471
+            ],
+            [
+              -3.518285409940675,
+              40.40305588999754
+            ],
+            [
+              -3.5183072704431084,
+              40.4031404800437
+            ],
+            [
+              -3.518338500373968,
+              40.403217820222814
+            ],
+            [
+              -3.518369759949232,
+              40.403297860329445
+            ],
+            [
+              -3.5184153395684263,
+              40.4034021696718
+            ],
+            [
+              -3.5185338695752106,
+              40.403645779829596
+            ],
+            [
+              -3.518609179837075,
+              40.4037850900953
+            ],
+            [
+              -3.518683200118175,
+              40.403909079826896
+            ],
+            [
+              -3.5187584097686986,
+              40.4040348800383
+            ],
+            [
+              -3.5188551700028894,
+              40.40420471973273
+            ],
+            [
+              -3.518922070237062,
+              40.4043233402078
+            ],
+            [
+              -3.5189795103129335,
+              40.40443658994713
+            ],
+            [
+              -3.519036960270307,
+              40.40455165019017
+            ],
+            [
+              -3.519071789750503,
+              40.40463709000438
+            ],
+            [
+              -3.519100829588705,
+              40.40473606028723
+            ],
+            [
+              -3.519129960156715,
+              40.404845839819195
+            ],
+            [
+              -3.5191591598950343,
+              40.40496552970437
+            ],
+            [
+              -3.519176340174856,
+              40.40505374008044
+            ],
+            [
+              -3.519207180236876,
+              40.405233790046246
+            ],
+            [
+              -3.5192711798109535,
+              40.40558755975151
+            ],
+            [
+              -3.519298709581169,
+              40.405797349783604
+            ],
+            [
+              -3.519321959777345,
+              40.405908059933225
+            ],
+            [
+              -3.5193417496630683,
+              40.40602959004987
+            ],
+            [
+              -3.519354989932021,
+              40.40621962026097
+            ],
+            [
+              -3.5193670902388905,
+              40.406414170047675
+            ],
+            [
+              -3.5193708999940143,
+              40.40660424021503
+            ],
+            [
+              -3.519374080030139,
+              40.40671053975887
+            ],
+            [
+              -3.519375749998243,
+              40.406775399765706
+            ],
+            [
+              -3.5193828700452046,
+              40.406934829802196
+            ],
+            [
+              -3.519379280377303,
+              40.407080790236584
+            ],
+            [
+              -3.519374649562032,
+              40.407245680144364
+            ],
+            [
+              -3.519372240280417,
+              40.407391639904695
+            ],
+            [
+              -3.5193624899663214,
+              40.4075033898864
+            ],
+            [
+              -3.519354050294257,
+              40.40763226011988
+            ],
+            [
+              -3.5193408899753464,
+              40.4077611499433
+            ],
+            [
+              -3.519321969658813,
+              40.4079053800643
+            ],
+            [
+              -3.5193111602310063,
+              40.40803336030229
+            ],
+            [
+              -3.51929124008957,
+              40.408201919685865
+            ],
+            [
+              -3.51927028958053,
+              40.40838939990728
+            ],
+            [
+              -3.519257060091342,
+              40.40850838032369
+            ],
+            [
+              -3.5192495097513716,
+              40.40860030982955
+            ],
+            [
+              -3.5192442195726645,
+              40.408678710112085
+            ],
+            [
+              -3.5192423402970703,
+              40.40874088005256
+            ],
+            [
+              -3.5192427903530494,
+              40.40879943971996
+            ],
+            [
+              -3.519244170165324,
+              40.40882556008407
+            ],
+            [
+              -3.519250269726083,
+              40.408852560076845
+            ],
+            [
+              -3.519264729907227,
+              40.40889394002609
+            ],
+            [
+              -3.5192803201689866,
+              40.408928100216556
+            ],
+            [
+              -3.519300659823634,
+              40.4089676497076
+            ],
+            [
+              -3.5193649998592447,
+              40.40905925983773
+            ],
+            [
+              -3.519505550268579,
+              40.40925233011627
+            ],
+            [
+              -3.51966055996076,
+              40.409485869698834
+            ],
+            [
+              -3.5197536299157752,
+              40.40963410028089
+            ],
+            [
+              -3.519857539841332,
+              40.40981291978683
+            ],
+            [
+              -3.51991616030349,
+              40.40992616986561
+            ],
+            [
+              -3.516304799910659,
+              40.40943958989787
+            ],
+            [
+              -3.516195190174652,
+              40.40928512005859
+            ],
+            [
+              -3.5150186603588387,
+              40.41048316021379
+            ],
+            [
+              -3.514376559865097,
+              40.41020311978088
+            ],
+            [
+              -3.5139416396219674,
+              40.409890629867725
+            ],
+            [
+              -3.5135060402525,
+              40.40964299985106
+            ],
+            [
+              -3.5127236902850516,
+              40.41013925966306
+            ],
+            [
+              -3.5122428499612286,
+              40.41092157972183
+            ],
+            [
+              -3.5120287598694415,
+              40.41097566966947
+            ],
+            [
+              -3.5116332199717712,
+              40.411038680162925
+            ],
+            [
+              -3.5116004898543918,
+              40.41091810026203
+            ],
+            [
+              -3.5115771803694074,
+              40.410797479789565
+            ],
+            [
+              -3.511577849614278,
+              40.4107299102607
+            ],
+            [
+              -3.5115875999283737,
+              40.41061635031735
+            ],
+            [
+              -3.5116078802942123,
+              40.410181119671726
+            ],
+            [
+              -3.5116505197275067,
+              40.409742189861994
+            ],
+            [
+              -3.5116624197100568,
+              40.409445739791664
+            ],
+            [
+              -3.5116719795813345,
+              40.40915020019889
+            ],
+            [
+              -3.511658440173348,
+              40.40891871969223
+            ],
+            [
+              -3.5116237301691,
+              40.4086927399075
+            ],
+            [
+              -3.5115785700631506,
+              40.408486630010124
+            ],
+            [
+              -3.5114930504480726,
+              40.40824376995529
+            ],
+            [
+              -3.51138144016393,
+              40.407978490258586
+            ],
+            [
+              -3.5112882399532026,
+              40.407810430335616
+            ],
+            [
+              -3.5111654402538472,
+              40.40762357985552
+            ],
+            [
+              -3.5110594597115816,
+              40.4074790002777
+            ],
+            [
+              -3.510970350428669,
+              40.407383889885296
+            ],
+            [
+              -3.5108742899820835,
+              40.40730504005659
+            ],
+            [
+              -3.510766469690095,
+              40.40722892966786
+            ],
+            [
+              -3.5105179902926236,
+              40.40709759000009
+            ],
+            [
+              -3.5101904304040357,
+              40.40695218024696
+            ],
+            [
+              -3.5097397797619667,
+              40.406735240197
+            ],
+            [
+              -3.5095671801582538,
+              40.40666482990164
+            ],
+            [
+              -3.50937107972834,
+              40.40660262999802
+            ],
+            [
+              -3.5092731103617893,
+              40.406582329905994
+            ],
+            [
+              -3.5091799101510617,
+              40.4065692299579
+            ],
+            [
+              -3.5090289204197918,
+              40.406550970332
+            ],
+            [
+              -3.508870899574773,
+              40.406538150148144
+            ],
+            [
+              -3.5086999798205984,
+              40.40653350007768
+            ],
+            [
+              -3.508549149989478,
+              40.40653686005804
+            ],
+            [
+              -3.5083794699103983,
+              40.40654120983691
+            ],
+            [
+              -3.508272309880143,
+              40.40655249025759
+            ],
+            [
+              -3.508178160150184,
+              40.406570020018044
+            ],
+            [
+              -3.5081076100610047,
+              40.40659104997865
+            ],
+            [
+              -3.508012429963408,
+              40.406629299810106
+            ],
+            [
+              -3.507892590212922,
+              40.40667758028993
+            ],
+            [
+              -3.5078209396875324,
+              40.40670941999629
+            ],
+            [
+              -3.507750420141121,
+              40.40673585993093
+            ],
+            [
+              -3.5076845996819275,
+              40.40675956988033
+            ],
+            [
+              -3.5076058003635358,
+              40.40678153006603
+            ],
+            [
+              -3.5075175902941846,
+              40.40680533986806
+            ],
+            [
+              -3.507468159597367,
+              40.406814570199856
+            ],
+            [
+              -3.507439910276643,
+              40.40681919972995
+            ],
+            [
+              -3.5073892902103685,
+              40.40682571992462
+            ],
+            [
+              -3.507297409624811,
+              40.406832430279536
+            ],
+            [
+              -3.50719371978651,
+              40.40683558982355
+            ],
+            [
+              -3.5069770003258856,
+              40.40685275013308
+            ],
+            [
+              -3.5065977702404827,
+              40.40688684022033
+            ],
+            [
+              -3.5064894001795706,
+              40.40689451984169
+            ],
+            [
+              -3.5063138603898905,
+              40.406902499751936
+            ],
+            [
+              -3.505925049771977,
+              40.40691680010998
+            ],
+            [
+              -3.5056882601513015,
+              40.4069295497665
+            ],
+            [
+              -3.5054951699759287,
+              40.40695470979301
+            ],
+            [
+              -3.5052644700345432,
+              40.406994460180584
+            ],
+            [
+              -3.5046700197767384,
+              40.40708983994689
+            ],
+            [
+              -3.5043380302955303,
+              40.40713723017464
+            ],
+            [
+              -3.504026020244499,
+              40.40717821991416
+            ],
+            [
+              -3.503589120114501,
+              40.40722336988775
+            ],
+            [
+              -3.5031733699195313,
+              40.40726029987039
+            ],
+            [
+              -3.503172190431576,
+              40.40726031013083
+            ],
+            [
+              -3.502985949910238,
+              40.4072566102248
+            ],
+            [
+              -3.5028492200357926,
+              40.40725359981858
+            ],
+            [
+              -3.5027006701288386,
+              40.40724703999179
+            ],
+            [
+              -3.502504959567766,
+              40.40723707028504
+            ],
+            [
+              -3.5023233597432,
+              40.40722254016164
+            ],
+            [
+              -3.502136999745948,
+              40.40720263015269
+            ],
+            [
+              -3.5019482403485487,
+              40.407175520053414
+            ],
+            [
+              -3.5018007001479656,
+              40.40714642967961
+            ],
+            [
+              -3.501714489728454,
+              40.40712247019587
+            ],
+            [
+              -3.501612890269832,
+              40.40708958001568
+            ],
+            [
+              -3.50151952027752,
+              40.40705395028
+            ],
+            [
+              -3.501395380291762,
+              40.4070004297138
+            ],
+            [
+              -3.501310169697186,
+              40.4069521501496
+            ],
+            [
+              -3.5012284499557635,
+              40.40689753984042
+            ],
+            [
+              -3.501105099589188,
+              40.406792670219794
+            ],
+            [
+              -3.501014780275552,
+              40.40669036008923
+            ],
+            [
+              -3.500946909860915,
+              40.40659694977611
+            ],
+            [
+              -3.500851569863168,
+              40.40645411980894
+            ],
+            [
+              -3.500815750439538,
+              40.40639210987277
+            ],
+            [
+              -3.500777529819132,
+              40.40632290996435
+            ],
+            [
+              -3.500749980286014,
+              40.40626356013057
+            ],
+            [
+              -3.5007307302877795,
+              40.40621048971714
+            ],
+            [
+              -3.5007124298088104,
+              40.40612588984821
+            ],
+            [
+              -3.5007095004026754,
+              40.40604842030662
+            ],
+            [
+              -3.500720529917738,
+              40.40594657008844
+            ],
+            [
+              -3.5007434998395532,
+              40.405864489898164
+            ],
+            [
+              -3.5007701303961403,
+              40.40580130970604
+            ],
+            [
+              -3.5008201701507238,
+              40.405714599732875
+            ],
+            [
+              -3.5008984197001913,
+              40.40561876996865
+            ],
+            [
+              -3.5009825801641936,
+              40.40552470969339
+            ],
+            [
+              -3.501104300088571,
+              40.40541156986414
+            ],
+            [
+              -3.5012880397001567,
+              40.40523779993733
+            ],
+            [
+              -3.5015608203227084,
+              40.40499247994189
+            ],
+            [
+              -3.501839609776178,
+              40.40476423986006
+            ],
+            [
+              -3.502352599905689,
+              40.40433409017164
+            ],
+            [
+              -3.502804819904554,
+              40.40397446994448
+            ],
+            [
+              -3.50321840965127,
+              40.403650150317226
+            ],
+            [
+              -3.503770170170143,
+              40.40320629981912
+            ],
+            [
+              -3.504195190080494,
+              40.40283417966411
+            ],
+            [
+              -3.5047968798611744,
+              40.40229282013801
+            ],
+            [
+              -3.505266110358243,
+              40.401847530273166
+            ],
+            [
+              -3.5056381099039418,
+              40.40148013032863
+            ],
+            [
+              -3.505984379903242,
+              40.40113808007266
+            ],
+            [
+              -3.506228770169559,
+              40.40088386014279
+            ],
+            [
+              -3.5065186798679315,
+              40.40057088024659
+            ],
+            [
+              -3.506770110231135,
+              40.40031302014009
+            ],
+            [
+              -3.50702142022006,
+              40.40003983997176
+            ],
+            [
+              -3.507306479914237,
+              40.39970975969956
+            ],
+            [
+              -3.5076628299093344,
+              40.399300990315076
+            ],
+            [
+              -3.5080237604140647,
+              40.39887508005368
+            ],
+            [
+              -3.5083050696419265,
+              40.3985188902405
+            ],
+            [
+              -3.508474160426177,
+              40.3982821102446
+            ],
+            [
+              -3.5086187604408265,
+              40.39807967024722
+            ],
+            [
+              -3.5087641599560926,
+              40.39782767995712
+            ],
+            [
+              -3.508849000444798,
+              40.39767055027108
+            ],
+            [
+              -3.5089406196206,
+              40.39747374017003
+            ],
+            [
+              -3.509010060290397,
+              40.39730587020368
+            ],
+            [
+              -3.509075680425272,
+              40.39710106975575
+            ],
+            [
+              -3.509117789852512,
+              40.39690268995723
+            ],
+            [
+              -3.5091424198609635,
+              40.396730500308905
+            ],
+            [
+              -3.5091671702436926,
+              40.39657453998781
+            ],
+            [
+              -3.509184499643833,
+              40.39637176031246
+            ],
+            [
+              -3.5092017796366326,
+              40.39616267019897
+            ],
+            [
+              -3.509212219856866,
+              40.39598423996474
+            ],
+            [
+              -3.5091738797605467,
+              40.39558620000567
+            ],
+            [
+              -3.509145089654004,
+              40.395362899739816
+            ],
+            [
+              -3.50861985997874,
+              40.395403040095644
+            ],
+            [
+              -3.505494540256896,
+              40.393459009679354
+            ],
+            [
+              -3.505279850090515,
+              40.39216352996838
+            ],
+            [
+              -3.5063043202815822,
+              40.390346420273595
+            ],
+            [
+              -3.506803990192065,
+              40.38909916966549
+            ],
+            [
+              -3.506651810193041,
+              40.388601629883944
+            ],
+            [
+              -3.5048409799551155,
+              40.38924556014018
+            ],
+            [
+              -3.503785940094956,
+              40.391866409975506
+            ],
+            [
+              -3.502386810446651,
+              40.39290672993024
+            ],
+            [
+              -3.50169325984335,
+              40.39042499986617
+            ],
+            [
+              -3.5029243398548062,
+              40.38992416996411
+            ],
+            [
+              -3.5028111296710995,
+              40.38832463009308
+            ],
+            [
+              -3.502781329858186,
+              40.388277910158166
+            ],
+            [
+              -3.502709920081318,
+              40.388181820200955
+            ],
+            [
+              -3.50264696973945,
+              40.38811361969639
+            ],
+            [
+              -3.502580470153917,
+              40.38804364014305
+            ],
+            [
+              -3.5024073297643845,
+              40.38789214000429
+            ],
+            [
+              -3.5022817201348415,
+              40.38779447988336
+            ],
+            [
+              -3.5021396201316146,
+              40.38769869987527
+            ],
+            [
+              -3.5019975596542596,
+              40.387606520135776
+            ],
+            [
+              -3.50180358014676,
+              40.38750465022738
+            ],
+            [
+              -3.5015789600032305,
+              40.38740201998596
+            ],
+            [
+              -3.501397040378398,
+              40.38733704004748
+            ],
+            [
+              -3.5012813203018345,
+              40.387302400202465
+            ],
+            [
+              -3.501199870055008,
+              40.387281130209374
+            ],
+            [
+              -3.5011019698587336,
+              40.38726713974224
+            ],
+            [
+              -3.50099940021958,
+              40.38725766998636
+            ],
+            [
+              -3.5009169797922555,
+              40.38726523005385
+            ],
+            [
+              -3.5008310900713067,
+              40.38728092015055
+            ],
+            [
+              -3.500729990075971,
+              40.387311089929376
+            ],
+            [
+              -3.5004967398175264,
+              40.38524359028622
+            ],
+            [
+              -3.5049005696994753,
+              40.38428035992837
+            ],
+            [
+              -3.505090339701576,
+              40.38460837000559
+            ],
+            [
+              -3.5059945596120503,
+              40.382635930154834
+            ],
+            [
+              -3.505121269595105,
+              40.38196315022227
+            ],
+            [
+              -3.5034777299175808,
+              40.381791909798736
+            ],
+            [
+              -3.5016156498943816,
+              40.38058554023607
+            ],
+            [
+              -3.500527690372322,
+              40.37922985003758
+            ],
+            [
+              -3.500293349559101,
+              40.37796596976769
+            ],
+            [
+              -3.5002412903917426,
+              40.37713826016904
+            ],
+            [
+              -3.5023754000459193,
+              40.376442540295564
+            ],
+            [
+              -3.5035472002317816,
+              40.375132040193115
+            ],
+            [
+              -3.5036839202247587,
+              40.374984600039646
+            ],
+            [
+              -3.5038636003495607,
+              40.37475228006402
+            ],
+            [
+              -3.5040563204190294,
+              40.37437215987339
+            ],
+            [
+              -3.5042514704313805,
+              40.37400284025031
+            ],
+            [
+              -3.5044249800284866,
+              40.37373361028425
+            ],
+            [
+              -3.5045592296544457,
+              40.373570859768996
+            ],
+            [
+              -3.504759389571109,
+              40.373400619781386
+            ],
+            [
+              -3.504954940232032,
+              40.37324391010977
+            ],
+            [
+              -3.5052620903973652,
+              40.37304706968628
+            ],
+            [
+              -3.5056351697180084,
+              40.372844549724576
+            ],
+            [
+              -3.5061235603818024,
+              40.37262710009988
+            ],
+            [
+              -3.5064618398666543,
+              40.37249768995741
+            ],
+            [
+              -3.506588820325301,
+              40.37246651024126
+            ],
+            [
+              -3.506698239618489,
+              40.372448910007485
+            ],
+            [
+              -3.5067771997353274,
+              40.37245397032325
+            ],
+            [
+              -3.506964660168824,
+              40.37247658022557
+            ],
+            [
+              -3.509517409898233,
+              40.37265639975192
+            ],
+            [
+              -3.51053126020598,
+              40.37260959982751
+            ],
+            [
+              -3.5106217699624342,
+              40.37258398006658
+            ],
+            [
+              -3.5106956698692895,
+              40.372542210288316
+            ],
+            [
+              -3.5107857196883296,
+              40.3724571301118
+            ],
+            [
+              -3.510987829847458,
+              40.372234610008114
+            ],
+            [
+              -3.5112294901336294,
+              40.371947060166335
+            ],
+            [
+              -3.511417379961805,
+              40.371714690023644
+            ],
+            [
+              -3.511707039928551,
+              40.3713881899013
+            ],
+            [
+              -3.511908930000457,
+              40.37113864021139
+            ],
+            [
+              -3.511949760226731,
+              40.37108621008245
+            ],
+            [
+              -3.511978800064933,
+              40.37103202991281
+            ],
+            [
+              -3.5120042403537663,
+              40.37096974986857
+            ],
+            [
+              -3.512021380209386,
+              40.370899400040805
+            ],
+            [
+              -3.5120238200337024,
+              40.37075435012764
+            ],
+            [
+              -3.5120032297490984,
+              40.37052469978808
+            ],
+            [
+              -3.5119460897104906,
+              40.370288910252846
+            ],
+            [
+              -3.511858169797002,
+              40.37003253980967
+            ],
+            [
+              -3.5117002001559845,
+              40.36970349990775
+            ],
+            [
+              -3.5115208595943517,
+              40.36935113019158
+            ],
+            [
+              -3.5113139802793665,
+              40.36894032997775
+            ],
+            [
+              -3.5110813103325467,
+              40.36854495000525
+            ],
+            [
+              -3.51074170044276,
+              40.368024809915894
+            ],
+            [
+              -3.5104393095518156,
+              40.36759820975138
+            ],
+            [
+              -3.5101356601211706,
+              40.3671598900433
+            ],
+            [
+              -3.509772439810772,
+              40.366630849752696
+            ],
+            [
+              -3.509475359759801,
+              40.36612584030548
+            ],
+            [
+              -3.509241559732366,
+              40.36573315971833
+            ],
+            [
+              -3.5087840702160604,
+              40.364882900281934
+            ],
+            [
+              -3.508618049873456,
+              40.36457551007983
+            ],
+            [
+              -3.508296789869946,
+              40.363827360252245
+            ],
+            [
+              -3.5081576399341197,
+              40.36349012019488
+            ],
+            [
+              -3.50804069006393,
+              40.363129370125414
+            ],
+            [
+              -3.5078536599234433,
+              40.36253286990396
+            ],
+            [
+              -3.507589799571669,
+              40.361741219976395
+            ],
+            [
+              -3.507348259659776,
+              40.3610981199614
+            ],
+            [
+              -3.5071340797364794,
+              40.360647699811786
+            ],
+            [
+              -3.506889589757184,
+              40.36023975022403
+            ],
+            [
+              -3.5066488798885755,
+              40.35986420968495
+            ],
+            [
+              -3.5064110095945917,
+              40.359551729837186
+            ],
+            [
+              -3.5061757902290425,
+              40.35927978006206
+            ],
+            [
+              -3.5059800401420973,
+              40.359088739838235
+            ],
+            [
+              -3.5056200402919933,
+              40.35882272982718
+            ],
+            [
+              -3.5052744404358944,
+              40.358593600141674
+            ],
+            [
+              -3.504911520162793,
+              40.35840868993938
+            ],
+            [
+              -3.5045016898655628,
+              40.358251909813184
+            ],
+            [
+              -3.5041267896598365,
+              40.358197680308535
+            ],
+            [
+              -3.503806369581146,
+              40.35818646024035
+            ],
+            [
+              -3.5034662099223692,
+              40.358211359876684
+            ],
+            [
+              -3.5030084904373404,
+              40.35826560032272
+            ],
+            [
+              -3.502649870399511,
+              40.358342829803995
+            ],
+            [
+              -3.5023009000644696,
+              40.358450640292396
+            ],
+            [
+              -3.5019299704122804,
+              40.35861622016991
+            ],
+            [
+              -3.501708450354801,
+              40.358759519874724
+            ],
+            [
+              -3.50129586043302,
+              40.35902346973689
+            ],
+            [
+              -3.5008941598890884,
+              40.35932790967131
+            ],
+            [
+              -3.5005406297056805,
+              40.35961682966825
+            ],
+            [
+              -3.5002144801721022,
+              40.3599470701544
+            ],
+            [
+              -3.49992160962653,
+              40.360317709863835
+            ],
+            [
+              -3.4997492498729748,
+              40.36058152014774
+            ],
+            [
+              -3.499646920084013,
+              40.36075854031898
+            ],
+            [
+              -3.4995530802727854,
+              40.36096976028978
+            ],
+            [
+              -3.499428909744326,
+              40.36121985005092
+            ],
+            [
+              -3.4993094302182763,
+              40.36146810991937
+            ],
+            [
+              -3.4991013202113677,
+              40.361835680231046
+            ],
+            [
+              -3.498821849834898,
+              40.362268419733546
+            ],
+            [
+              -3.4986495197257472,
+              40.36253762979217
+            ],
+            [
+              -3.4984556498126937,
+              40.36276009019241
+            ],
+            [
+              -3.498296830365422,
+              40.36294455997675
+            ],
+            [
+              -3.4981610904344116,
+              40.363064069712166
+            ],
+            [
+              -3.4979794798300468,
+              40.3631936800395
+            ],
+            [
+              -3.497834170146324,
+              40.36329339981354
+            ],
+            [
+              -3.497667459897581,
+              40.36336619019987
+            ],
+            [
+              -3.497433749701689,
+              40.36345637980592
+            ],
+            [
+              -3.4971986201676497,
+              40.36351414996177
+            ],
+            [
+              -3.4969351999903537,
+              40.363568429947684
+            ],
+            [
+              -3.4966599301361447,
+              40.36361465024323
+            ],
+            [
+              -3.4963762601357447,
+              40.36363838975007
+            ],
+            [
+              -3.496068940188826,
+              40.36364871020082
+            ],
+            [
+              -3.4957426298568346,
+              40.36363928982923
+            ],
+            [
+              -3.495481109616366,
+              40.36363230001263
+            ],
+            [
+              -3.4951039797921104,
+              40.363598769827455
+            ],
+            [
+              -3.494673390326955,
+              40.36350330997599
+            ],
+            [
+              -3.494112749961507,
+              40.36333903028118
+            ],
+            [
+              -3.493782039681232,
+              40.36321070020195
+            ],
+            [
+              -3.493513870111048,
+              40.36309922990147
+            ],
+            [
+              -3.4932573903176602,
+              40.362975089737645
+            ],
+            [
+              -3.4929097297262865,
+              40.36278286967542
+            ],
+            [
+              -3.492629340373286,
+              40.36260927996423
+            ],
+            [
+              -3.4923157798300988,
+              40.362408799883454
+            ],
+            [
+              -3.492031640010783,
+              40.3622054998111
+            ],
+            [
+              -3.491748599729381,
+              40.361990480014654
+            ],
+            [
+              -3.4915368398674653,
+              40.361860740059
+            ],
+            [
+              -3.491351309913498,
+              40.361774139836115
+            ],
+            [
+              -3.4911398698518155,
+              40.36168854022733
+            ],
+            [
+              -3.490946329620497,
+              40.36163531010614
+            ],
+            [
+              -3.4906913796580326,
+              40.36155800978681
+            ],
+            [
+              -3.4905227200651217,
+              40.36152447993888
+            ],
+            [
+              -3.4902786801417727,
+              40.36148947978407
+            ],
+            [
+              -3.4900571798471955,
+              40.36147780028452
+            ],
+            [
+              -3.4898604398168493,
+              40.3614705200188
+            ],
+            [
+              -3.4894433295725413,
+              40.36144344968944
+            ],
+            [
+              -3.4891536004355186,
+              40.361442869923785
+            ],
+            [
+              -3.48872362990963,
+              40.36142936008116
+            ],
+            [
+              -3.488271429673701,
+              40.36143666978457
+            ],
+            [
+              -3.4879617803952425,
+              40.36144969021315
+            ],
+            [
+              -3.4869567201025604,
+              40.36155119977575
+            ],
+            [
+              -3.4865001297998495,
+              40.361604469663874
+            ],
+            [
+              -3.4860563503713786,
+              40.361635160202574
+            ],
+            [
+              -3.4856101203388263,
+              40.36165413977176
+            ],
+            [
+              -3.4853911101742368,
+              40.36166137004983
+            ],
+            [
+              -3.4851177195956224,
+              40.361639979704904
+            ],
+            [
+              -3.4849030896163806,
+              40.36160124023287
+            ],
+            [
+              -3.4845833702235924,
+              40.361523290291224
+            ],
+            [
+              -3.484434510397874,
+              40.36145814986257
+            ],
+            [
+              -3.4843066801329394,
+              40.3613694901649
+            ],
+            [
+              -3.4841881896520275,
+              40.3612699797383
+            ],
+            [
+              -3.4840517795778156,
+              40.361133609734274
+            ],
+            [
+              -3.483831050037782,
+              40.3609002898724
+            ],
+            [
+              -3.483630130146374,
+              40.36063536030715
+            ],
+            [
+              -3.483464910202683,
+              40.360423430143065
+            ],
+            [
+              -3.4833799700009997,
+              40.360237290111684
+            ],
+            [
+              -3.483312749966595,
+              40.36006008991536
+            ],
+            [
+              -3.4832751402006155,
+              40.359905289806164
+            ],
+            [
+              -3.4832330298750454,
+              40.3596153702893
+            ],
+            [
+              -3.4832224099917592,
+              40.359447839948906
+            ],
+            [
+              -3.4832458497324557,
+              40.35926575982209
+            ],
+            [
+              -3.483282200060438,
+              40.35907822017941
+            ],
+            [
+              -3.483341499648968,
+              40.358806790098406
+            ],
+            [
+              -3.4843256696197162,
+              40.35430259993686
+            ],
+            [
+              -3.4843820200391753,
+              40.35394739979605
+            ],
+            [
+              -3.484419520210708,
+              40.35359318014625
+            ],
+            [
+              -3.4844689796536334,
+              40.35309747022874
+            ],
+            [
+              -3.4845052796759446,
+              40.35273965000778
+            ],
+            [
+              -3.4845135899906263,
+              40.35241979017724
+            ],
+            [
+              -3.48453101012064,
+              40.352055750297495
+            ],
+            [
+              -3.484515639946136,
+              40.351717970086824
+            ],
+            [
+              -3.4844969100724543,
+              40.35140361982381
+            ],
+            [
+              -3.4844717797023863,
+              40.35118210024063
+            ],
+            [
+              -3.484429349576549,
+              40.35101200018376
+            ],
+            [
+              -3.4843084300511187,
+              40.350735019740455
+            ],
+            [
+              -3.484233489895158,
+              40.35062903028199
+            ],
+            [
+              -3.484147910092975,
+              40.35051766993836
+            ],
+            [
+              -3.4840471200164376,
+              40.35041898966704
+            ],
+            [
+              -3.483916910114326,
+              40.350324030085204
+            ],
+            [
+              -3.4837335100659095,
+              40.350200470221814
+            ],
+            [
+              -3.483534940167309,
+              40.35009678979185
+            ],
+            [
+              -3.483358870371608,
+              40.35001014022813
+            ],
+            [
+              -3.483171140443516,
+              40.349939739771784
+            ],
+            [
+              -3.4829233302909492,
+              40.349865100132675
+            ],
+            [
+              -3.482713439823126,
+              40.349824530091034
+            ],
+            [
+              -3.482435350157262,
+              40.34979866000181
+            ],
+            [
+              -3.4822104299764014,
+              40.34979599001744
+            ],
+            [
+              -3.4819963803088174,
+              40.34983290973039
+            ],
+            [
+              -3.481822399994499,
+              40.349875079702
+            ],
+            [
+              -3.481563860364133,
+              40.349947319772504
+            ],
+            [
+              -3.4804024096686974,
+              40.350224209659814
+            ],
+            [
+              -3.4799120804405335,
+              40.35032444016422
+            ],
+            [
+              -3.479569819622313,
+              40.35038080991624
+            ],
+            [
+              -3.4792545702464155,
+              40.35042804972988
+            ],
+            [
+              -3.47893209033078,
+              40.350452809833456
+            ],
+            [
+              -3.478789610340181,
+              40.35045249970752
+            ],
+            [
+              -3.47860939032789,
+              40.35044422968189
+            ],
+            [
+              -3.47844914974581,
+              40.350431380333006
+            ],
+            [
+              -3.4782817603707286,
+              40.350405939724006
+            ],
+            [
+              -3.478111920391532,
+              40.35036790030998
+            ],
+            [
+              -3.4779431997131853,
+              40.35031994024864
+            ],
+            [
+              -3.4778286097172377,
+              40.35026816004853
+            ],
+            [
+              -3.4777127899276294,
+              40.35020828022125
+            ],
+            [
+              -3.4776085997277453,
+              40.35012761975207
+            ],
+            [
+              -3.477427299940443,
+              40.34996619994047
+            ],
+            [
+              -3.477325139933099,
+              40.34984048974316
+            ],
+            [
+              -3.4772229403998494,
+              40.34970756965991
+            ],
+            [
+              -3.477108660322666,
+              40.34953236003242
+            ],
+            [
+              -3.476904060033551,
+              40.34907013030729
+            ],
+            [
+              -3.4767327198678344,
+              40.34865010032911
+            ],
+            [
+              -3.4764352795924274,
+              40.34771256009159
+            ],
+            [
+              -3.4759638697824666,
+              40.34631085967375
+            ],
+            [
+              -3.4757585104169366,
+              40.34573962017043
+            ],
+            [
+              -3.475578029893187,
+              40.34518808987936
+            ],
+            [
+              -3.4753883200782254,
+              40.34466452974953
+            ],
+            [
+              -3.47518802990585,
+              40.3441419199842
+            ],
+            [
+              -3.474958450163645,
+              40.34364103977599
+            ],
+            [
+              -3.474757540153706,
+              40.34319770993664
+            ],
+            [
+              -3.474516659605215,
+              40.34276354987944
+            ],
+            [
+              -3.474272190287187,
+              40.342319489874086
+            ],
+            [
+              -3.4740138896086825,
+              40.34191782989466
+            ],
+            [
+              -3.473743829983139,
+              40.341518919999395
+            ],
+            [
+              -3.473495559893124,
+              40.341203710147454
+            ],
+            [
+              -3.473084359665087,
+              40.34065491992986
+            ],
+            [
+              -3.4727169002048526,
+              40.34013118014228
+            ],
+            [
+              -3.4724538501334603,
+              40.339722329965944
+            ],
+            [
+              -3.4722325097390336,
+              40.33938447977032
+            ],
+            [
+              -3.4720571002050993,
+              40.339047350262994
+            ],
+            [
+              -3.471874690100118,
+              40.33872106030382
+            ],
+            [
+              -3.4716020199703426,
+              40.33811133976243
+            ],
+            [
+              -3.4707059298132,
+              40.33588518969653
+            ],
+            [
+              -3.4706106904267613,
+              40.335562139774375
+            ],
+            [
+              -3.470549920296116,
+              40.33528761032062
+            ],
+            [
+              -3.47051272016188,
+              40.33501658025025
+            ],
+            [
+              -3.4704909198465854,
+              40.33475899991207
+            ],
+            [
+              -3.4704903404332246,
+              40.33467521966828
+            ],
+            [
+              -3.4704994700114593,
+              40.33446345991172
+            ],
+            [
+              -3.470524179969952,
+              40.33429218987876
+            ],
+            [
+              -3.470565329996492,
+              40.33411454008894
+            ],
+            [
+              -3.470619590036306,
+              40.33395935994767
+            ],
+            [
+              -3.4706741195706825,
+              40.333844720094696
+            ],
+            [
+              -3.4707857900419636,
+              40.33364966967433
+            ],
+            [
+              -3.470911670064399,
+              40.33346808003996
+            ],
+            [
+              -3.47110627030776,
+              40.33317989029326
+            ],
+            [
+              -3.4713272900036563,
+              40.332797899735255
+            ],
+            [
+              -3.471471400436454,
+              40.33252794025823
+            ],
+            [
+              -3.4716035399198315,
+              40.332231900177135
+            ],
+            [
+              -3.4720619097851255,
+              40.33110930009514
+            ],
+            [
+              -3.471631579933098,
+              40.331015550082085
+            ],
+            [
+              -3.4716973500866213,
+              40.33014769972549
+            ],
+            [
+              -3.4714290098365224,
+              40.328801009955065
+            ],
+            [
+              -3.4709762795945727,
+              40.3283613902502
+            ],
+            [
+              -3.470803859653879,
+              40.327602620186674
+            ],
+            [
+              -3.47058045043937,
+              40.32661971975164
+            ],
+            [
+              -3.470455800210527,
+              40.32595894980877
+            ],
+            [
+              -3.4705490902527982,
+              40.32532342007194
+            ],
+            [
+              -3.4705133903050815,
+              40.3244190402739
+            ],
+            [
+              -3.470000889757389,
+              40.3238427199258
+            ],
+            [
+              -3.4699690399889986,
+              40.32298246994931
+            ],
+            [
+              -3.470291660041814,
+              40.32197843970453
+            ],
+            [
+              -3.470679319917846,
+              40.3194921298344
+            ],
+            [
+              -3.4708709997382425,
+              40.319467930274996
+            ],
+            [
+              -3.471297809990976,
+              40.31940404030076
+            ],
+            [
+              -3.4730887003245288,
+              40.31916252002186
+            ],
+            [
+              -3.4740118504330044,
+              40.31904883995458
+            ],
+            [
+              -3.474527060299576,
+              40.31900350006437
+            ],
+            [
+              -3.4767745795634486,
+              40.319093399687056
+            ],
+            [
+              -3.478591159917494,
+              40.319494049662076
+            ],
+            [
+              -3.4784267897800905,
+              40.32005328978685
+            ],
+            [
+              -3.4810430099758864,
+              40.32183803018813
+            ],
+            [
+              -3.481905980146843,
+              40.322528159852276
+            ],
+            [
+              -3.4835313603808755,
+              40.323995309853295
+            ],
+            [
+              -3.48545772025258,
+              40.324250349997406
+            ],
+            [
+              -3.49335609989602,
+              40.31617546003985
+            ],
+            [
+              -3.494496440182299,
+              40.31583636999936
+            ],
+            [
+              -3.495885550021878,
+              40.31555836976063
+            ],
+            [
+              -3.4971495703565014,
+              40.3153962000859
+            ],
+            [
+              -3.4982812499851303,
+              40.31548504967398
+            ],
+            [
+              -3.4996638596153127,
+              40.31576470027536
+            ],
+            [
+              -3.5025376097351035,
+              40.31667215019129
+            ],
+            [
+              -3.5028559097897105,
+              40.31674284016309
+            ],
+            [
+              -3.5032742399461774,
+              40.31681221016983
+            ],
+            [
+              -3.5037752600245304,
+              40.316920850068264
+            ],
+            [
+              -3.5041948100931224,
+              40.31699560971849
+            ],
+            [
+              -3.5046502496539844,
+              40.31699001988836
+            ],
+            [
+              -3.504987959606943,
+              40.316978649812064
+            ],
+            [
+              -3.5054440001406966,
+              40.317053240217255
+            ],
+            [
+              -3.505854709888619,
+              40.31704784971047
+            ],
+            [
+              -3.5063194398261297,
+              40.317025099986274
+            ],
+            [
+              -3.5068059601974664,
+              40.31708244004387
+            ],
+            [
+              -3.507410810251335,
+              40.3172257499057
+            ],
+            [
+              -3.507926569886864,
+              40.31741539018946
+            ],
+            [
+              -3.508427020433324,
+              40.31760419979568
+            ],
+            [
+              -3.5090102902590874,
+              40.31785120033914
+            ],
+            [
+              -3.5096311500879267,
+              40.31808631981422
+            ],
+            [
+              -3.5101236298828753,
+              40.3183093898519
+            ],
+            [
+              -3.510587439945558,
+              40.31847582032407
+            ],
+            [
+              -3.51104349036078,
+              40.318550389897275
+            ],
+            [
+              -3.51141973983608,
+              40.31849919010508
+            ],
+            [
+              -3.5138118402499625,
+              40.317161579723006
+            ],
+            [
+              -3.514617980301076,
+              40.314979579818036
+            ],
+            [
+              -3.514452540270163,
+              40.31318477997707
+            ],
+            [
+              -3.513882529577958,
+              40.31282332997522
+            ],
+            [
+              -3.512592989902791,
+              40.312710109821445
+            ],
+            [
+              -3.5118203102993633,
+              40.312625230200915
+            ],
+            [
+              -3.510887230213739,
+              40.31249419997993
+            ],
+            [
+              -3.5099000499884507,
+              40.31189851986027
+            ],
+            [
+              -3.5096960596554307,
+              40.310123700135975
+            ],
+            [
+              -3.5052325897234184,
+              40.30921345021207
+            ],
+            [
+              -3.506109110082126,
+              40.30807988010113
+            ],
+            [
+              -3.5099162996136135,
+              40.30685870021941
+            ],
+            [
+              -3.513385540240281,
+              40.306247910184034
+            ],
+            [
+              -3.5151339402609243,
+              40.30481580967005
+            ],
+            [
+              -3.512298700019071,
+              40.30272920005718
+            ],
+            [
+              -3.509214300355077,
+              40.30222652993404
+            ],
+            [
+              -3.5089942301784456,
+              40.301282430182994
+            ],
+            [
+              -3.5103934703194937,
+              40.30020780030979
+            ],
+            [
+              -3.512440310440447,
+              40.29935461976803
+            ],
+            [
+              -3.514331570439062,
+              40.299249860244615
+            ],
+            [
+              -3.517765810007288,
+              40.29750213986903
+            ],
+            [
+              -3.5197978800283654,
+              40.29428126014277
+            ],
+            [
+              -3.519897929893127,
+              40.294287119755744
+            ],
+            [
+              -3.521949579594107,
+              40.294402239944326
+            ],
+            [
+              -3.5244383198679365,
+              40.29550546011465
+            ],
+            [
+              -3.525325830215835,
+              40.29448790985833
+            ],
+            [
+              -3.5264795500099497,
+              40.293210580006736
+            ],
+            [
+              -3.529405759945671,
+              40.292925190066526
+            ],
+            [
+              -3.5311181096756634,
+              40.29298582989402
+            ],
+            [
+              -3.532180859775911,
+              40.29362782994286
+            ],
+            [
+              -3.5329719296898174,
+              40.293382749764454
+            ],
+            [
+              -3.5337761796856046,
+              40.29316733999394
+            ],
+            [
+              -3.534994149683788,
+              40.29275000019546
+            ],
+            [
+              -3.537178549722505,
+              40.29165429966151
+            ],
+            [
+              -3.538166499804005,
+              40.29131638017601
+            ],
+            [
+              -3.5401921396842586,
+              40.290241179978004
+            ],
+            [
+              -3.5419904896279424,
+              40.29061839009605
+            ],
+            [
+              -3.545138369639825,
+              40.290855000149314
+            ],
+            [
+              -3.5440758001009276,
+              40.29376726966105
+            ],
+            [
+              -3.546603689853161,
+              40.294722979804796
+            ],
+            [
+              -3.548727609917095,
+              40.29562107976552
+            ],
+            [
+              -3.550503979882398,
+              40.29703613006008
+            ],
+            [
+              -3.5552014896920037,
+              40.295654249772724
+            ],
+            [
+              -3.5569843598667044,
+              40.294547480100505
+            ],
+            [
+              -3.5582520300563005,
+              40.29360712992945
+            ],
+            [
+              -3.5597670100368815,
+              40.29298540028128
+            ],
+            [
+              -3.561656689898869,
+              40.29215011973905
+            ],
+            [
+              -3.5627812000732297,
+              40.29084283973796
+            ],
+            [
+              -3.564691330082674,
+              40.291911070116576
+            ],
+            [
+              -3.5680832500178723,
+              40.28881785028562
+            ],
+            [
+              -3.571505429703465,
+              40.28711992015567
+            ],
+            [
+              -3.571410720323047,
+              40.28732850017737
+            ],
+            [
+              -3.5711883100351107,
+              40.287880960334576
+            ],
+            [
+              -3.5711497597330037,
+              40.288053230010064
+            ],
+            [
+              -3.5711115400109295,
+              40.28826423014483
+            ],
+            [
+              -3.571066759892318,
+              40.288535630183624
+            ],
+            [
+              -3.571053589691939,
+              40.28864830978129
+            ],
+            [
+              -3.57104410977077,
+              40.28877988990347
+            ],
+            [
+              -3.5710325502496865,
+              40.28894392015383
+            ],
+            [
+              -3.571036660042107,
+              40.28915290979407
+            ],
+            [
+              -3.5710582797960515,
+              40.28948434006975
+            ],
+            [
+              -3.571082200135429,
+              40.28967071984943
+            ],
+            [
+              -3.571118469615039,
+              40.28992640012041
+            ],
+            [
+              -3.5711708000735873,
+              40.29027300001113
+            ],
+            [
+              -3.5712639796230814,
+              40.29086084978128
+            ],
+            [
+              -3.5711254800675207,
+              40.29089937018072
+            ],
+            [
+              -3.5709940601347183,
+              40.29094145980924
+            ],
+            [
+              -3.570957699925269,
+              40.290954249909305
+            ],
+            [
+              -3.570918999604513,
+              40.290969750005395
+            ],
+            [
+              -3.5708826798192663,
+              40.29098705013938
+            ],
+            [
+              -3.570698739883361,
+              40.291078950174715
+            ],
+            [
+              -3.5705617396160227,
+              40.29115710005209
+            ],
+            [
+              -3.570395619560407,
+              40.291268730341386
+            ],
+            [
+              -3.5702962901445168,
+              40.29134940018087
+            ],
+            [
+              -3.570255420392338,
+              40.29138563994309
+            ],
+            [
+              -3.5701981797424214,
+              40.29143547001273
+            ],
+            [
+              -3.5701528498548867,
+              40.29150056019887
+            ],
+            [
+              -3.5701065300238843,
+              40.29158908012029
+            ],
+            [
+              -3.570071870325273,
+              40.29166492987272
+            ],
+            [
+              -3.5700454400930055,
+              40.29173982985236
+            ],
+            [
+              -3.5700364003462806,
+              40.29178401978044
+            ],
+            [
+              -3.570037380408247,
+              40.291901140217156
+            ],
+            [
+              -3.570052190034029,
+              40.29198305019515
+            ],
+            [
+              -3.5700691798709996,
+              40.29204512978235
+            ],
+            [
+              -3.570089670442626,
+              40.29210359010367
+            ],
+            [
+              -3.5701396203656994,
+              40.29216641027706
+            ],
+            [
+              -3.5702036801269155,
+              40.29223006016371
+            ],
+            [
+              -3.570301029655936,
+              40.29233319021561
+            ],
+            [
+              -3.5714645401883502,
+              40.29358155004591
+            ],
+            [
+              -3.571962489825058,
+              40.294170999699695
+            ],
+            [
+              -3.572166930214057,
+              40.294416849894695
+            ],
+            [
+              -3.572422540438255,
+              40.29473090996336
+            ],
+            [
+              -3.5726257896611693,
+              40.294974960241646
+            ],
+            [
+              -3.5727957697775463,
+              40.29517952972885
+            ],
+            [
+              -3.573010960305544,
+              40.2954433398559
+            ],
+            [
+              -3.5731740296824506,
+              40.29566595985297
+            ],
+            [
+              -3.573779150129179,
+              40.29668101007006
+            ],
+            [
+              -3.574561009616512,
+              40.298001500305894
+            ],
+            [
+              -3.57557990037134,
+              40.30090552006439
+            ],
+            [
+              -3.575903949643771,
+              40.30470310016977
+            ],
+            [
+              -3.5758454396743558,
+              40.30612774968112
+            ],
+            [
+              -3.575759709853558,
+              40.307673260105226
+            ],
+            [
+              -3.5771015198001677,
+              40.31171442009973
+            ],
+            [
+              -3.576126930361898,
+              40.314885110106914
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nombre": "Robledillo de la Jara",
         "codigo_ine": "34132828124",
         "coordenadas": {
@@ -385718,12 +389225,12 @@
           "lon": -3.520601
         },
         "clima": {
-          "temperatura": 22.9,
-          "sensacion": 22.0,
-          "humedad": 32,
-          "viento": 2.2,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 20.6,
+          "sensacion": 19.6,
+          "humedad": 34,
+          "viento": 2.4,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -389459,10 +392966,10 @@
         "clima": {
           "temperatura": 26.3,
           "sensacion": 26.3,
-          "humedad": 23,
-          "viento": 7.3,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "humedad": 27,
+          "viento": 1.3,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -395424,12 +398931,12 @@
           "lon": -3.602143
         },
         "clima": {
-          "temperatura": 20.9,
-          "sensacion": 19.8,
-          "humedad": 29,
-          "viento": 6.0,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 18.7,
+          "sensacion": 17.4,
+          "humedad": 31,
+          "viento": 5.8,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -397359,19 +400866,19 @@
           "lon": -3.908934
         },
         "clima": {
-          "temperatura": 27.6,
-          "sensacion": 26.5,
-          "humedad": 23,
-          "viento": 5.0,
+          "temperatura": 24.4,
+          "sensacion": 23.6,
+          "humedad": 27,
+          "viento": 8.4,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -406046,12 +409553,12 @@
           "lon": -4.501713
         },
         "clima": {
-          "temperatura": 23.1,
-          "sensacion": 22.0,
-          "humedad": 21,
-          "viento": 7.2,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 21.5,
+          "sensacion": 20.4,
+          "humedad": 26,
+          "viento": 4.1,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -410065,19 +413572,19 @@
           "lon": -3.635302
         },
         "clima": {
-          "temperatura": 25.4,
-          "sensacion": 24.9,
-          "humedad": 33,
-          "viento": 3.5,
+          "temperatura": 22.4,
+          "sensacion": 21.9,
+          "humedad": 46,
+          "viento": 2.6,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -415440,12 +418947,12 @@
           "lon": -3.489946
         },
         "clima": {
-          "temperatura": 27.6,
-          "sensacion": 26.8,
-          "humedad": 29,
-          "viento": 3.2,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 29.3,
+          "sensacion": 28.1,
+          "humedad": 30,
+          "viento": 6.6,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -418395,12 +421902,12 @@
           "lon": -4.122406
         },
         "clima": {
-          "temperatura": 25.4,
-          "sensacion": 24.1,
-          "humedad": 5,
-          "viento": 2.9,
+          "temperatura": 25.8,
+          "sensacion": 24.8,
+          "humedad": 15,
+          "viento": 5.1,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -421586,12 +425093,12 @@
           "lon": -3.571261
         },
         "clima": {
-          "temperatura": 28.0,
-          "sensacion": 27.1,
-          "humedad": 30,
-          "viento": 10.8,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 29.9,
+          "sensacion": 28.5,
+          "humedad": 27,
+          "viento": 10.5,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -425349,12 +428856,12 @@
           "lon": -4.399609
         },
         "clima": {
-          "temperatura": 22.8,
-          "sensacion": 21.8,
-          "humedad": 23,
-          "viento": 8.7,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 21.5,
+          "sensacion": 20.4,
+          "humedad": 27,
+          "viento": 3.7,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -434806,12 +438313,12 @@
           "lon": -3.596474
         },
         "clima": {
-          "temperatura": 26.7,
-          "sensacion": 26.3,
-          "humedad": 31,
-          "viento": 1.8,
+          "temperatura": 26.6,
+          "sensacion": 26.6,
+          "humedad": 39,
+          "viento": 2.6,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -440033,12 +443540,12 @@
           "lon": -4.259978
         },
         "clima": {
-          "temperatura": 22.2,
-          "sensacion": 21.1,
-          "humedad": 23,
-          "viento": 5.7,
+          "temperatura": 24.2,
+          "sensacion": 23.4,
+          "humedad": 28,
+          "viento": 3.2,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -448530,12 +452037,12 @@
           "lon": -3.221509
         },
         "clima": {
-          "temperatura": 26.6,
-          "sensacion": 26.6,
-          "humedad": 25,
+          "temperatura": 25.1,
+          "sensacion": 24.3,
+          "humedad": 27,
           "viento": 4.8,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -449413,12 +452920,12 @@
           "lon": -3.254744
         },
         "clima": {
-          "temperatura": 27.6,
-          "sensacion": 26.7,
-          "humedad": 26,
+          "temperatura": 26.3,
+          "sensacion": 26.3,
+          "humedad": 27,
           "viento": 4.8,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -451688,12 +455195,12 @@
           "lon": -3.622167
         },
         "clima": {
-          "temperatura": 22.3,
-          "sensacion": 21.4,
-          "humedad": 32,
-          "viento": 5.0,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 20.1,
+          "sensacion": 19.0,
+          "humedad": 34,
+          "viento": 5.3,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -454391,19 +457898,19 @@
           "lon": -3.945477
         },
         "clima": {
-          "temperatura": 25.6,
-          "sensacion": 24.8,
+          "temperatura": 25.0,
+          "sensacion": 24.1,
           "humedad": 23,
-          "viento": 5.8,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "viento": 7.8,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -459328,12 +462835,12 @@
           "lon": -4.037637
         },
         "clima": {
-          "temperatura": 25.0,
-          "sensacion": 24.1,
-          "humedad": 24,
-          "viento": 2.1,
+          "temperatura": 24.4,
+          "sensacion": 23.5,
+          "humedad": 23,
+          "viento": 7.3,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -460803,12 +464310,12 @@
           "lon": -3.585779
         },
         "clima": {
-          "temperatura": 20.1,
-          "sensacion": 19,
-          "humedad": 30,
-          "viento": 6.9,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 17.9,
+          "sensacion": 16.6,
+          "humedad": 32,
+          "viento": 5.9,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -461698,12 +465205,12 @@
           "lon": -3.789154
         },
         "clima": {
-          "temperatura": 23.7,
-          "sensacion": 23.0,
-          "humedad": 34,
-          "viento": 2.7,
+          "temperatura": 22.3,
+          "sensacion": 20.9,
+          "humedad": 15,
+          "viento": 6.4,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -463473,19 +466980,19 @@
           "lon": -3.495647
         },
         "clima": {
-          "temperatura": 26.0,
-          "sensacion": 26.0,
-          "humedad": 32,
-          "viento": 7.0,
+          "temperatura": 22.2,
+          "sensacion": 21.6,
+          "humedad": 46,
+          "viento": 5.3,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -468224,12 +471731,12 @@
           "lon": -3.310422
         },
         "clima": {
-          "temperatura": 27.4,
-          "sensacion": 26.4,
-          "humedad": 21,
-          "viento": 7.6,
+          "temperatura": 29.6,
+          "sensacion": 28.1,
+          "humedad": 25,
+          "viento": 6.7,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -469111,12 +472618,12 @@
           "lon": -3.571312
         },
         "clima": {
-          "temperatura": 28.1,
-          "sensacion": 26.8,
+          "temperatura": 30.3,
+          "sensacion": 28.5,
           "humedad": 20,
-          "viento": 10.0,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "viento": 9.8,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -471702,12 +475209,12 @@
           "lon": -3.454232
         },
         "clima": {
-          "temperatura": 27.3,
-          "sensacion": 26.5,
-          "humedad": 28,
-          "viento": 4.3,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 28.1,
+          "sensacion": 27.1,
+          "humedad": 27,
+          "viento": 5.6,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -473169,12 +476676,12 @@
           "lon": -3.796123
         },
         "clima": {
-          "temperatura": 26.1,
-          "sensacion": 26.1,
+          "temperatura": 28.9,
+          "sensacion": 27.5,
           "humedad": 22,
           "viento": 9.5,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -475320,12 +478827,12 @@
           "lon": -3.755588
         },
         "clima": {
-          "temperatura": 26.1,
-          "sensacion": 26.1,
+          "temperatura": 29.7,
+          "sensacion": 28.0,
           "humedad": 21,
-          "viento": 10.0,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "viento": 9.8,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -477843,12 +481350,12 @@
           "lon": -3.545874
         },
         "clima": {
-          "temperatura": 25.0,
-          "sensacion": 24.4,
-          "humedad": 32,
-          "viento": 5.1,
+          "temperatura": 22.6,
+          "sensacion": 21.8,
+          "humedad": 34,
+          "viento": 1.9,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -480018,19 +483525,19 @@
           "lon": -3.933109
         },
         "clima": {
-          "temperatura": 26.7,
-          "sensacion": 26.7,
+          "temperatura": 23.2,
+          "sensacion": 22.0,
           "humedad": 15,
-          "viento": 3.7,
+          "viento": 7.7,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -483697,19 +487204,19 @@
           "lon": -3.502745
         },
         "clima": {
-          "temperatura": 25.0,
-          "sensacion": 24.4,
-          "humedad": 32,
-          "viento": 7.5,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 22.8,
+          "sensacion": 22.1,
+          "humedad": 34,
+          "viento": 5.1,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -487084,12 +490591,12 @@
           "lon": -3.371812
         },
         "clima": {
-          "temperatura": 27.4,
-          "sensacion": 26.6,
+          "temperatura": 26.7,
+          "sensacion": 26.1,
           "humedad": 27,
-          "viento": 5.3,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "viento": 6.4,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -488347,12 +491854,12 @@
           "lon": -3.180183
         },
         "clima": {
-          "temperatura": 24.5,
-          "sensacion": 23.6,
-          "humedad": 21,
-          "viento": 6.1,
+          "temperatura": 23.2,
+          "sensacion": 22.3,
+          "humedad": 27,
+          "viento": 4.4,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -489198,19 +492705,19 @@
           "lon": -3.357867
         },
         "clima": {
-          "temperatura": 25.4,
-          "sensacion": 24.8,
-          "humedad": 30,
-          "viento": 3.2,
+          "temperatura": 21.6,
+          "sensacion": 21.0,
+          "humedad": 46,
+          "viento": 2.1,
           "descripcion": "muy nuboso",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -490425,12 +493932,12 @@
           "lon": -3.358781
         },
         "clima": {
-          "temperatura": 26.8,
-          "sensacion": 26.0,
-          "humedad": 20,
-          "viento": 9.2,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 29.1,
+          "sensacion": 27.6,
+          "humedad": 23,
+          "viento": 8.8,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -491124,12 +494631,12 @@
           "lon": -3.665723
         },
         "clima": {
-          "temperatura": 22.6,
-          "sensacion": 21.8,
-          "humedad": 32,
-          "viento": 3.2,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 20.4,
+          "sensacion": 19.4,
+          "humedad": 34,
+          "viento": 4.4,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -491723,19 +495230,19 @@
           "lon": -4.303259
         },
         "clima": {
-          "temperatura": 20.8,
-          "sensacion": 19.5,
-          "humedad": 23,
-          "viento": 7.2,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 26.7,
+          "sensacion": 26.2,
+          "humedad": 28,
+          "viento": 0.2,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 100,
+          "puntuacion": 80,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "✨ Condiciones perfectas para actividades al aire libre"
+            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
           ],
           "color": "#10b981"
         }
@@ -502766,19 +506273,19 @@
           "lon": -4.05832
         },
         "clima": {
-          "temperatura": 26.1,
-          "sensacion": 26.1,
-          "humedad": 21,
-          "viento": 0.8,
+          "temperatura": 23.4,
+          "sensacion": 22.4,
+          "humedad": 23,
+          "viento": 6.2,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -514341,12 +517848,12 @@
           "lon": -3.634679
         },
         "clima": {
-          "temperatura": 27.8,
-          "sensacion": 26.6,
+          "temperatura": 30.0,
+          "sensacion": 28.2,
           "humedad": 20,
-          "viento": 10.6,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "viento": 10.0,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -517204,12 +520711,12 @@
           "lon": -3.46662
         },
         "clima": {
-          "temperatura": 25.9,
-          "sensacion": 25.3,
-          "humedad": 30,
-          "viento": 3.5,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 26.3,
+          "sensacion": 26.3,
+          "humedad": 25,
+          "viento": 2.2,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -520087,19 +523594,19 @@
           "lon": -3.446811
         },
         "clima": {
-          "temperatura": 25.6,
-          "sensacion": 25.0,
-          "humedad": 31,
-          "viento": 6.6,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 21.8,
+          "sensacion": 21.2,
+          "humedad": 46,
+          "viento": 5.1,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -521908,19 +525415,19 @@
           "lon": -3.521225
         },
         "clima": {
-          "temperatura": 26.1,
-          "sensacion": 26.1,
-          "humedad": 31,
-          "viento": 4.9,
+          "temperatura": 22.5,
+          "sensacion": 22.0,
+          "humedad": 46,
+          "viento": 2.8,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -524195,12 +527702,12 @@
           "lon": -3.302722
         },
         "clima": {
-          "temperatura": 26.6,
-          "sensacion": 26.6,
-          "humedad": 30,
-          "viento": 7.1,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 26.0,
+          "sensacion": 26.0,
+          "humedad": 25,
+          "viento": 6.5,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -524538,12 +528045,12 @@
           "lon": -3.31472
         },
         "clima": {
-          "temperatura": 27.2,
-          "sensacion": 26.4,
-          "humedad": 26,
-          "viento": 5.9,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 25.6,
+          "sensacion": 25.0,
+          "humedad": 27,
+          "viento": 6.4,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -525245,12 +528752,12 @@
           "lon": -3.485242
         },
         "clima": {
-          "temperatura": 27.9,
-          "sensacion": 27,
-          "humedad": 30,
-          "viento": 3.2,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 30.0,
+          "sensacion": 28.5,
+          "humedad": 27,
+          "viento": 8.1,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -526480,12 +529987,12 @@
           "lon": -3.559065
         },
         "clima": {
-          "temperatura": 24.5,
-          "sensacion": 23.9,
-          "humedad": 32,
-          "viento": 5.6,
+          "temperatura": 20.9,
+          "sensacion": 20.3,
+          "humedad": 46,
+          "viento": 2.7,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -528195,12 +531702,12 @@
           "lon": -3.62251
         },
         "clima": {
-          "temperatura": 24.2,
-          "sensacion": 23.5,
-          "humedad": 32,
-          "viento": 4.2,
+          "temperatura": 21.9,
+          "sensacion": 21,
+          "humedad": 34,
+          "viento": 2.1,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -528782,12 +532289,12 @@
           "lon": -3.482025
         },
         "clima": {
-          "temperatura": 27.2,
-          "sensacion": 26.2,
-          "humedad": 20,
-          "viento": 9.8,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 29.4,
+          "sensacion": 27.8,
+          "humedad": 21,
+          "viento": 9.7,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -529693,12 +533200,12 @@
           "lon": -4.300618
         },
         "clima": {
-          "temperatura": 23.3,
-          "sensacion": 22.3,
-          "humedad": 23,
-          "viento": 5.4,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 22.7,
+          "sensacion": 21.7,
+          "humedad": 26,
+          "viento": 4.0,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -533588,12 +537095,12 @@
           "lon": -3.359967
         },
         "clima": {
-          "temperatura": 27.5,
-          "sensacion": 26.6,
+          "temperatura": 26.7,
+          "sensacion": 26.1,
           "humedad": 27,
-          "viento": 4.4,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "viento": 5.6,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -541143,19 +544650,19 @@
           "lon": -3.243897
         },
         "clima": {
-          "temperatura": 25.8,
-          "sensacion": 25.0,
-          "humedad": 21,
-          "viento": 7.7,
+          "temperatura": 24.4,
+          "sensacion": 23.6,
+          "humedad": 25,
+          "viento": 7.2,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -543730,12 +547237,12 @@
           "lon": -4.126247
         },
         "clima": {
-          "temperatura": 25.6,
-          "sensacion": 24.9,
+          "temperatura": 25.1,
+          "sensacion": 24.3,
           "humedad": 25,
-          "viento": 3.3,
+          "viento": 4.9,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -549033,12 +552540,12 @@
           "lon": -4.139529
         },
         "clima": {
-          "temperatura": 25.6,
-          "sensacion": 24.9,
-          "humedad": 24,
-          "viento": 3.7,
+          "temperatura": 25.1,
+          "sensacion": 24.3,
+          "humedad": 25,
+          "viento": 4.9,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -553072,19 +556579,19 @@
           "lon": -3.979376
         },
         "clima": {
-          "temperatura": 26.5,
-          "sensacion": 26.5,
-          "humedad": 20,
-          "viento": 3.9,
+          "temperatura": 24.7,
+          "sensacion": 23.8,
+          "humedad": 21,
+          "viento": 8.6,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -559127,19 +562634,19 @@
           "lon": -3.967279
         },
         "clima": {
-          "temperatura": 27.1,
-          "sensacion": 25.8,
-          "humedad": 5,
-          "viento": 4.6,
+          "temperatura": 24.5,
+          "sensacion": 23.4,
+          "humedad": 15,
+          "viento": 8.6,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -565778,19 +569285,19 @@
           "lon": -4.089038
         },
         "clima": {
-          "temperatura": 25.5,
-          "sensacion": 24.7,
+          "temperatura": 24.9,
+          "sensacion": 24.1,
           "humedad": 24,
-          "viento": 2.5,
+          "viento": 5.8,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -571049,12 +574556,12 @@
           "lon": -3.216706
         },
         "clima": {
-          "temperatura": 27.1,
-          "sensacion": 26.3,
-          "humedad": 25,
-          "viento": 5.6,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 25.5,
+          "sensacion": 24.8,
+          "humedad": 27,
+          "viento": 5.0,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -573380,19 +576887,19 @@
           "lon": -3.260582
         },
         "clima": {
-          "temperatura": 25.2,
-          "sensacion": 24.4,
-          "humedad": 21,
-          "viento": 7.7,
+          "temperatura": 23.8,
+          "sensacion": 22.9,
+          "humedad": 25,
+          "viento": 6.8,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -575111,12 +578618,12 @@
           "lon": -3.939837
         },
         "clima": {
-          "temperatura": 29.7,
-          "sensacion": 28.0,
-          "humedad": 20,
-          "viento": 5.4,
+          "temperatura": 25.8,
+          "sensacion": 24.9,
+          "humedad": 21,
+          "viento": 9.4,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -580322,12 +583829,12 @@
           "lon": -3.670985
         },
         "clima": {
-          "temperatura": 22.9,
-          "sensacion": 22.1,
-          "humedad": 32,
-          "viento": 6.4,
-          "descripcion": "nubes dispersas",
-          "icono": "03n"
+          "temperatura": 20.7,
+          "sensacion": 19.7,
+          "humedad": 34,
+          "viento": 5.9,
+          "descripcion": "muy nuboso",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -582614,11 +586121,11 @@
         },
         "clima": {
           "temperatura": 25.6,
-          "sensacion": 24.8,
-          "humedad": 22,
-          "viento": 4.6,
+          "sensacion": 24.9,
+          "humedad": 26,
+          "viento": 2.8,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -584196,12 +587703,12 @@
           "lon": -3.606349
         },
         "clima": {
-          "temperatura": 23.1,
-          "sensacion": 22.3,
-          "humedad": 32,
-          "viento": 1.7,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 20.9,
+          "sensacion": 19.9,
+          "humedad": 34,
+          "viento": 1.8,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -585591,12 +589098,12 @@
           "lon": -3.568074
         },
         "clima": {
-          "temperatura": 23.7,
-          "sensacion": 23.0,
-          "humedad": 32,
-          "viento": 1.2,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 21.5,
+          "sensacion": 20.6,
+          "humedad": 34,
+          "viento": 2.4,
+          "descripcion": "nubes",
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
@@ -591254,19 +594761,19 @@
           "lon": -3.743271
         },
         "clima": {
-          "temperatura": 25.9,
-          "sensacion": 25.4,
-          "humedad": 33,
-          "viento": 3.2,
+          "temperatura": 24.6,
+          "sensacion": 24.2,
+          "humedad": 39,
+          "viento": 6.0,
           "descripcion": "nubes",
-          "icono": "04n"
+          "icono": "04d"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "☀️ Hace calor, lleva agua y protección solar (gorra, crema)"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
