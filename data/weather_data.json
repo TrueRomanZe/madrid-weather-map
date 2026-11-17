@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2026-11-17T06:15:24.117236",
-    "ultima_actualizacion_formateada": "17/11/2026 a las 06:15",
+    "ultima_actualizacion": "2026-11-17T18:07:17.840141",
+    "ultima_actualizacion_formateada": "17/11/2026 a las 18:07",
     "total_municipios": 179,
     "municipios_con_error": 0,
     "fuente_clima": "OpenWeatherMap",
@@ -19,21 +19,22 @@
           "lon": -3.610449
         },
         "clima": {
-          "temperatura": 8.4,
-          "sensacion": 6.2,
-          "humedad": 90,
-          "viento": 13.6,
+          "temperatura": 10.6,
+          "sensacion": 9.8,
+          "humedad": 78,
+          "viento": 23.7,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (23 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -3326,19 +3327,19 @@
           "lon": -3.482734
         },
         "clima": {
-          "temperatura": 11.7,
-          "sensacion": 11.2,
-          "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.3,
+          "sensacion": 15.1,
+          "humedad": 86,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -6333,21 +6334,22 @@
           "lon": -3.842371
         },
         "clima": {
-          "temperatura": 9.1,
-          "sensacion": 6.8,
-          "humedad": 88,
-          "viento": 14.9,
+          "temperatura": 11.3,
+          "sensacion": 10.5,
+          "humedad": 77,
+          "viento": 20.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (20 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -9168,19 +9170,19 @@
           "lon": -3.989167
         },
         "clima": {
-          "temperatura": 12.3,
-          "sensacion": 11.9,
-          "humedad": 90,
-          "viento": 16.3,
-          "descripcion": "nubes",
+          "temperatura": 16.0,
+          "sensacion": 16.0,
+          "humedad": 89,
+          "viento": 21.3,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (21 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -9955,19 +9957,19 @@
           "lon": -3.363968
         },
         "clima": {
-          "temperatura": 12.2,
-          "sensacion": 11.8,
-          "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.8,
+          "sensacion": 15.7,
+          "humedad": 87,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -19834,19 +19836,19 @@
           "lon": -3.621706
         },
         "clima": {
-          "temperatura": 11.8,
-          "sensacion": 11.3,
-          "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.3,
+          "sensacion": 15.2,
+          "humedad": 86,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -25621,22 +25623,21 @@
           "lon": -3.839792
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.4,
+          "temperatura": 15.2,
+          "sensacion": 15.1,
           "humedad": 89,
-          "viento": 24.1,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "viento": 33.3,
+          "descripcion": "cielo claro",
+          "icono": "01n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -28013,19 +28014,19 @@
           "lon": -4.210169
         },
         "clima": {
-          "temperatura": 12.8,
-          "sensacion": 12.6,
-          "humedad": 97,
-          "viento": 12.8,
+          "temperatura": 16.7,
+          "sensacion": 16.7,
+          "humedad": 89,
+          "viento": 11.4,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -32056,19 +32057,19 @@
           "lon": -3.527639
         },
         "clima": {
-          "temperatura": 12.0,
-          "sensacion": 11.6,
-          "humedad": 89,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.5,
+          "sensacion": 15.3,
+          "humedad": 85,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -36819,10 +36820,10 @@
           "lon": -4.027135
         },
         "clima": {
-          "temperatura": 10.0,
-          "sensacion": 9.5,
-          "humedad": 90,
-          "viento": 5.8,
+          "temperatura": 14.2,
+          "sensacion": 13.5,
+          "humedad": 71,
+          "viento": 4.0,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -37242,19 +37243,19 @@
           "lon": -3.168989
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.5,
-          "humedad": 90,
-          "viento": 16.1,
-          "descripcion": "nubes",
+          "temperatura": 15.3,
+          "sensacion": 15.3,
+          "humedad": 94,
+          "viento": 22.2,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (22 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -41789,21 +41790,22 @@
           "lon": -3.28222
         },
         "clima": {
-          "temperatura": 11.4,
-          "sensacion": 11.0,
+          "temperatura": 14.9,
+          "sensacion": 14.8,
           "humedad": 89,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -42428,19 +42430,19 @@
           "lon": -3.644678
         },
         "clima": {
-          "temperatura": 12.9,
-          "sensacion": 12.6,
+          "temperatura": 16.9,
+          "sensacion": 17.0,
           "humedad": 90,
-          "viento": 14.3,
-          "descripcion": "nubes",
+          "viento": 19.2,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -52791,19 +52793,19 @@
           "lon": -3.462584
         },
         "clima": {
-          "temperatura": 11.8,
-          "sensacion": 11.3,
+          "temperatura": 16.3,
+          "sensacion": 16.3,
           "humedad": 89,
-          "viento": 6.4,
-          "descripcion": "nubes",
+          "viento": 9.6,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -54006,22 +54008,21 @@
           "lon": -3.926499
         },
         "clima": {
-          "temperatura": 12.2,
-          "sensacion": 11.9,
-          "humedad": 91,
-          "viento": 24.1,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 15.7,
+          "sensacion": 15.7,
+          "humedad": 90,
+          "viento": 33.3,
+          "descripcion": "cielo claro",
+          "icono": "01n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -59398,10 +59399,10 @@
           "lon": -3.468614
         },
         "clima": {
-          "temperatura": 10.7,
-          "sensacion": 10.3,
-          "humedad": 95,
-          "viento": 4.2,
+          "temperatura": 12.9,
+          "sensacion": 12.8,
+          "humedad": 96,
+          "viento": 0.5,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -63197,19 +63198,19 @@
           "lon": -3.926533
         },
         "clima": {
-          "temperatura": 12.0,
-          "sensacion": 11.6,
-          "humedad": 87,
-          "viento": 18.5,
+          "temperatura": 15.7,
+          "sensacion": 15.7,
+          "humedad": 88,
+          "viento": 31.5,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (31 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -67696,10 +67697,10 @@
           "lon": -3.84954
         },
         "clima": {
-          "temperatura": 9.7,
-          "sensacion": 7.6,
-          "humedad": 96,
-          "viento": 14.5,
+          "temperatura": 13.3,
+          "sensacion": 12.7,
+          "humedad": 80,
+          "viento": 12.9,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -69301,19 +69302,19 @@
           "lon": -3.348116
         },
         "clima": {
-          "temperatura": 10.4,
-          "sensacion": 9.8,
+          "temperatura": 15.4,
+          "sensacion": 15.3,
           "humedad": 89,
-          "viento": 11.6,
-          "descripcion": "nubes",
+          "viento": 18.5,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -69800,10 +69801,10 @@
           "lon": -3.53488
         },
         "clima": {
-          "temperatura": 9.7,
-          "sensacion": 8.8,
-          "humedad": 95,
-          "viento": 7.4,
+          "temperatura": 11.9,
+          "sensacion": 11.7,
+          "humedad": 96,
+          "viento": 7.7,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -72651,10 +72652,10 @@
           "lon": -3.554974
         },
         "clima": {
-          "temperatura": 10.3,
-          "sensacion": 9.8,
-          "humedad": 95,
-          "viento": 5.3,
+          "temperatura": 12.5,
+          "sensacion": 12.3,
+          "humedad": 96,
+          "viento": 4.8,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -75014,22 +75015,21 @@
           "lon": -3.927358
         },
         "clima": {
-          "temperatura": 12.0,
-          "sensacion": 11.7,
-          "humedad": 90,
-          "viento": 24.1,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 15.5,
+          "sensacion": 15.4,
+          "humedad": 89,
+          "viento": 33.3,
+          "descripcion": "cielo claro",
+          "icono": "01n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -76954,10 +76954,10 @@
           "lon": -3.838989
         },
         "clima": {
-          "temperatura": 9.8,
-          "sensacion": 7.7,
-          "humedad": 96,
-          "viento": 14.5,
+          "temperatura": 13.2,
+          "sensacion": 12.7,
+          "humedad": 81,
+          "viento": 12.9,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -79287,21 +79287,22 @@
           "lon": -3.644638
         },
         "clima": {
-          "temperatura": 8.9,
-          "sensacion": 7.3,
-          "humedad": 95,
-          "viento": 10.0,
+          "temperatura": 11.1,
+          "sensacion": 10.8,
+          "humedad": 96,
+          "viento": 21.1,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (21 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -80342,21 +80343,22 @@
           "lon": -3.118776
         },
         "clima": {
-          "temperatura": 11.1,
-          "sensacion": 10.5,
+          "temperatura": 14.7,
+          "sensacion": 14.6,
           "humedad": 89,
-          "viento": 12.2,
-          "descripcion": "nubes",
+          "viento": 21.1,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (21 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -81521,22 +81523,21 @@
           "lon": -3.969077
         },
         "clima": {
-          "temperatura": 12.1,
-          "sensacion": 11.8,
-          "humedad": 91,
-          "viento": 24.1,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 15.7,
+          "sensacion": 15.7,
+          "humedad": 90,
+          "viento": 33.3,
+          "descripcion": "cielo claro",
+          "icono": "01n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -85377,10 +85378,10 @@
           "lon": -3.632485
         },
         "clima": {
-          "temperatura": 10.1,
-          "sensacion": 9.6,
-          "humedad": 95,
-          "viento": 6.2,
+          "temperatura": 12.3,
+          "sensacion": 12.1,
+          "humedad": 96,
+          "viento": 13.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -90268,10 +90269,10 @@
           "lon": -3.745877
         },
         "clima": {
-          "temperatura": 8.8,
-          "sensacion": 8.2,
-          "humedad": 95,
-          "viento": 5.9,
+          "temperatura": 11.3,
+          "sensacion": 10.9,
+          "humedad": 93,
+          "viento": 10.0,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -95311,10 +95312,10 @@
           "lon": -3.634406
         },
         "clima": {
-          "temperatura": 10.5,
-          "sensacion": 10.1,
-          "humedad": 95,
-          "viento": 4.0,
+          "temperatura": 12.7,
+          "sensacion": 12.6,
+          "humedad": 96,
+          "viento": 2.5,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -96326,10 +96327,10 @@
           "lon": -3.610937
         },
         "clima": {
-          "temperatura": 9.7,
-          "sensacion": 9.7,
-          "humedad": 95,
-          "viento": 4.7,
+          "temperatura": 12.0,
+          "sensacion": 11.7,
+          "humedad": 96,
+          "viento": 3.8,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -96865,10 +96866,10 @@
           "lon": -4.43542
         },
         "clima": {
-          "temperatura": 10.8,
-          "sensacion": 10.3,
-          "humedad": 90,
-          "viento": 6.9,
+          "temperatura": 14.3,
+          "sensacion": 14.0,
+          "humedad": 86,
+          "viento": 7.4,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -101072,19 +101073,19 @@
           "lon": -3.374819
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.5,
-          "humedad": 89,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.4,
+          "sensacion": 15.3,
+          "humedad": 87,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -102103,21 +102104,22 @@
           "lon": -3.379375
         },
         "clima": {
-          "temperatura": 10.5,
-          "sensacion": 9.9,
-          "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 14.8,
+          "sensacion": 14.7,
+          "humedad": 89,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -103298,21 +103300,21 @@
           "lon": -3.768817
         },
         "clima": {
-          "temperatura": 8.0,
-          "sensacion": 6.8,
-          "humedad": 95,
-          "viento": 7.1,
+          "temperatura": 10.2,
+          "sensacion": 9.8,
+          "humedad": 96,
+          "viento": 13.5,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 50,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 80,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -106185,19 +106187,19 @@
           "lon": -3.24611
         },
         "clima": {
-          "temperatura": 10.6,
-          "sensacion": 10.0,
+          "temperatura": 15.6,
+          "sensacion": 15.5,
           "humedad": 89,
-          "viento": 15.2,
-          "descripcion": "nubes",
+          "viento": 21.1,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (21 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -106608,19 +106610,19 @@
           "lon": -3.820407
         },
         "clima": {
-          "temperatura": 12.1,
-          "sensacion": 11.7,
-          "humedad": 87,
-          "viento": 18.5,
+          "temperatura": 16.0,
+          "sensacion": 15.9,
+          "humedad": 88,
+          "viento": 31.5,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (31 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -107651,10 +107653,10 @@
           "lon": -4.533585
         },
         "clima": {
-          "temperatura": 11.4,
-          "sensacion": 11,
-          "humedad": 90,
-          "viento": 11.4,
+          "temperatura": 15.0,
+          "sensacion": 14.8,
+          "humedad": 87,
+          "viento": 13.5,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -110450,10 +110452,10 @@
           "lon": -4.042725
         },
         "clima": {
-          "temperatura": 9.1,
-          "sensacion": 7.7,
-          "humedad": 68,
-          "viento": 9.7,
+          "temperatura": 12.8,
+          "sensacion": 11.8,
+          "humedad": 63,
+          "viento": 6.8,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -111501,10 +111503,10 @@
           "lon": -3.520999
         },
         "clima": {
-          "temperatura": 10.4,
-          "sensacion": 9.9,
-          "humedad": 95,
-          "viento": 5.9,
+          "temperatura": 12.6,
+          "sensacion": 12.4,
+          "humedad": 96,
+          "viento": 0.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -113328,19 +113330,19 @@
           "lon": -3.594524
         },
         "clima": {
-          "temperatura": 12.6,
-          "sensacion": 12.2,
-          "humedad": 87,
-          "viento": 18.5,
+          "temperatura": 16.8,
+          "sensacion": 16.8,
+          "humedad": 88,
+          "viento": 31.5,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (31 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -120339,19 +120341,19 @@
           "lon": -3.50114
         },
         "clima": {
-          "temperatura": 11.5,
-          "sensacion": 11.0,
-          "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.1,
+          "sensacion": 14.8,
+          "humedad": 85,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -122402,19 +122404,19 @@
           "lon": -4.17023
         },
         "clima": {
-          "temperatura": 12.5,
-          "sensacion": 12.3,
-          "humedad": 97,
-          "viento": 6.4,
+          "temperatura": 16.4,
+          "sensacion": 16.4,
+          "humedad": 90,
+          "viento": 11.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -128353,19 +128355,19 @@
           "lon": -3.469745
         },
         "clima": {
-          "temperatura": 12.7,
-          "sensacion": 12.3,
+          "temperatura": 16.5,
+          "sensacion": 16.6,
           "humedad": 89,
-          "viento": 11.5,
-          "descripcion": "nubes",
+          "viento": 16.9,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -133916,10 +133918,10 @@
           "lon": -4.014838
         },
         "clima": {
-          "temperatura": 11.1,
-          "sensacion": 10.5,
-          "humedad": 89,
-          "viento": 9.6,
+          "temperatura": 14.7,
+          "sensacion": 14.4,
+          "humedad": 81,
+          "viento": 5.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -142167,10 +142169,10 @@
           "lon": -3.715167
         },
         "clima": {
-          "temperatura": 10.9,
-          "sensacion": 10.4,
-          "humedad": 92,
-          "viento": 14.5,
+          "temperatura": 14.3,
+          "sensacion": 14.0,
+          "humedad": 87,
+          "viento": 12.9,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -156322,10 +156324,10 @@
           "lon": -4.041707
         },
         "clima": {
-          "temperatura": 10.8,
-          "sensacion": 9.7,
-          "humedad": 68,
-          "viento": 7.7,
+          "temperatura": 14.2,
+          "sensacion": 13.3,
+          "humedad": 63,
+          "viento": 5.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -157885,10 +157887,10 @@
           "lon": -3.980356
         },
         "clima": {
-          "temperatura": 9.6,
-          "sensacion": 9.6,
-          "humedad": 90,
-          "viento": 0.1,
+          "temperatura": 13.6,
+          "sensacion": 12.9,
+          "humedad": 72,
+          "viento": 5.0,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -160160,21 +160162,22 @@
           "lon": -3.240008
         },
         "clima": {
-          "temperatura": 11.0,
-          "sensacion": 10.5,
-          "humedad": 87,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 14.2,
+          "sensacion": 14.1,
+          "humedad": 90,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -160783,22 +160786,21 @@
           "lon": -3.547807
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.4,
-          "humedad": 88,
-          "viento": 24.1,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.7,
+          "sensacion": 15.6,
+          "humedad": 87,
+          "viento": 33.3,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -162147,19 +162149,19 @@
           "lon": -3.836673
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.4,
-          "humedad": 87,
-          "viento": 18.5,
+          "temperatura": 15.7,
+          "sensacion": 15.6,
+          "humedad": 88,
+          "viento": 31.5,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (31 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -163110,19 +163112,19 @@
           "lon": -4.197827
         },
         "clima": {
-          "temperatura": 12.4,
-          "sensacion": 12.3,
-          "humedad": 97,
-          "viento": 9.1,
+          "temperatura": 16.3,
+          "sensacion": 16.4,
+          "humedad": 90,
+          "viento": 6.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -165701,19 +165703,19 @@
           "lon": -3.509946
         },
         "clima": {
-          "temperatura": 11.6,
-          "sensacion": 11.1,
+          "temperatura": 16.6,
+          "sensacion": 16.6,
           "humedad": 89,
-          "viento": 13.4,
-          "descripcion": "nubes",
+          "viento": 18.0,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -170176,19 +170178,19 @@
           "lon": -3.454857
         },
         "clima": {
-          "temperatura": 11.7,
-          "sensacion": 11.3,
-          "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.3,
+          "sensacion": 15.1,
+          "humedad": 86,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -173331,10 +173333,10 @@
           "lon": -4.091847
         },
         "clima": {
-          "temperatura": 10.7,
-          "sensacion": 10.2,
-          "humedad": 89,
-          "viento": 9.9,
+          "temperatura": 14.8,
+          "sensacion": 14.3,
+          "humedad": 74,
+          "viento": 3.8,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -178766,19 +178768,19 @@
           "lon": -3.088146
         },
         "clima": {
-          "temperatura": 12.3,
-          "sensacion": 11.9,
+          "temperatura": 16.1,
+          "sensacion": 16.1,
           "humedad": 89,
-          "viento": 9.2,
-          "descripcion": "nubes",
+          "viento": 18.6,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -186637,10 +186639,10 @@
           "lon": -4.185589
         },
         "clima": {
-          "temperatura": 10.6,
-          "sensacion": 10.1,
-          "humedad": 92,
-          "viento": 9.1,
+          "temperatura": 14.4,
+          "sensacion": 14.2,
+          "humedad": 90,
+          "viento": 5.1,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -190376,19 +190378,19 @@
           "lon": -3.406588
         },
         "clima": {
-          "temperatura": 11.7,
-          "sensacion": 11.2,
-          "humedad": 89,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.1,
+          "sensacion": 14.9,
+          "humedad": 87,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -191075,22 +191077,21 @@
           "lon": -3.801138
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.5,
-          "humedad": 89,
-          "viento": 24.1,
+          "temperatura": 15.4,
+          "sensacion": 15.4,
+          "humedad": 90,
+          "viento": 33.3,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -194899,19 +194900,19 @@
           "lon": -3.53778
         },
         "clima": {
-          "temperatura": 12.1,
-          "sensacion": 11.7,
-          "humedad": 89,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.4,
+          "sensacion": 15.3,
+          "humedad": 85,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -196598,19 +196599,19 @@
           "lon": -3.161077
         },
         "clima": {
-          "temperatura": 12.4,
-          "sensacion": 12.0,
+          "temperatura": 16.2,
+          "sensacion": 16.2,
           "humedad": 89,
-          "viento": 8.0,
-          "descripcion": "nubes",
+          "viento": 17.9,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -199189,10 +199190,10 @@
           "lon": -3.980142
         },
         "clima": {
-          "temperatura": 10.5,
-          "sensacion": 10.0,
-          "humedad": 90,
-          "viento": 9.6,
+          "temperatura": 14.2,
+          "sensacion": 13.7,
+          "humedad": 80,
+          "viento": 4.5,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -208760,10 +208761,10 @@
           "lon": -3.684855
         },
         "clima": {
-          "temperatura": 9.6,
-          "sensacion": 9.3,
-          "humedad": 95,
-          "viento": 5.1,
+          "temperatura": 11.8,
+          "sensacion": 11.6,
+          "humedad": 96,
+          "viento": 13.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -212155,10 +212156,10 @@
           "lon": -3.69538
         },
         "clima": {
-          "temperatura": 9.6,
-          "sensacion": 9.3,
-          "humedad": 95,
-          "viento": 5.1,
+          "temperatura": 11.8,
+          "sensacion": 11.6,
+          "humedad": 96,
+          "viento": 13.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -216298,11 +216299,11 @@
           "lon": -3.650973
         },
         "clima": {
-          "temperatura": 9.4,
-          "sensacion": 8.3,
-          "humedad": 95,
-          "viento": 7.9,
-          "descripcion": "nubes",
+          "temperatura": 11.6,
+          "sensacion": 11.3,
+          "humedad": 96,
+          "viento": 17.5,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
@@ -218793,22 +218794,21 @@
           "lon": -3.666697
         },
         "clima": {
-          "temperatura": 12.4,
-          "sensacion": 12.0,
-          "humedad": 89,
-          "viento": 24.1,
+          "temperatura": 16.1,
+          "sensacion": 16.1,
+          "humedad": 90,
+          "viento": 33.3,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -224045,22 +224045,21 @@
           "lon": -3.841535
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.4,
-          "humedad": 87,
-          "viento": 24.1,
+          "temperatura": 15.5,
+          "sensacion": 15.4,
+          "humedad": 88,
+          "viento": 33.3,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -225269,10 +225268,10 @@
           "lon": -3.691235
         },
         "clima": {
-          "temperatura": 9.6,
-          "sensacion": 8.5,
-          "humedad": 96,
-          "viento": 8.4,
+          "temperatura": 12.5,
+          "sensacion": 12.2,
+          "humedad": 90,
+          "viento": 6.4,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -228436,10 +228435,10 @@
           "lon": -4.078507
         },
         "clima": {
-          "temperatura": 9.8,
-          "sensacion": 8.6,
-          "humedad": 84,
-          "viento": 8.7,
+          "temperatura": 14.2,
+          "sensacion": 13.3,
+          "humedad": 63,
+          "viento": 3.1,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -230899,19 +230898,20 @@
           "lon": -3.445731
         },
         "clima": {
-          "temperatura": 7.7,
-          "sensacion": 5.9,
-          "humedad": 91,
-          "viento": 10.2,
+          "temperatura": 9.9,
+          "sensacion": 7.3,
+          "humedad": 88,
+          "viento": 20.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
-          "puntuacion": 50,
+          "puntuacion": 55,
           "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (20 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#f59e0b"
         }
@@ -236462,21 +236462,22 @@
           "lon": -3.592696
         },
         "clima": {
-          "temperatura": 9.4,
-          "sensacion": 7.6,
-          "humedad": 90,
-          "viento": 12.0,
+          "temperatura": 11.6,
+          "sensacion": 11.1,
+          "humedad": 87,
+          "viento": 22.1,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (22 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -239601,10 +239602,10 @@
           "lon": -3.555558
         },
         "clima": {
-          "temperatura": 8.8,
-          "sensacion": 7.1,
-          "humedad": 95,
-          "viento": 10.3,
+          "temperatura": 11.0,
+          "sensacion": 10.7,
+          "humedad": 96,
+          "viento": 17.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -241792,10 +241793,10 @@
           "lon": -3.882328
         },
         "clima": {
-          "temperatura": 10.1,
-          "sensacion": 9.5,
-          "humedad": 90,
-          "viento": 14.5,
+          "temperatura": 13.6,
+          "sensacion": 13.1,
+          "humedad": 82,
+          "viento": 12.9,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -243015,22 +243016,21 @@
           "lon": -3.833536
         },
         "clima": {
-          "temperatura": 11.8,
-          "sensacion": 11.4,
-          "humedad": 89,
-          "viento": 24.1,
+          "temperatura": 15.4,
+          "sensacion": 15.3,
+          "humedad": 90,
+          "viento": 33.3,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -244579,22 +244579,21 @@
           "lon": -3.789859
         },
         "clima": {
-          "temperatura": 12.0,
-          "sensacion": 11.5,
+          "temperatura": 15.4,
+          "sensacion": 15.3,
           "humedad": 89,
-          "viento": 24.1,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "viento": 33.3,
+          "descripcion": "cielo claro",
+          "icono": "01n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -246395,19 +246394,19 @@
           "lon": -3.41232
         },
         "clima": {
-          "temperatura": 11.1,
-          "sensacion": 10.6,
-          "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.3,
+          "sensacion": 15.1,
+          "humedad": 87,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -247762,10 +247761,10 @@
           "lon": -3.766938
         },
         "clima": {
-          "temperatura": 8.6,
-          "sensacion": 6.9,
-          "humedad": 95,
-          "viento": 10.5,
+          "temperatura": 10.8,
+          "sensacion": 10.5,
+          "humedad": 96,
+          "viento": 19.0,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -251021,10 +251020,10 @@
           "lon": -3.575656
         },
         "clima": {
-          "temperatura": 9.8,
-          "sensacion": 8.3,
-          "humedad": 95,
-          "viento": 10.3,
+          "temperatura": 12.0,
+          "sensacion": 11.8,
+          "humedad": 96,
+          "viento": 17.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -254276,12 +254275,12 @@
           "lon": -3.686642
         },
         "clima": {
-          "temperatura": 11.4,
-          "sensacion": 10.9,
-          "humedad": 89,
-          "viento": 24.1,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 14.8,
+          "sensacion": 14.6,
+          "humedad": 87,
+          "viento": 33.3,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "amarillo",
@@ -254289,7 +254288,7 @@
           "mensaje": "Aceptable con precauciones",
           "consejos": [
             "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#f59e0b"
         }
@@ -268700,22 +268699,21 @@
           "lon": -3.919687
         },
         "clima": {
-          "temperatura": 12.0,
-          "sensacion": 11.5,
+          "temperatura": 15.4,
+          "sensacion": 15.3,
           "humedad": 89,
-          "viento": 24.1,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "viento": 33.3,
+          "descripcion": "cielo claro",
+          "icono": "01n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -273560,10 +273558,10 @@
           "lon": -3.938264
         },
         "clima": {
-          "temperatura": 10.6,
-          "sensacion": 9.7,
-          "humedad": 78,
-          "viento": 2.3,
+          "temperatura": 13.6,
+          "sensacion": 12.9,
+          "humedad": 73,
+          "viento": 11.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -276565,19 +276563,19 @@
           "lon": -3.328421
         },
         "clima": {
-          "temperatura": 12.0,
-          "sensacion": 11.6,
-          "humedad": 89,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.5,
+          "sensacion": 15.4,
+          "humedad": 88,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -277868,19 +277866,19 @@
           "lon": -3.490979
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.5,
-          "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 16.1,
+          "sensacion": 16.0,
+          "humedad": 86,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -278939,10 +278937,10 @@
           "lon": -3.763446
         },
         "clima": {
-          "temperatura": 9.2,
-          "sensacion": 8.6,
-          "humedad": 96,
-          "viento": 5.9,
+          "temperatura": 11.7,
+          "sensacion": 11.3,
+          "humedad": 93,
+          "viento": 10.0,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -283706,10 +283704,10 @@
           "lon": -3.561263
         },
         "clima": {
-          "temperatura": 11.5,
-          "sensacion": 11.1,
-          "humedad": 91,
-          "viento": 4.8,
+          "temperatura": 14.6,
+          "sensacion": 14.4,
+          "humedad": 86,
+          "viento": 1.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -289153,10 +289151,10 @@
           "lon": -4.089288
         },
         "clima": {
-          "temperatura": 9.9,
-          "sensacion": 7.8,
-          "humedad": 68,
-          "viento": 15.2,
+          "temperatura": 13.8,
+          "sensacion": 12.9,
+          "humedad": 63,
+          "viento": 5.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -289936,19 +289934,20 @@
           "lon": -3.503049
         },
         "clima": {
-          "temperatura": 6.6,
-          "sensacion": 4.1,
-          "humedad": 91,
-          "viento": 12.7,
+          "temperatura": 8.8,
+          "sensacion": 5.6,
+          "humedad": 87,
+          "viento": 22.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
-          "puntuacion": 50,
+          "puntuacion": 55,
           "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (22 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#f59e0b"
         }
@@ -296219,22 +296218,21 @@
           "lon": -3.886954
         },
         "clima": {
-          "temperatura": 12.1,
-          "sensacion": 11.7,
-          "humedad": 89,
-          "viento": 24.1,
+          "temperatura": 15.6,
+          "sensacion": 15.5,
+          "humedad": 90,
+          "viento": 33.3,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -301299,10 +301297,10 @@
           "lon": -3.952806
         },
         "clima": {
-          "temperatura": 9.0,
-          "sensacion": 9.0,
-          "humedad": 91,
-          "viento": 0.8,
+          "temperatura": 13.1,
+          "sensacion": 12.4,
+          "humedad": 73,
+          "viento": 7.4,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -303060,19 +303058,19 @@
           "lon": -3.458801
         },
         "clima": {
-          "temperatura": 11.7,
-          "sensacion": 11.3,
+          "temperatura": 16.7,
+          "sensacion": 16.8,
           "humedad": 89,
-          "viento": 13.9,
-          "descripcion": "nubes",
+          "viento": 18.3,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -304043,22 +304041,21 @@
           "lon": -3.930808
         },
         "clima": {
-          "temperatura": 12.2,
-          "sensacion": 11.9,
-          "humedad": 91,
-          "viento": 24.1,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 15.7,
+          "sensacion": 15.7,
+          "humedad": 90,
+          "viento": 33.3,
+          "descripcion": "cielo claro",
+          "icono": "01n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -310137,21 +310134,21 @@
           "lon": -4.021912
         },
         "clima": {
-          "temperatura": 7.5,
-          "sensacion": 5.3,
-          "humedad": 68,
-          "viento": 11.8,
+          "temperatura": 11.1,
+          "sensacion": 9.9,
+          "humedad": 63,
+          "viento": 8.9,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 50,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 80,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -311598,10 +311595,10 @@
           "lon": -3.682464
         },
         "clima": {
-          "temperatura": 10.2,
-          "sensacion": 9.8,
-          "humedad": 95,
-          "viento": 3.5,
+          "temperatura": 12.6,
+          "sensacion": 12.4,
+          "humedad": 94,
+          "viento": 3.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -312873,19 +312870,19 @@
           "lon": -4.131724
         },
         "clima": {
-          "temperatura": 11.3,
-          "sensacion": 10.9,
-          "humedad": 92,
-          "viento": 6.4,
+          "temperatura": 15.1,
+          "sensacion": 15.0,
+          "humedad": 90,
+          "viento": 11.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -323456,19 +323453,19 @@
           "lon": -3.982821
         },
         "clima": {
-          "temperatura": 12.1,
-          "sensacion": 11.9,
-          "humedad": 97,
-          "viento": 16.3,
-          "descripcion": "nubes",
+          "temperatura": 15.9,
+          "sensacion": 15.8,
+          "humedad": 90,
+          "viento": 19.6,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -327083,21 +327080,21 @@
           "lon": -3.73326
         },
         "clima": {
-          "temperatura": 7.9,
-          "sensacion": 6.2,
-          "humedad": 95,
-          "viento": 9.6,
+          "temperatura": 10.1,
+          "sensacion": 9.7,
+          "humedad": 96,
+          "viento": 19.9,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 50,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 80,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -328254,19 +328251,19 @@
           "lon": -4.291458
         },
         "clima": {
-          "temperatura": 12.2,
-          "sensacion": 12.0,
-          "humedad": 97,
-          "viento": 5.8,
+          "temperatura": 16.1,
+          "sensacion": 16.1,
+          "humedad": 90,
+          "viento": 3.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -330817,21 +330814,22 @@
           "lon": -3.236496
         },
         "clima": {
-          "temperatura": 11.0,
-          "sensacion": 10.5,
-          "humedad": 90,
-          "viento": 16.3,
-          "descripcion": "nubes",
+          "temperatura": 14.3,
+          "sensacion": 14.2,
+          "humedad": 94,
+          "viento": 21.6,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (21 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -332240,21 +332238,22 @@
           "lon": -3.224204
         },
         "clima": {
-          "temperatura": 11.3,
-          "sensacion": 10.8,
-          "humedad": 90,
-          "viento": 16.5,
-          "descripcion": "nubes",
+          "temperatura": 14.6,
+          "sensacion": 14.6,
+          "humedad": 94,
+          "viento": 22.1,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (22 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -333983,19 +333982,19 @@
           "lon": -3.207403
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.4,
+          "temperatura": 15.2,
+          "sensacion": 15.1,
           "humedad": 89,
-          "viento": 15.5,
-          "descripcion": "nubes",
+          "viento": 21.6,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (21 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -334318,19 +334317,19 @@
           "lon": -3.530467
         },
         "clima": {
-          "temperatura": 11.8,
-          "sensacion": 11.3,
-          "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.4,
+          "sensacion": 15.2,
+          "humedad": 85,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -338153,22 +338152,21 @@
           "lon": -3.775916
         },
         "clima": {
-          "temperatura": 12.1,
-          "sensacion": 11.7,
-          "humedad": 89,
-          "viento": 24.1,
+          "temperatura": 15.7,
+          "sensacion": 15.7,
+          "humedad": 90,
+          "viento": 33.3,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -340733,10 +340731,10 @@
           "lon": -3.478354
         },
         "clima": {
-          "temperatura": 9.1,
-          "sensacion": 8.7,
-          "humedad": 95,
-          "viento": 5.0,
+          "temperatura": 11.3,
+          "sensacion": 11.0,
+          "humedad": 96,
+          "viento": 2.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -347260,10 +347258,10 @@
           "lon": -3.622626
         },
         "clima": {
-          "temperatura": 11.1,
-          "sensacion": 10.8,
-          "humedad": 94,
-          "viento": 11.4,
+          "temperatura": 14.2,
+          "sensacion": 14.0,
+          "humedad": 89,
+          "viento": 9.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -349783,19 +349781,19 @@
           "lon": -4.328809
         },
         "clima": {
-          "temperatura": 12.4,
-          "sensacion": 12.1,
-          "humedad": 90,
-          "viento": 4.7,
+          "temperatura": 16.3,
+          "sensacion": 16.3,
+          "humedad": 86,
+          "viento": 2.9,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -350026,19 +350024,19 @@
           "lon": -3.338045
         },
         "clima": {
-          "temperatura": 11.1,
-          "sensacion": 10.6,
+          "temperatura": 16.1,
+          "sensacion": 16.1,
           "humedad": 89,
-          "viento": 14.7,
-          "descripcion": "nubes",
+          "viento": 20.1,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (20 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -351493,21 +351491,22 @@
           "lon": -3.181543
         },
         "clima": {
-          "temperatura": 11.0,
-          "sensacion": 10.5,
-          "humedad": 90,
-          "viento": 16.9,
-          "descripcion": "nubes",
+          "temperatura": 14.2,
+          "sensacion": 14.1,
+          "humedad": 94,
+          "viento": 22.5,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (22 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -352840,21 +352839,22 @@
           "lon": -3.820076
         },
         "clima": {
-          "temperatura": 9.3,
-          "sensacion": 6.8,
-          "humedad": 95,
-          "viento": 17.0,
+          "temperatura": 11.5,
+          "sensacion": 11.2,
+          "humedad": 96,
+          "viento": 22.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (22 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -354811,22 +354811,21 @@
           "lon": -3.678275
         },
         "clima": {
-          "temperatura": 12.2,
-          "sensacion": 11.8,
-          "humedad": 89,
-          "viento": 24.1,
+          "temperatura": 16.0,
+          "sensacion": 16.0,
+          "humedad": 90,
+          "viento": 33.3,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -358987,10 +358986,10 @@
           "lon": -3.601745
         },
         "clima": {
-          "temperatura": 9.6,
-          "sensacion": 8.2,
-          "humedad": 95,
-          "viento": 10.1,
+          "temperatura": 11.8,
+          "sensacion": 11.6,
+          "humedad": 96,
+          "viento": 19.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -363498,22 +363497,21 @@
           "lon": -3.821299
         },
         "clima": {
-          "temperatura": 11.8,
-          "sensacion": 11.4,
+          "temperatura": 15.2,
+          "sensacion": 15.1,
           "humedad": 89,
-          "viento": 24.1,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "viento": 33.3,
+          "descripcion": "cielo claro",
+          "icono": "01n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -364510,21 +364508,22 @@
           "lon": -3.309731
         },
         "clima": {
-          "temperatura": 10.6,
-          "sensacion": 10.1,
-          "humedad": 89,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 14.4,
+          "sensacion": 14.2,
+          "humedad": 91,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -364909,10 +364908,10 @@
           "lon": -3.533908
         },
         "clima": {
-          "temperatura": 9.1,
-          "sensacion": 7.5,
-          "humedad": 95,
-          "viento": 10.0,
+          "temperatura": 11.3,
+          "sensacion": 11.0,
+          "humedad": 96,
+          "viento": 16.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -367536,10 +367535,10 @@
           "lon": -3.466933
         },
         "clima": {
-          "temperatura": 9.4,
-          "sensacion": 9.2,
-          "humedad": 95,
-          "viento": 4.9,
+          "temperatura": 11.7,
+          "sensacion": 11.4,
+          "humedad": 96,
+          "viento": 7.5,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -371899,19 +371898,19 @@
           "lon": -4.074212
         },
         "clima": {
-          "temperatura": 12.4,
-          "sensacion": 12.1,
-          "humedad": 92,
-          "viento": 6.4,
+          "temperatura": 16.2,
+          "sensacion": 16.2,
+          "humedad": 90,
+          "viento": 11.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -377398,21 +377397,22 @@
           "lon": -3.870389
         },
         "clima": {
-          "temperatura": 9.0,
-          "sensacion": 6.5,
-          "humedad": 87,
-          "viento": 17.1,
+          "temperatura": 11.5,
+          "sensacion": 10.9,
+          "humedad": 84,
+          "viento": 21.7,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (21 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -380589,10 +380589,10 @@
           "lon": -3.594201
         },
         "clima": {
-          "temperatura": 11.4,
-          "sensacion": 11.0,
+          "temperatura": 13.7,
+          "sensacion": 13.6,
           "humedad": 94,
-          "viento": 5.2,
+          "viento": 4.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -382152,21 +382152,22 @@
           "lon": -3.417305
         },
         "clima": {
-          "temperatura": 11.0,
-          "sensacion": 10.5,
-          "humedad": 90,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 14.2,
+          "sensacion": 14.0,
+          "humedad": 86,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -385735,19 +385736,19 @@
           "lon": -3.519172
         },
         "clima": {
-          "temperatura": 11.3,
-          "sensacion": 10.9,
-          "humedad": 89,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.7,
+          "sensacion": 15.6,
+          "humedad": 88,
+          "viento": 31.5,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (31 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -389242,10 +389243,10 @@
           "lon": -3.520601
         },
         "clima": {
-          "temperatura": 9.5,
-          "sensacion": 8.8,
-          "humedad": 95,
-          "viento": 6.6,
+          "temperatura": 11.8,
+          "sensacion": 11.5,
+          "humedad": 96,
+          "viento": 3.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -392981,10 +392982,10 @@
           "lon": -4.238159
         },
         "clima": {
-          "temperatura": 10.3,
-          "sensacion": 9.9,
-          "humedad": 97,
-          "viento": 8.3,
+          "temperatura": 14.1,
+          "sensacion": 14.0,
+          "humedad": 90,
+          "viento": 2.9,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -398948,19 +398949,20 @@
           "lon": -3.602143
         },
         "clima": {
-          "temperatura": 7.5,
-          "sensacion": 5.1,
-          "humedad": 90,
-          "viento": 13.6,
+          "temperatura": 9.8,
+          "sensacion": 6.8,
+          "humedad": 86,
+          "viento": 23.7,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
-          "puntuacion": 50,
+          "puntuacion": 55,
           "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (23 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#f59e0b"
         }
@@ -400883,19 +400885,19 @@
           "lon": -3.908934
         },
         "clima": {
-          "temperatura": 11.8,
-          "sensacion": 11.4,
-          "humedad": 90,
-          "viento": 9.6,
+          "temperatura": 15.2,
+          "sensacion": 15.0,
+          "humedad": 86,
+          "viento": 7.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -409570,19 +409572,19 @@
           "lon": -4.501713
         },
         "clima": {
-          "temperatura": 11.8,
-          "sensacion": 11.4,
-          "humedad": 90,
-          "viento": 6.7,
+          "temperatura": 15.3,
+          "sensacion": 15.1,
+          "humedad": 86,
+          "viento": 7.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -413589,10 +413591,10 @@
           "lon": -3.635302
         },
         "clima": {
-          "temperatura": 11.3,
-          "sensacion": 11.0,
-          "humedad": 94,
-          "viento": 14.0,
+          "temperatura": 14.7,
+          "sensacion": 14.4,
+          "humedad": 87,
+          "viento": 3.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -418964,19 +418966,19 @@
           "lon": -3.489946
         },
         "clima": {
-          "temperatura": 12.2,
-          "sensacion": 11.7,
-          "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 16.0,
+          "sensacion": 15.9,
+          "humedad": 86,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -421919,10 +421921,10 @@
           "lon": -4.122406
         },
         "clima": {
-          "temperatura": 9.8,
-          "sensacion": 8.0,
-          "humedad": 84,
-          "viento": 12.6,
+          "temperatura": 14.1,
+          "sensacion": 13.2,
+          "humedad": 63,
+          "viento": 3.7,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -425110,19 +425112,19 @@
           "lon": -3.571261
         },
         "clima": {
-          "temperatura": 12.2,
-          "sensacion": 11.7,
-          "humedad": 88,
-          "viento": 18.5,
+          "temperatura": 16.5,
+          "sensacion": 16.5,
+          "humedad": 89,
+          "viento": 31.5,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (31 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -428873,19 +428875,19 @@
           "lon": -4.399609
         },
         "clima": {
-          "temperatura": 11.3,
-          "sensacion": 10.8,
-          "humedad": 90,
-          "viento": 4.0,
+          "temperatura": 15.2,
+          "sensacion": 15.0,
+          "humedad": 86,
+          "viento": 2.7,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -438330,19 +438332,19 @@
           "lon": -3.596474
         },
         "clima": {
-          "temperatura": 12.0,
-          "sensacion": 11.6,
-          "humedad": 89,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.5,
+          "sensacion": 15.3,
+          "humedad": 86,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -443557,10 +443559,10 @@
           "lon": -4.259978
         },
         "clima": {
-          "temperatura": 8.1,
-          "sensacion": 5.3,
-          "humedad": 88,
-          "viento": 16.9,
+          "temperatura": 12.6,
+          "sensacion": 12.0,
+          "humedad": 83,
+          "viento": 6.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -452054,21 +452056,22 @@
           "lon": -3.221509
         },
         "clima": {
-          "temperatura": 10.8,
-          "sensacion": 10.2,
-          "humedad": 87,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 14.0,
+          "sensacion": 13.8,
+          "humedad": 90,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -452937,19 +452940,19 @@
           "lon": -3.254744
         },
         "clima": {
-          "temperatura": 11.8,
-          "sensacion": 11.3,
+          "temperatura": 15.2,
+          "sensacion": 15.1,
           "humedad": 89,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -455212,21 +455215,22 @@
           "lon": -3.622167
         },
         "clima": {
-          "temperatura": 9.0,
-          "sensacion": 7.4,
-          "humedad": 95,
-          "viento": 10.0,
+          "temperatura": 11.2,
+          "sensacion": 10.9,
+          "humedad": 96,
+          "viento": 21.1,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (21 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -457915,19 +457919,19 @@
           "lon": -3.945477
         },
         "clima": {
-          "temperatura": 12.4,
-          "sensacion": 12.0,
-          "humedad": 90,
-          "viento": 16.7,
-          "descripcion": "nubes",
+          "temperatura": 16.1,
+          "sensacion": 16.1,
+          "humedad": 89,
+          "viento": 21.7,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (21 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -462852,19 +462856,19 @@
           "lon": -4.037637
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.5,
-          "humedad": 93,
-          "viento": 6.4,
+          "temperatura": 15.6,
+          "sensacion": 15.6,
+          "humedad": 90,
+          "viento": 11.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -464327,19 +464331,20 @@
           "lon": -3.585779
         },
         "clima": {
-          "temperatura": 6.8,
-          "sensacion": 4.0,
-          "humedad": 89,
-          "viento": 14.8,
+          "temperatura": 9.0,
+          "sensacion": 5.8,
+          "humedad": 86,
+          "viento": 24.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "amarillo",
-          "puntuacion": 50,
+          "puntuacion": 55,
           "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "❄️ Hace mucho frío, abrígate bien con varias capas de ropa"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#f59e0b"
         }
@@ -465222,10 +465227,10 @@
           "lon": -3.789154
         },
         "clima": {
-          "temperatura": 9.8,
-          "sensacion": 7.7,
-          "humedad": 96,
-          "viento": 14.5,
+          "temperatura": 13.2,
+          "sensacion": 12.6,
+          "humedad": 81,
+          "viento": 12.9,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -466997,10 +467002,10 @@
           "lon": -3.495647
         },
         "clima": {
-          "temperatura": 11.7,
-          "sensacion": 11.4,
-          "humedad": 93,
-          "viento": 4.8,
+          "temperatura": 14.6,
+          "sensacion": 14.4,
+          "humedad": 90,
+          "viento": 1.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -471748,19 +471753,19 @@
           "lon": -3.310422
         },
         "clima": {
-          "temperatura": 11.3,
-          "sensacion": 10.8,
+          "temperatura": 16.3,
+          "sensacion": 16.3,
           "humedad": 89,
-          "viento": 14.6,
-          "descripcion": "nubes",
+          "viento": 20.4,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (20 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -472635,19 +472640,19 @@
           "lon": -3.571312
         },
         "clima": {
-          "temperatura": 12.5,
-          "sensacion": 12.2,
+          "temperatura": 16.8,
+          "sensacion": 16.9,
           "humedad": 89,
-          "viento": 13.5,
-          "descripcion": "nubes",
+          "viento": 18.4,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -475226,19 +475231,19 @@
           "lon": -3.454232
         },
         "clima": {
-          "temperatura": 12.1,
-          "sensacion": 11.7,
-          "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.8,
+          "sensacion": 15.7,
+          "humedad": 87,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -476693,22 +476698,21 @@
           "lon": -3.796123
         },
         "clima": {
-          "temperatura": 12.1,
-          "sensacion": 11.6,
-          "humedad": 87,
-          "viento": 24.1,
+          "temperatura": 15.8,
+          "sensacion": 15.7,
+          "humedad": 88,
+          "viento": 33.3,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -478845,19 +478849,19 @@
           "lon": -3.755588
         },
         "clima": {
-          "temperatura": 12.3,
-          "sensacion": 11.8,
-          "humedad": 87,
-          "viento": 18.5,
+          "temperatura": 16.0,
+          "sensacion": 16.0,
+          "humedad": 88,
+          "viento": 31.5,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (31 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -481368,10 +481372,10 @@
           "lon": -3.545874
         },
         "clima": {
-          "temperatura": 11.4,
-          "sensacion": 11.0,
-          "humedad": 94,
-          "viento": 5.4,
+          "temperatura": 13.7,
+          "sensacion": 13.6,
+          "humedad": 93,
+          "viento": 5.7,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -483543,10 +483547,10 @@
           "lon": -3.933109
         },
         "clima": {
-          "temperatura": 11.1,
-          "sensacion": 10.5,
-          "humedad": 89,
-          "viento": 9.6,
+          "temperatura": 14.5,
+          "sensacion": 14.2,
+          "humedad": 82,
+          "viento": 5.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -487222,10 +487226,10 @@
           "lon": -3.502745
         },
         "clima": {
-          "temperatura": 11.7,
-          "sensacion": 11.4,
-          "humedad": 95,
-          "viento": 8.5,
+          "temperatura": 14.0,
+          "sensacion": 13.9,
+          "humedad": 93,
+          "viento": 5.7,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -490609,19 +490613,19 @@
           "lon": -3.371812
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.4,
+          "temperatura": 15.6,
+          "sensacion": 15.5,
           "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -491872,21 +491876,22 @@
           "lon": -3.180183
         },
         "clima": {
-          "temperatura": 11.0,
-          "sensacion": 10.4,
+          "temperatura": 14.7,
+          "sensacion": 14.5,
           "humedad": 89,
-          "viento": 12.9,
-          "descripcion": "nubes",
+          "viento": 20.8,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (20 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -492723,21 +492728,22 @@
           "lon": -3.357867
         },
         "clima": {
-          "temperatura": 11.6,
-          "sensacion": 11.0,
+          "temperatura": 14.6,
+          "sensacion": 14.4,
           "humedad": 87,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -493950,19 +493956,19 @@
           "lon": -3.358781
         },
         "clima": {
-          "temperatura": 10.7,
-          "sensacion": 10.2,
+          "temperatura": 15.7,
+          "sensacion": 15.7,
           "humedad": 89,
-          "viento": 13.9,
-          "descripcion": "nubes",
+          "viento": 18.8,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -494649,10 +494655,10 @@
           "lon": -3.665723
         },
         "clima": {
-          "temperatura": 9.3,
-          "sensacion": 9.3,
-          "humedad": 95,
-          "viento": 1.6,
+          "temperatura": 11.6,
+          "sensacion": 11.3,
+          "humedad": 96,
+          "viento": 4.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -495248,10 +495254,10 @@
           "lon": -4.303259
         },
         "clima": {
-          "temperatura": 10.7,
-          "sensacion": 10.1,
-          "humedad": 89,
-          "viento": 10.8,
+          "temperatura": 14.6,
+          "sensacion": 14.3,
+          "humedad": 84,
+          "viento": 3.7,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -506291,10 +506297,10 @@
           "lon": -4.05832
         },
         "clima": {
-          "temperatura": 10.9,
-          "sensacion": 10.3,
+          "temperatura": 14.6,
+          "sensacion": 14.5,
           "humedad": 90,
-          "viento": 9.6,
+          "viento": 11.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -517866,19 +517872,19 @@
           "lon": -3.634679
         },
         "clima": {
-          "temperatura": 12.3,
-          "sensacion": 11.9,
-          "humedad": 87,
-          "viento": 18.5,
+          "temperatura": 16.4,
+          "sensacion": 16.4,
+          "humedad": 88,
+          "viento": 31.5,
           "descripcion": "algo de nubes",
           "icono": "02n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (31 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -520729,19 +520735,19 @@
           "lon": -3.46662
         },
         "clima": {
-          "temperatura": 11.6,
-          "sensacion": 11.2,
-          "humedad": 89,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 15.0,
+          "sensacion": 14.8,
+          "humedad": 86,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -523612,10 +523618,10 @@
           "lon": -3.446811
         },
         "clima": {
-          "temperatura": 11.3,
-          "sensacion": 10.8,
-          "humedad": 91,
-          "viento": 4.8,
+          "temperatura": 14.2,
+          "sensacion": 14.0,
+          "humedad": 87,
+          "viento": 1.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -525433,19 +525439,19 @@
           "lon": -3.521225
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.5,
-          "humedad": 91,
-          "viento": 4.8,
+          "temperatura": 15.1,
+          "sensacion": 14.9,
+          "humedad": 86,
+          "viento": 1.6,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -527720,19 +527726,19 @@
           "lon": -3.302722
         },
         "clima": {
-          "temperatura": 10.6,
-          "sensacion": 10.0,
+          "temperatura": 15.4,
+          "sensacion": 15.3,
           "humedad": 89,
-          "viento": 15.7,
-          "descripcion": "nubes",
+          "viento": 20.8,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (20 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -528063,21 +528069,22 @@
           "lon": -3.31472
         },
         "clima": {
-          "temperatura": 11.0,
-          "sensacion": 10.5,
-          "humedad": 89,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 14.4,
+          "sensacion": 14.3,
+          "humedad": 91,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -528770,19 +528777,19 @@
           "lon": -3.485242
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.5,
-          "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "temperatura": 16.4,
+          "sensacion": 16.4,
+          "humedad": 87,
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -530005,10 +530012,10 @@
           "lon": -3.559065
         },
         "clima": {
-          "temperatura": 10.6,
-          "sensacion": 10.1,
-          "humedad": 93,
-          "viento": 8.1,
+          "temperatura": 13.2,
+          "sensacion": 12.9,
+          "humedad": 92,
+          "viento": 6.7,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -531720,10 +531727,10 @@
           "lon": -3.62251
         },
         "clima": {
-          "temperatura": 10.6,
-          "sensacion": 10.1,
-          "humedad": 94,
-          "viento": 4.0,
+          "temperatura": 13.1,
+          "sensacion": 12.9,
+          "humedad": 93,
+          "viento": 2.5,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -532307,19 +532314,19 @@
           "lon": -3.482025
         },
         "clima": {
-          "temperatura": 11.1,
-          "sensacion": 10.6,
+          "temperatura": 16.1,
+          "sensacion": 16.1,
           "humedad": 89,
-          "viento": 12.9,
-          "descripcion": "nubes",
+          "viento": 17.8,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -533218,19 +533225,19 @@
           "lon": -4.300618
         },
         "clima": {
-          "temperatura": 12.9,
-          "sensacion": 12.6,
-          "humedad": 90,
-          "viento": 14.1,
+          "temperatura": 16.8,
+          "sensacion": 16.8,
+          "humedad": 87,
+          "viento": 12.7,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -537113,19 +537120,19 @@
           "lon": -3.359967
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.5,
+          "temperatura": 15.6,
+          "sensacion": 15.5,
           "humedad": 88,
-          "viento": 18.5,
-          "descripcion": "nubes",
-          "icono": "04n"
+          "viento": 25.9,
+          "descripcion": "nubes dispersas",
+          "icono": "03n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 75,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "💨 Viento moderado (25 km/h), sujeta bien tus pertenencias"
           ],
           "color": "#10b981"
         }
@@ -544668,19 +544675,19 @@
           "lon": -3.243897
         },
         "clima": {
-          "temperatura": 11.9,
-          "sensacion": 11.4,
+          "temperatura": 15.7,
+          "sensacion": 15.6,
           "humedad": 89,
-          "viento": 8.6,
-          "descripcion": "nubes",
+          "viento": 18.0,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -547255,19 +547262,19 @@
           "lon": -4.126247
         },
         "clima": {
-          "temperatura": 12.4,
-          "sensacion": 12.3,
-          "humedad": 97,
-          "viento": 13.3,
+          "temperatura": 16.3,
+          "sensacion": 16.4,
+          "humedad": 90,
+          "viento": 13.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -552558,19 +552565,19 @@
           "lon": -4.139529
         },
         "clima": {
-          "temperatura": 12.4,
-          "sensacion": 12.3,
-          "humedad": 97,
-          "viento": 12.7,
+          "temperatura": 16.3,
+          "sensacion": 16.4,
+          "humedad": 90,
+          "viento": 11.2,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -556597,19 +556604,19 @@
           "lon": -3.979376
         },
         "clima": {
-          "temperatura": 12.3,
-          "sensacion": 12.0,
-          "humedad": 90,
-          "viento": 9.6,
+          "temperatura": 15.9,
+          "sensacion": 15.8,
+          "humedad": 89,
+          "viento": 11.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -562652,19 +562659,19 @@
           "lon": -3.967279
         },
         "clima": {
-          "temperatura": 12.2,
-          "sensacion": 11.7,
-          "humedad": 89,
-          "viento": 9.6,
+          "temperatura": 15.7,
+          "sensacion": 15.4,
+          "humedad": 83,
+          "viento": 8.4,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -569303,19 +569310,19 @@
           "lon": -4.089038
         },
         "clima": {
-          "temperatura": 12.4,
-          "sensacion": 12.1,
-          "humedad": 93,
-          "viento": 6.4,
+          "temperatura": 16.2,
+          "sensacion": 16.2,
+          "humedad": 90,
+          "viento": 11.3,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -574574,21 +574581,22 @@
           "lon": -3.216706
         },
         "clima": {
-          "temperatura": 11.0,
-          "sensacion": 10.5,
-          "humedad": 90,
-          "viento": 16.1,
-          "descripcion": "nubes",
+          "temperatura": 14.4,
+          "sensacion": 14.3,
+          "humedad": 94,
+          "viento": 21.9,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (21 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -576905,19 +576913,19 @@
           "lon": -3.260582
         },
         "clima": {
-          "temperatura": 11.3,
-          "sensacion": 10.8,
+          "temperatura": 15.1,
+          "sensacion": 15.0,
           "humedad": 89,
-          "viento": 9.8,
-          "descripcion": "nubes",
+          "viento": 18.5,
+          "descripcion": "muy nuboso",
           "icono": "04n"
         },
         "indice": {
           "nivel": "verde",
-          "puntuacion": 80,
+          "puntuacion": 100,
           "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "✨ Condiciones perfectas para actividades al aire libre"
           ],
           "color": "#10b981"
         }
@@ -578636,22 +578644,21 @@
           "lon": -3.939837
         },
         "clima": {
-          "temperatura": 12.4,
-          "sensacion": 12.1,
-          "humedad": 91,
-          "viento": 24.1,
-          "descripcion": "muy nuboso",
-          "icono": "04n"
+          "temperatura": 15.9,
+          "sensacion": 15.9,
+          "humedad": 90,
+          "viento": 33.3,
+          "descripcion": "cielo claro",
+          "icono": "01n"
         },
         "indice": {
-          "nivel": "amarillo",
-          "puntuacion": 55,
-          "mensaje": "Aceptable con precauciones",
+          "nivel": "verde",
+          "puntuacion": 75,
+          "mensaje": "Excelente para salir",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
-            "💨 Viento moderado (24 km/h), sujeta bien tus pertenencias"
+            "💨 Viento moderado (33 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#f59e0b"
+          "color": "#10b981"
         }
       },
       "geometry": {
@@ -583848,21 +583855,22 @@
           "lon": -3.670985
         },
         "clima": {
-          "temperatura": 9.6,
-          "sensacion": 8.2,
-          "humedad": 95,
-          "viento": 9.5,
+          "temperatura": 11.8,
+          "sensacion": 11.6,
+          "humedad": 96,
+          "viento": 21.4,
           "descripcion": "nubes",
           "icono": "04n"
         },
         "indice": {
-          "nivel": "verde",
-          "puntuacion": 80,
-          "mensaje": "Excelente para salir",
+          "nivel": "amarillo",
+          "puntuacion": 55,
+          "mensaje": "Aceptable con precauciones",
           "consejos": [
-            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero"
+            "🧥 Hace algo de frío, lleva una chaqueta o abrigo ligero",
+            "💨 Viento moderado (21 km/h), sujeta bien tus pertenencias"
           ],
-          "color": "#10b981"
+          "color": "#f59e0b"
         }
       },
       "geometry": {
@@ -586139,10 +586147,10 @@
           "lon": -4.180944
         },
         "clima": {
-          "temperatura": 9.7,
-          "sensacion": 7.8,
-          "humedad": 91,
-          "viento": 13.2,
+          "temperatura": 13.5,
+          "sensacion": 13.2,
+          "humedad": 90,
+          "viento": 5.0,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -587722,10 +587730,10 @@
           "lon": -3.606349
         },
         "clima": {
-          "temperatura": 9.8,
-          "sensacion": 9.3,
-          "humedad": 95,
-          "viento": 5.7,
+          "temperatura": 12.0,
+          "sensacion": 11.8,
+          "humedad": 96,
+          "viento": 2.0,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -589117,10 +589125,10 @@
           "lon": -3.568074
         },
         "clima": {
-          "temperatura": 10.4,
-          "sensacion": 10.0,
-          "humedad": 95,
-          "viento": 6.9,
+          "temperatura": 12.6,
+          "sensacion": 12.4,
+          "humedad": 96,
+          "viento": 4.5,
           "descripcion": "nubes",
           "icono": "04n"
         },
@@ -594780,10 +594788,10 @@
           "lon": -3.743271
         },
         "clima": {
-          "temperatura": 11.4,
-          "sensacion": 10.9,
-          "humedad": 91,
-          "viento": 14.5,
+          "temperatura": 14.8,
+          "sensacion": 14.6,
+          "humedad": 87,
+          "viento": 12.9,
           "descripcion": "nubes",
           "icono": "04n"
         },
